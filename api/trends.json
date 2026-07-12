@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T06:43:55.620940+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2026-07-13T07:51:12.948148+08:00",
+  "total_titles_processed": 517,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "为什么台风预报的时候来势汹汹，但真登陆了感觉没有那么强烈？",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 06时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时57分 ~ 07时51分]"
         },
         {
           "title": "为什么中国人这么喜欢哈兰德",
@@ -42,8 +42,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 06时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时57分 ~ 07时51分]"
         },
         {
           "title": "为什么现在分享个人经历，很多人会用「创伤」来定义自己的感受？「创伤叙事」是不是被滥用了？",
@@ -53,8 +53,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 06时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时57分 ~ 07时51分]"
         },
         {
           "title": "网友用虹吸原理巧吸窗台积水",
@@ -68,8 +68,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 06时43分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时51分]"
         },
         {
           "title": "网友用虹吸原理巧吸窗台积水",
@@ -79,11 +79,26 @@
             19,
             17,
             10,
-            26
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 07时51分]"
+        },
+        {
+          "title": "阿根廷队为什么总是能逆转",
+          "url": "https://www.toutiao.com/trending/7661493142062972970/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            24,
+            28,
+            30
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时57分 ~ 04时42分]"
+          "time_info": "[00时57分 ~ 07时51分]"
         },
         {
           "title": "太原理工勇夺第28届CUBAL冠军",
@@ -93,19 +108,6 @@
             14,
             15,
             18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 03时11分]"
-        },
-        {
-          "title": "阿根廷队为什么总是能逆转",
-          "url": "https://www.toutiao.com/trending/7661493142062972970/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            24,
-            28
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -122,6 +124,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时42分 ~ 05时45分]"
+        },
+        {
+          "title": "为什么有些写作者在长期毫无正反馈的情况下，依然能抵抗住放弃的冲动，最终完成作品？",
+          "url": "https://www.zhihu.com/question/2057915521518113864",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 07时51分]"
         }
       ]
     }
