@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T14:14:08.833697+08:00",
-  "total_titles_processed": 774,
+  "generated_at": "2026-07-12T17:02:31.962551+08:00",
+  "total_titles_processed": 903,
   "failed_sources": [],
   "trends": [
     {
@@ -75,6 +75,18 @@
           "time_info": "[01时04分 ~ 07时02分]"
         },
         {
+          "title": "为什么这次的台风巴威会这样铺天盖地的宣传，身边以前不关注的人也抢物资，是什么原因造成的？",
+          "url": "https://www.zhihu.com/question/2058922856549970490",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时33分 ~ 17时02分]"
+        },
+        {
           "title": "长征十号乙回收时为什么会冒出大量黑烟？",
           "url": "https://www.zhihu.com/question/2058945292020315835",
           "source": "知乎",
@@ -88,16 +100,16 @@
           "time_info": "[03时14分 ~ 07时02分]"
         },
         {
-          "title": "为什么这次的台风巴威会这样铺天盖地的宣传，身边以前不关注的人也抢物资，是什么原因造成的？",
-          "url": "https://www.zhihu.com/question/2058922856549970490",
+          "title": "云南花 4950 万元建的政务 App「曲靖通」关停，仅运营 4 年多，为什么会这样？暴露出哪些问题？",
+          "url": "https://www.zhihu.com/question/2058201950458590326",
           "source": "知乎",
           "ranks": [
-            6,
-            4
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时33分 ~ 14时14分]"
+          "appearance_count": 4,
+          "time_info": "[11时33分 ~ 17时02分]"
         },
         {
           "title": "《潜伏》里的李涯很能干，但是站长为什么更喜欢余则成？",
@@ -111,16 +123,17 @@
           "time_info": "[01时04分 ~ 04时59分]"
         },
         {
-          "title": "云南花 4950 万元建的政务 App「曲靖通」关停，仅运营 4 年多，为什么会这样？暴露出哪些问题？",
-          "url": "https://www.zhihu.com/question/2058201950458590326",
+          "title": "为什么 2026 年，大家才发现英雄联盟「adc」位置不需要 ad 射手？",
+          "url": "https://www.zhihu.com/question/2058595980682040766",
           "source": "知乎",
           "ranks": [
-            7,
-            6
+            10,
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时33分 ~ 14时14分]"
+          "appearance_count": 4,
+          "time_info": "[11时33分 ~ 17时02分]"
         },
         {
           "title": "为什么《爱情公寓》经久不衰，百看不厌？",
@@ -133,18 +146,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时01分 ~ 11时33分]"
-        },
-        {
-          "title": "为什么 2026 年，大家才发现英雄联盟「adc」位置不需要 ad 射手？",
-          "url": "https://www.zhihu.com/question/2058595980682040766",
-          "source": "知乎",
-          "ranks": [
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时33分 ~ 14时14分]"
         },
         {
           "title": "世界杯黄牌为什么VAR能介入",
