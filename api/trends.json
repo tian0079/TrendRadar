@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T04:42:10.346541+08:00",
-  "total_titles_processed": 379,
+  "generated_at": "2026-07-13T05:45:07.488393+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 04时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 05时45分]"
         },
         {
           "title": "为什么中国人这么喜欢哈兰德",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 04时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 05时45分]"
         },
         {
           "title": "太原理工击败清华夺得CUBAL冠军",
@@ -37,11 +37,23 @@
             8,
             9,
             6,
-            25
+            25,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 04时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 05时45分]"
+        },
+        {
+          "title": "为什么现在分享个人经历，很多人会用「创伤」来定义自己的感受？「创伤叙事」是不是被滥用了？",
+          "url": "https://www.zhihu.com/question/2057492254889964985",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 05时45分]"
         },
         {
           "title": "网友用虹吸原理巧吸窗台积水",
@@ -52,17 +64,6 @@
             17,
             10,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 04时42分]"
-        },
-        {
-          "title": "为什么现在分享个人经历，很多人会用「创伤」来定义自己的感受？「创伤叙事」是不是被滥用了？",
-          "url": "https://www.zhihu.com/question/2057492254889964985",
-          "source": "知乎",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -81,17 +82,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时57分 ~ 04时42分]"
-        },
-        {
-          "title": "为什么油价下跌尚未导致通胀下降",
-          "url": "https://flash.jin10.com/detail/20260713033122306800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
         },
         {
           "title": "太原理工勇夺第28届CUBAL冠军",
@@ -118,6 +108,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时57分 ~ 03时11分]"
+        },
+        {
+          "title": "为什么油价下跌尚未导致通胀下降",
+          "url": "https://flash.jin10.com/detail/20260713033122306800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时45分]"
         }
       ]
     }
