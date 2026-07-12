@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T22:53:36.185001+08:00",
-  "total_titles_processed": 1273,
+  "generated_at": "2026-07-12T23:56:56.034022+08:00",
+  "total_titles_processed": 1323,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "为什么这次的台风巴威会这样铺天盖地的宣传，身边以前不关注的人也抢物资，是什么原因造成的？",
@@ -21,6 +21,19 @@
           "time_info": "[11时33分 ~ 18时41分]"
         },
         {
+          "title": "为什么台风预报的时候来势汹汹，但真登陆了感觉没有那么强烈？",
+          "url": "https://www.zhihu.com/question/1943291837109478434",
+          "source": "知乎",
+          "ranks": [
+            16,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时40分 ~ 23时56分]"
+        },
+        {
           "title": "不到两年现炒称重快餐纷纷倒闭，顾客为什么放弃了自选称重快餐？",
           "url": "https://www.zhihu.com/question/2028079560181171761",
           "source": "知乎",
@@ -34,19 +47,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时04分 ~ 07时02分]"
-        },
-        {
-          "title": "为什么台风预报的时候来势汹汹，但真登陆了感觉没有那么强烈？",
-          "url": "https://www.zhihu.com/question/1943291837109478434",
-          "source": "知乎",
-          "ranks": [
-            16,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时40分 ~ 22时53分]"
         },
         {
           "title": "云南花 4950 万元建的政务 App「曲靖通」关停，仅运营 4 年多，为什么会这样？暴露出哪些问题？",
@@ -152,6 +152,18 @@
           "time_info": "[01时04分 ~ 04时59分]"
         },
         {
+          "title": "为什么中国人这么喜欢哈兰德",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%BF%99%E4%B9%88%E5%96%9C%E6%AC%A2%E5%93%88%E5%85%B0%E5%BE%B7",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 23时56分]"
+        },
+        {
           "title": "为什么《爱情公寓》经久不衰，百看不厌？",
           "url": "https://www.zhihu.com/question/63115033",
           "source": "知乎",
@@ -164,16 +176,15 @@
           "time_info": "[07时01分 ~ 11时33分]"
         },
         {
-          "title": "为什么中国人这么喜欢哈兰德",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%BF%99%E4%B9%88%E5%96%9C%E6%AC%A2%E5%93%88%E5%85%B0%E5%BE%B7",
-          "source": "百度热搜",
+          "title": "为什么现在分享个人经历，很多人会用「创伤」来定义自己的感受？「创伤叙事」是不是被滥用了？",
+          "url": "https://www.zhihu.com/question/2057492254889964985",
+          "source": "知乎",
           "ranks": [
-            19,
-            7
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时15分 ~ 22时53分]"
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 23时56分]"
         },
         {
           "title": "世界杯黄牌为什么VAR能介入",
@@ -187,15 +198,51 @@
           "time_info": "[14时13分 ~ 14时14分]"
         },
         {
-          "title": "为什么现在分享个人经历，很多人会用「创伤」来定义自己的感受？「创伤叙事」是不是被滥用了？",
-          "url": "https://www.zhihu.com/question/2057492254889964985",
-          "source": "知乎",
+          "title": "网友用虹吸原理巧吸窗台积水",
+          "url": "https://www.toutiao.com/trending/7661613861346279462/",
+          "source": "今日头条",
           "ranks": [
-            15
+            9,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时15分 ~ 22时53分]"
+          "time_info": "[22时53分 ~ 23时56分]"
+        },
+        {
+          "title": "太原理工击败清华夺得CUBAL冠军",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AA%E5%8E%9F%E7%90%86%E5%B7%A5%E5%87%BB%E8%B4%A5%E6%B8%85%E5%8D%8E%E5%A4%BA%E5%BE%97CUBAL%E5%86%A0%E5%86%9B",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 23时56分]"
+        },
+        {
+          "title": "太原理工勇夺第28届CUBAL冠军",
+          "url": "https://www.douyin.com/hot/2568761",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 23时56分]"
+        },
+        {
+          "title": "网友用虹吸原理巧吸窗台积水",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%94%A8%E8%99%B9%E5%90%B8%E5%8E%9F%E7%90%86%E5%B7%A7%E5%90%B8%E7%AA%97%E5%8F%B0%E7%A7%AF%E6%B0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 23时56分]"
         },
         {
           "title": "为什么中国人这么喜欢哈兰德",
@@ -209,28 +256,6 @@
           "time_info": "[18时40分 ~ 18时41分]"
         },
         {
-          "title": "网友用虹吸原理巧吸窗台积水",
-          "url": "https://www.toutiao.com/trending/7661613861346279462/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时53分"
-        },
-        {
-          "title": "太原理工勇夺第28届CUBAL冠军",
-          "url": "https://www.douyin.com/hot/2568761",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时53分"
-        },
-        {
           "title": "为什么这次的台风巴威会这样铺天盖地宣传，身边以前不关注的人也抢物资，是什么原因造成的？",
           "url": "https://www.zhihu.com/question/2058922856549970490",
           "source": "知乎",
@@ -242,37 +267,26 @@
           "time_info": "19时57分"
         },
         {
-          "title": "太原理工击败清华夺得CUBAL冠军",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AA%E5%8E%9F%E7%90%86%E5%B7%A5%E5%87%BB%E8%B4%A5%E6%B8%85%E5%8D%8E%E5%A4%BA%E5%BE%97CUBAL%E5%86%A0%E5%86%9B",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时53分"
-        },
-        {
           "title": "太原理工大学CUBAL冠军",
           "url": "https://s.weibo.com/weibo?q=%E5%A4%AA%E5%8E%9F%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6CUBAL%E5%86%A0%E5%86%9B&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
         {
-          "title": "网友用虹吸原理巧吸窗台积水",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%94%A8%E8%99%B9%E5%90%B8%E5%8E%9F%E7%90%86%E5%B7%A7%E5%90%B8%E7%AA%97%E5%8F%B0%E7%A7%AF%E6%B0%B4",
-          "source": "百度热搜",
+          "title": "阿根廷队为什么总是能逆转",
+          "url": "https://www.toutiao.com/trending/7661493142062972970/",
+          "source": "今日头条",
           "ranks": [
-            25
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时53分"
+          "time_info": "23时56分"
         }
       ]
     }
