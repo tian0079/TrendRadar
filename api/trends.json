@@ -1,179 +1,55 @@
 {
-  "generated_at": "2026-07-12T23:56:56.034022+08:00",
-  "total_titles_processed": 1323,
+  "generated_at": "2026-07-13T00:57:24.225515+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 23,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "为什么这次的台风巴威会这样铺天盖地的宣传，身边以前不关注的人也抢物资，是什么原因造成的？",
-          "url": "https://www.zhihu.com/question/2058922856549970490",
-          "source": "知乎",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时33分 ~ 18时41分]"
-        },
         {
           "title": "为什么台风预报的时候来势汹汹，但真登陆了感觉没有那么强烈？",
           "url": "https://www.zhihu.com/question/1943291837109478434",
           "source": "知乎",
           "ranks": [
-            16,
-            3,
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时40分 ~ 23时56分]"
-        },
-        {
-          "title": "不到两年现炒称重快餐纷纷倒闭，顾客为什么放弃了自选称重快餐？",
-          "url": "https://www.zhihu.com/question/2028079560181171761",
-          "source": "知乎",
-          "ranks": [
-            3,
-            6,
-            14,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 07时02分]"
-        },
-        {
-          "title": "云南花 4950 万元建的政务 App「曲靖通」关停，仅运营 4 年多，为什么会这样？暴露出哪些问题？",
-          "url": "https://www.zhihu.com/question/2058201950458590326",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时33分 ~ 19时57分]"
-        },
-        {
-          "title": "为什么西班牙蓝鳍金枪鱼被公认为高端食材？有什么方法让普通人也能平价吃到正宗蓝鳍金枪鱼？",
-          "url": "https://www.zhihu.com/question/2058955809854379421",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 07时02分]"
-        },
-        {
-          "title": "为什么不能用炸弹摧毁台风",
-          "url": "https://www.toutiao.com/trending/7661051506922618916/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 07时02分]"
-        },
-        {
-          "title": "视频丨为什么要回收火箭？答案来了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33564244",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 07时02分]"
-        },
-        {
-          "title": "海贼王为什么剧情为什么越来越差？",
-          "url": "https://www.zhihu.com/question/2046153844078523322",
-          "source": "知乎",
-          "ranks": [
-            16,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 07时02分]"
-        },
-        {
-          "title": "为什么 2026 年，大家才发现英雄联盟「adc」位置不需要 ad 射手？",
-          "url": "https://www.zhihu.com/question/2058595980682040766",
-          "source": "知乎",
-          "ranks": [
-            10,
-            13,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时33分 ~ 18时41分]"
-        },
-        {
-          "title": "长征十号乙回收时为什么会冒出大量黑烟？",
-          "url": "https://www.zhihu.com/question/2058945292020315835",
-          "source": "知乎",
-          "ranks": [
-            20,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时14分 ~ 07时02分]"
-        },
-        {
-          "title": "《潜伏》里的李涯很能干，但是站长为什么更喜欢余则成？",
-          "url": "https://www.zhihu.com/question/823558160",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 04时59分]"
+          "appearance_count": 1,
+          "time_info": "00时57分"
         },
         {
           "title": "为什么中国人这么喜欢哈兰德",
           "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%BF%99%E4%B9%88%E5%96%9C%E6%AC%A2%E5%93%88%E5%85%B0%E5%BE%B7",
           "source": "百度热搜",
           "ranks": [
-            19,
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时15分 ~ 23时56分]"
+          "appearance_count": 1,
+          "time_info": "00时57分"
         },
         {
-          "title": "为什么《爱情公寓》经久不衰，百看不厌？",
-          "url": "https://www.zhihu.com/question/63115033",
-          "source": "知乎",
+          "title": "太原理工击败清华夺得CUBAL冠军",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AA%E5%8E%9F%E7%90%86%E5%B7%A5%E5%87%BB%E8%B4%A5%E6%B8%85%E5%8D%8E%E5%A4%BA%E5%BE%97CUBAL%E5%86%A0%E5%86%9B",
+          "source": "百度热搜",
           "ranks": [
-            8,
-            15
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时01分 ~ 11时33分]"
+          "appearance_count": 1,
+          "time_info": "00时57分"
+        },
+        {
+          "title": "太原理工勇夺第28届CUBAL冠军",
+          "url": "https://www.douyin.com/hot/2568761",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时57分"
         },
         {
           "title": "为什么现在分享个人经历，很多人会用「创伤」来定义自己的感受？「创伤叙事」是不是被滥用了？",
@@ -183,110 +59,41 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时15分 ~ 23时56分]"
-        },
-        {
-          "title": "世界杯黄牌为什么VAR能介入",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E9%BB%84%E7%89%8C%E4%B8%BA%E4%BB%80%E4%B9%88VAR%E8%83%BD%E4%BB%8B%E5%85%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时13分 ~ 14时14分]"
+          "appearance_count": 1,
+          "time_info": "00时57分"
         },
         {
           "title": "网友用虹吸原理巧吸窗台积水",
           "url": "https://www.toutiao.com/trending/7661613861346279462/",
           "source": "今日头条",
           "ranks": [
-            9,
-            18
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时53分 ~ 23时56分]"
-        },
-        {
-          "title": "太原理工击败清华夺得CUBAL冠军",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AA%E5%8E%9F%E7%90%86%E5%B7%A5%E5%87%BB%E8%B4%A5%E6%B8%85%E5%8D%8E%E5%A4%BA%E5%BE%97CUBAL%E5%86%A0%E5%86%9B",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时53分 ~ 23时56分]"
-        },
-        {
-          "title": "太原理工勇夺第28届CUBAL冠军",
-          "url": "https://www.douyin.com/hot/2568761",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时53分 ~ 23时56分]"
+          "appearance_count": 1,
+          "time_info": "00时57分"
         },
         {
           "title": "网友用虹吸原理巧吸窗台积水",
           "url": "https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%94%A8%E8%99%B9%E5%90%B8%E5%8E%9F%E7%90%86%E5%B7%A7%E5%90%B8%E7%AA%97%E5%8F%B0%E7%A7%AF%E6%B0%B4",
           "source": "百度热搜",
           "ranks": [
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时53分 ~ 23时56分]"
-        },
-        {
-          "title": "为什么中国人这么喜欢哈兰德",
-          "url": "https://www.toutiao.com/trending/7661223383362702894/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时40分 ~ 18时41分]"
-        },
-        {
-          "title": "为什么这次的台风巴威会这样铺天盖地宣传，身边以前不关注的人也抢物资，是什么原因造成的？",
-          "url": "https://www.zhihu.com/question/2058922856549970490",
-          "source": "知乎",
-          "ranks": [
-            13
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时57分"
-        },
-        {
-          "title": "太原理工大学CUBAL冠军",
-          "url": "https://s.weibo.com/weibo?q=%E5%A4%AA%E5%8E%9F%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6CUBAL%E5%86%A0%E5%86%9B&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时53分"
+          "time_info": "00时57分"
         },
         {
           "title": "阿根廷队为什么总是能逆转",
           "url": "https://www.toutiao.com/trending/7661493142062972970/",
           "source": "今日头条",
           "ranks": [
-            24
+            22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时56分"
+          "time_info": "00时57分"
         }
       ]
     }
