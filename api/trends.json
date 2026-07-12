@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T05:45:07.488393+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-07-13T06:43:55.620940+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 05时45分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 06时43分]"
         },
         {
           "title": "为什么中国人这么喜欢哈兰德",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 05时45分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 06时43分]"
         },
         {
           "title": "太原理工击败清华夺得CUBAL冠军",
@@ -38,11 +38,12 @@
             9,
             6,
             25,
-            19
+            19,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 05时45分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 06时43分]"
         },
         {
           "title": "为什么现在分享个人经历，很多人会用「创伤」来定义自己的感受？「创伤叙事」是不是被滥用了？",
@@ -52,8 +53,23 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 05时45分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 06时43分]"
+        },
+        {
+          "title": "网友用虹吸原理巧吸窗台积水",
+          "url": "https://www.toutiao.com/trending/7661613861346279462/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            20,
+            29,
+            30,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时43分]"
         },
         {
           "title": "网友用虹吸原理巧吸窗台积水",
@@ -64,20 +80,6 @@
             17,
             10,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 04时42分]"
-        },
-        {
-          "title": "网友用虹吸原理巧吸窗台积水",
-          "url": "https://www.toutiao.com/trending/7661613861346279462/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            20,
-            29,
-            30
           ],
           "is_new": false,
           "appearance_count": 7,
