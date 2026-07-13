@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T14:13:11.415165+08:00",
-  "total_titles_processed": 887,
+  "generated_at": "2026-07-13T18:22:20.511079+08:00",
+  "total_titles_processed": 1095,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "为什么台风预报的时候来势汹汹，但真登陆了感觉没有那么强烈？",
@@ -87,6 +87,33 @@
           "time_info": "[00时57分 ~ 07时51分]"
         },
         {
+          "title": "如何评价赛力斯 2026 年上半年预计亏损 15-18 亿？为什么销量不低却依然巨亏？",
+          "url": "https://www.zhihu.com/question/2059697862565536691",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时12分 ~ 18时22分]"
+        },
+        {
+          "title": "太原理工勇夺第28届CUBAL冠军",
+          "url": "https://www.douyin.com/hot/2568761",
+          "source": "抖音",
+          "ranks": [
+            14,
+            15,
+            18,
+            25,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 18时22分]"
+        },
+        {
           "title": "阿根廷队为什么总是能逆转",
           "url": "https://www.toutiao.com/trending/7661493142062972970/",
           "source": "今日头条",
@@ -101,29 +128,17 @@
           "time_info": "[00时57分 ~ 07时51分]"
         },
         {
-          "title": "如何评价赛力斯 2026 年上半年预计亏损 15-18 亿？为什么销量不低却依然巨亏？",
-          "url": "https://www.zhihu.com/question/2059697862565536691",
+          "title": "为什么要蒸唐僧，而不是炒呢？",
+          "url": "https://www.zhihu.com/question/2047108856132776930",
           "source": "知乎",
           "ranks": [
-            2
+            10,
+            16,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时12分 ~ 14时13分]"
-        },
-        {
-          "title": "太原理工勇夺第28届CUBAL冠军",
-          "url": "https://www.douyin.com/hot/2568761",
-          "source": "抖音",
-          "ranks": [
-            14,
-            15,
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 10时24分]"
+          "appearance_count": 4,
+          "time_info": "[10时24分 ~ 18时22分]"
         },
         {
           "title": "为什么油价下跌尚未导致通胀下降",
@@ -138,18 +153,6 @@
           "time_info": "[04时42分 ~ 05时45分]"
         },
         {
-          "title": "为什么要蒸唐僧，而不是炒呢？",
-          "url": "https://www.zhihu.com/question/2047108856132776930",
-          "source": "知乎",
-          "ranks": [
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时24分 ~ 14时13分]"
-        },
-        {
           "title": "番茄旗下付费网文站「红烛」宣告倒闭，字节为什么玩不转付费模式？",
           "url": "https://www.zhihu.com/question/2059117314616907688",
           "source": "知乎",
@@ -160,6 +163,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时24分 ~ 14时13分]"
+        },
+        {
+          "title": "观众为什么喜欢周星驰",
+          "url": "https://www.douyin.com/hot/2567849",
+          "source": "抖音",
+          "ranks": [
+            26,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时12分 ~ 18时22分]"
         },
         {
           "title": "黄金为什么跌",
@@ -184,15 +199,26 @@
           "time_info": "[07时50分 ~ 07时51分]"
         },
         {
-          "title": "观众为什么喜欢周星驰",
-          "url": "https://www.douyin.com/hot/2567849",
-          "source": "抖音",
+          "title": "说一个减肥的冷知识",
+          "url": "https://s.weibo.com/weibo?q=%E8%AF%B4%E4%B8%80%E4%B8%AA%E5%87%8F%E8%82%A5%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
-            26
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时12分 ~ 14时13分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "公司说全员降薪 20% 不接受就走人，第二天有同事没有来，公司人事却联系，说让休息一天后复岗，为什么？",
+          "url": "https://www.zhihu.com/question/2059237272705316521",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         }
       ]
     }
