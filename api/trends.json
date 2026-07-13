@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T04:12:07.399725+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-07-14T05:53:44.237986+08:00",
+  "total_titles_processed": 552,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 04时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 05时53分]"
         },
         {
           "title": "如何评价赛力斯 2026 年上半年预计亏损 15-18 亿？为什么销量不低却依然巨亏？",
@@ -27,11 +27,12 @@
           "ranks": [
             4,
             12,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 04时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 05时53分]"
         },
         {
           "title": "公司说全员降薪 20% 不接受就走人，第二天有同事没有来，公司人事却联系，说让休息一天后复岗，为什么？",
@@ -41,8 +42,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 04时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 05时53分]"
         },
         {
           "title": "为什么说中餐正在悄悄退化？",
@@ -54,8 +55,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 04时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 05时53分]"
         },
         {
           "title": "为什么工作痛苦但不离职",
@@ -63,11 +64,12 @@
           "source": "微博",
           "ranks": [
             14,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时42分 ~ 04时12分]"
+          "appearance_count": 4,
+          "time_info": "[02时42分 ~ 05时53分]"
         },
         {
           "title": "为什么江苏本科提前批投档线，中国人民公安大学只比清华大学低三分？",
