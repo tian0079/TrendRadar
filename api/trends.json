@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T10:24:46.246013+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2026-07-13T14:13:11.415165+08:00",
+  "total_titles_processed": 887,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "为什么台风预报的时候来势汹汹，但真登陆了感觉没有那么强烈？",
@@ -101,6 +101,17 @@
           "time_info": "[00时57分 ~ 07时51分]"
         },
         {
+          "title": "如何评价赛力斯 2026 年上半年预计亏损 15-18 亿？为什么销量不低却依然巨亏？",
+          "url": "https://www.zhihu.com/question/2059697862565536691",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时12分 ~ 14时13分]"
+        },
+        {
           "title": "太原理工勇夺第28届CUBAL冠军",
           "url": "https://www.douyin.com/hot/2568761",
           "source": "抖音",
@@ -127,6 +138,41 @@
           "time_info": "[04时42分 ~ 05时45分]"
         },
         {
+          "title": "为什么要蒸唐僧，而不是炒呢？",
+          "url": "https://www.zhihu.com/question/2047108856132776930",
+          "source": "知乎",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时24分 ~ 14时13分]"
+        },
+        {
+          "title": "番茄旗下付费网文站「红烛」宣告倒闭，字节为什么玩不转付费模式？",
+          "url": "https://www.zhihu.com/question/2059117314616907688",
+          "source": "知乎",
+          "ranks": [
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时24分 ~ 14时13分]"
+        },
+        {
+          "title": "黄金为什么跌",
+          "url": "https://www.toutiao.com/trending/7661837118854925843/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时12分 ~ 14时13分]"
+        },
+        {
           "title": "为什么有些写作者在长期毫无正反馈的情况下，依然能抵抗住放弃的冲动，最终完成作品？",
           "url": "https://www.zhihu.com/question/2057915521518113864",
           "source": "知乎",
@@ -138,26 +184,15 @@
           "time_info": "[07时50分 ~ 07时51分]"
         },
         {
-          "title": "为什么要蒸唐僧，而不是炒呢？",
-          "url": "https://www.zhihu.com/question/2047108856132776930",
-          "source": "知乎",
+          "title": "观众为什么喜欢周星驰",
+          "url": "https://www.douyin.com/hot/2567849",
+          "source": "抖音",
           "ranks": [
-            10
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
-          "title": "番茄旗下付费网文站「红烛」宣告倒闭，字节为什么玩不转付费模式？",
-          "url": "https://www.zhihu.com/question/2059117314616907688",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时12分 ~ 14时13分]"
         }
       ]
     }
