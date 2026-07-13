@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T05:53:44.237986+08:00",
-  "total_titles_processed": 552,
+  "generated_at": "2026-07-14T06:53:47.321158+08:00",
+  "total_titles_processed": 605,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "为什么世界杯淘汰的球队基本上都是立刻就回国了？可不可以看完所有比赛后再离开？",
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 05时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 06时53分]"
         },
         {
           "title": "如何评价赛力斯 2026 年上半年预计亏损 15-18 亿？为什么销量不低却依然巨亏？",
@@ -28,11 +28,25 @@
             4,
             12,
             13,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 05时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 06时53分]"
+        },
+        {
+          "title": "为什么说中餐正在悄悄退化？",
+          "url": "https://www.zhihu.com/question/552064695",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 06时53分]"
         },
         {
           "title": "公司说全员降薪 20% 不接受就走人，第二天有同事没有来，公司人事却联系，说让休息一天后复岗，为什么？",
@@ -46,30 +60,18 @@
           "time_info": "[00时29分 ~ 05时53分]"
         },
         {
-          "title": "为什么说中餐正在悄悄退化？",
-          "url": "https://www.zhihu.com/question/552064695",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 05时53分]"
-        },
-        {
           "title": "为什么工作痛苦但不离职",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B7%A5%E4%BD%9C%E7%97%9B%E8%8B%A6%E4%BD%86%E4%B8%8D%E7%A6%BB%E8%81%8C&t=31&band_rank=14&Refer=top",
           "source": "微博",
           "ranks": [
             14,
             15,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时42分 ~ 05时53分]"
+          "appearance_count": 5,
+          "time_info": "[02时42分 ~ 06时53分]"
         },
         {
           "title": "为什么江苏本科提前批投档线，中国人民公安大学只比清华大学低三分？",
@@ -115,6 +117,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "为什么中国重新重视冷门基础科学",
+          "url": "https://www.toutiao.com/trending/7661789717637107206/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
         }
       ]
     }
