@@ -1,214 +1,33 @@
 {
-  "generated_at": "2026-07-13T22:10:54.558855+08:00",
-  "total_titles_processed": 1295,
+  "generated_at": "2026-07-14T00:29:20.785271+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 19,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "为什么台风预报的时候来势汹汹，但真登陆了感觉没有那么强烈？",
-          "url": "https://www.zhihu.com/question/1943291837109478434",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时57分 ~ 07时51分]"
-        },
-        {
-          "title": "为什么中国人这么喜欢哈兰德",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%BF%99%E4%B9%88%E5%96%9C%E6%AC%A2%E5%93%88%E5%85%B0%E5%BE%B7",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 06时43分]"
-        },
-        {
-          "title": "太原理工击败清华夺得CUBAL冠军",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AA%E5%8E%9F%E7%90%86%E5%B7%A5%E5%87%BB%E8%B4%A5%E6%B8%85%E5%8D%8E%E5%A4%BA%E5%BE%97CUBAL%E5%86%A0%E5%86%9B",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            9,
-            6,
-            25,
-            19,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时57分 ~ 07时51分]"
-        },
-        {
-          "title": "为什么现在分享个人经历，很多人会用「创伤」来定义自己的感受？「创伤叙事」是不是被滥用了？",
-          "url": "https://www.zhihu.com/question/2057492254889964985",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时57分 ~ 07时51分]"
-        },
-        {
-          "title": "网友用虹吸原理巧吸窗台积水",
-          "url": "https://www.toutiao.com/trending/7661613861346279462/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            20,
-            29,
-            30,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时51分]"
-        },
         {
           "title": "如何评价赛力斯 2026 年上半年预计亏损 15-18 亿？为什么销量不低却依然巨亏？",
           "url": "https://www.zhihu.com/question/2059697862565536691",
           "source": "知乎",
           "ranks": [
-            2,
-            1
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时12分 ~ 22时10分]"
-        },
-        {
-          "title": "网友用虹吸原理巧吸窗台积水",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%94%A8%E8%99%B9%E5%90%B8%E5%8E%9F%E7%90%86%E5%B7%A7%E5%90%B8%E7%AA%97%E5%8F%B0%E7%A7%AF%E6%B0%B4",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            17,
-            10,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 07时51分]"
-        },
-        {
-          "title": "太原理工勇夺第28届CUBAL冠军",
-          "url": "https://www.douyin.com/hot/2568761",
-          "source": "抖音",
-          "ranks": [
-            14,
-            15,
-            18,
-            25,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 18时22分]"
-        },
-        {
-          "title": "阿根廷队为什么总是能逆转",
-          "url": "https://www.toutiao.com/trending/7661493142062972970/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            24,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 07时51分]"
-        },
-        {
-          "title": "为什么要蒸唐僧，而不是炒呢？",
-          "url": "https://www.zhihu.com/question/2047108856132776930",
-          "source": "知乎",
-          "ranks": [
-            10,
-            16,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时24分 ~ 18时22分]"
-        },
-        {
-          "title": "为什么世界杯淘汰的球队基本上都是立刻就回国了？可不可以看完所有比赛后再离开？",
-          "url": "https://www.zhihu.com/question/2058981135892461058",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时10分"
+          "time_info": "00时29分"
         },
         {
-          "title": "为什么油价下跌尚未导致通胀下降",
-          "url": "https://flash.jin10.com/detail/20260713033122306800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时42分 ~ 05时45分]"
-        },
-        {
-          "title": "番茄旗下付费网文站「红烛」宣告倒闭，字节为什么玩不转付费模式？",
-          "url": "https://www.zhihu.com/question/2059117314616907688",
+          "title": "为什么江苏本科提前批投档线，中国人民公安大学只比清华大学低三分？",
+          "url": "https://www.zhihu.com/question/2058628068630175892",
           "source": "知乎",
-          "ranks": [
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时24分 ~ 14时13分]"
-        },
-        {
-          "title": "观众为什么喜欢周星驰",
-          "url": "https://www.douyin.com/hot/2567849",
-          "source": "抖音",
-          "ranks": [
-            26,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时12分 ~ 18时22分]"
-        },
-        {
-          "title": "黄金为什么跌",
-          "url": "https://www.toutiao.com/trending/7661837118854925843/",
-          "source": "今日头条",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时12分 ~ 14时13分]"
-        },
-        {
-          "title": "说一个减肥的冷知识",
-          "url": "https://s.weibo.com/weibo?q=%E8%AF%B4%E4%B8%80%E4%B8%AA%E5%87%8F%E8%82%A5%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 22时10分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
           "title": "公司说全员降薪 20% 不接受就走人，第二天有同事没有来，公司人事却联系，说让休息一天后复岗，为什么？",
@@ -218,30 +37,41 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 22时10分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
-          "title": "为什么有些写作者在长期毫无正反馈的情况下，依然能抵抗住放弃的冲动，最终完成作品？",
-          "url": "https://www.zhihu.com/question/2057915521518113864",
+          "title": "为什么世界杯淘汰的球队基本上都是立刻就回国了？可不可以看完所有比赛后再离开？",
+          "url": "https://www.zhihu.com/question/2058981135892461058",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        },
+        {
+          "title": "为什么说中餐正在悄悄退化？",
+          "url": "https://www.zhihu.com/question/552064695",
           "source": "知乎",
           "ranks": [
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时50分 ~ 07时51分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
-          "title": "为什么江苏本科提前批投档线，中国人民公安大学只比清华大学低三分？",
-          "url": "https://www.zhihu.com/question/2058628068630175892",
+          "title": "你为什么不化妆？",
+          "url": "https://www.zhihu.com/question/403494008",
           "source": "知乎",
           "ranks": [
-            10
+            20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时10分"
+          "time_info": "00时29分"
         }
       ]
     }
