@@ -1,154 +1,44 @@
 {
-  "generated_at": "2026-07-14T23:22:25.641250+08:00",
-  "total_titles_processed": 1773,
+  "generated_at": "2026-07-15T01:11:35.290536+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 20,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "周星驰为什么要在这个时候拍这么一部《功夫女足》？",
-          "url": "https://www.zhihu.com/question/2059433390227583285",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时04分 ~ 19时24分]"
-        },
-        {
-          "title": "为什么世界杯淘汰的球队基本上都是立刻就回国了？可不可以看完所有比赛后再离开？",
-          "url": "https://www.zhihu.com/question/2058981135892461058",
-          "source": "知乎",
-          "ranks": [
-            10,
-            5,
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 07时52分]"
-        },
-        {
-          "title": "如何评价赛力斯 2026 年上半年预计亏损 15-18 亿？为什么销量不低却依然巨亏？",
-          "url": "https://www.zhihu.com/question/2059697862565536691",
-          "source": "知乎",
-          "ranks": [
-            4,
-            12,
-            13,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 07时52分]"
-        },
-        {
-          "title": "为什么说中餐正在悄悄退化？",
-          "url": "https://www.zhihu.com/question/552064695",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 07时52分]"
-        },
         {
           "title": "如何评价韩国综合指数一个月从 9200 跌到 6800，120 万散户账户爆仓？为什么韩国散户这么容易被强平？",
           "url": "https://www.zhihu.com/question/2060415646706263496",
           "source": "知乎",
           "ranks": [
-            3,
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时25分 ~ 23时22分]"
+          "appearance_count": 1,
+          "time_info": "01时11分"
         },
         {
           "title": "在 12306 出现之前，线下购票柜台工作人员使用的 TRS 系统也是全国联网的，为什么那时没有崩溃问题？",
           "url": "https://www.zhihu.com/question/572076661",
           "source": "知乎",
           "ranks": [
-            9,
-            5
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时55分 ~ 23时22分]"
+          "appearance_count": 1,
+          "time_info": "01时11分"
         },
         {
-          "title": "为什么工作痛苦但不离职",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B7%A5%E4%BD%9C%E7%97%9B%E8%8B%A6%E4%BD%86%E4%B8%8D%E7%A6%BB%E8%81%8C&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            15,
-            17,
-            25,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时42分 ~ 07时52分]"
-        },
-        {
-          "title": "公司说全员降薪 20% 不接受就走人，第二天有同事没有来，公司人事却联系，说让休息一天后复岗，为什么？",
-          "url": "https://www.zhihu.com/question/2059237272705316521",
+          "title": "为什么 Codex 搭载 GPT-5.6 后，越来越多用户开始弃用 Skills？",
+          "url": "https://www.zhihu.com/question/2060378207459566963",
           "source": "知乎",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 05时53分]"
-        },
-        {
-          "title": "关羽军事那么菜，为什么曹魏一直解决不了他，还被打得要迁离许都？",
-          "url": "https://www.zhihu.com/question/2048485715491738315",
-          "source": "知乎",
-          "ranks": [
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时04分 ~ 13时26分]"
-        },
-        {
-          "title": "为什么台风都有那么人性化的名字？",
-          "url": "https://www.zhihu.com/question/2058906277259096656",
-          "source": "知乎",
-          "ranks": [
-            16,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时04分 ~ 17时55分]"
-        },
-        {
-          "title": "为什么江苏本科提前批投档线，中国人民公安大学只比清华大学低三分？",
-          "url": "https://www.zhihu.com/question/2058628068630175892",
-          "source": "知乎",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 02时42分]"
+          "appearance_count": 1,
+          "time_info": "01时11分"
         },
         {
           "title": "周星驰为什么常年戴口罩",
@@ -158,8 +48,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时25分 ~ 23时22分]"
+          "appearance_count": 1,
+          "time_info": "01时11分"
         },
         {
           "title": "邹市明夫妇投资理财亏损 2 亿，为什么会亏这么多？投资理财时要注意些什么？",
@@ -169,86 +59,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时25分 ~ 23时22分]"
-        },
-        {
-          "title": "为什么施南生必须被记住",
-          "url": "https://www.toutiao.com/trending/7662253138681794054/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时56分 ~ 17时55分]"
-        },
-        {
-          "title": "为什么会有那么多人如此热爱物理？",
-          "url": "https://www.zhihu.com/question/660747812",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时11分 ~ 04时12分]"
-        },
-        {
-          "title": "我们为什么要背木兰的购买记录",
-          "url": "https://s.weibo.com/weibo?q=%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%83%8C%E6%9C%A8%E5%85%B0%E7%9A%84%E8%B4%AD%E4%B9%B0%E8%AE%B0%E5%BD%95&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时11分 ~ 04时12分]"
-        },
-        {
-          "title": "为什么国内对哥特风格的接受度不高？",
-          "url": "https://www.zhihu.com/question/306518660",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
-          "title": "你为什么不化妆？",
-          "url": "https://www.zhihu.com/question/403494008",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "为什么中国重新重视冷门基础科学",
-          "url": "https://www.toutiao.com/trending/7661789717637107206/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时53分"
-        },
-        {
-          "title": "功夫女足为什么爆火",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E4%B8%BA%E4%BB%80%E4%B9%88%E7%88%86%E7%81%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时25分"
+          "time_info": "01时11分"
         }
       ]
     }
