@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T13:26:34.398049+08:00",
-  "total_titles_processed": 1010,
+  "generated_at": "2026-07-14T15:56:37.205398+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "为什么世界杯淘汰的球队基本上都是立刻就回国了？可不可以看完所有比赛后再离开？",
@@ -37,6 +37,18 @@
           "time_info": "[00时29分 ~ 07时52分]"
         },
         {
+          "title": "周星驰为什么要在这个时候拍这么一部《功夫女足》？",
+          "url": "https://www.zhihu.com/question/2059433390227583285",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时04分 ~ 15时56分]"
+        },
+        {
           "title": "为什么说中餐正在悄悄退化？",
           "url": "https://www.zhihu.com/question/552064695",
           "source": "知乎",
@@ -48,18 +60,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时29分 ~ 07时52分]"
-        },
-        {
-          "title": "周星驰为什么要在这个时候拍这么一部《功夫女足》？",
-          "url": "https://www.zhihu.com/question/2059433390227583285",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时04分 ~ 13时26分]"
         },
         {
           "title": "为什么工作痛苦但不离职",
@@ -100,6 +100,18 @@
           "time_info": "[10时04分 ~ 13时26分]"
         },
         {
+          "title": "为什么台风都有那么人性化的名字？",
+          "url": "https://www.zhihu.com/question/2058906277259096656",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时04分 ~ 15时56分]"
+        },
+        {
           "title": "为什么江苏本科提前批投档线，中国人民公安大学只比清华大学低三分？",
           "url": "https://www.zhihu.com/question/2058628068630175892",
           "source": "知乎",
@@ -110,17 +122,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 02时42分]"
-        },
-        {
-          "title": "为什么台风都有那么人性化的名字？",
-          "url": "https://www.zhihu.com/question/2058906277259096656",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时04分 ~ 13时26分]"
         },
         {
           "title": "为什么会有那么多人如此热爱物理？",
@@ -143,6 +144,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时11分 ~ 04时12分]"
+        },
+        {
+          "title": "为什么施南生必须被记住",
+          "url": "https://www.toutiao.com/trending/7662253138681794054/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
         },
         {
           "title": "你为什么不化妆？",
