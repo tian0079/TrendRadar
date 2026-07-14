@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T17:55:36.643365+08:00",
-  "total_titles_processed": 1331,
+  "generated_at": "2026-07-14T19:24:27.614143+08:00",
+  "total_titles_processed": 1471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "周星驰为什么要在这个时候拍这么一部《功夫女足》？",
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时04分 ~ 17时55分]"
+          "appearance_count": 5,
+          "time_info": "[10时04分 ~ 19时24分]"
         },
         {
           "title": "为什么世界杯淘汰的球队基本上都是立刻就回国了？可不可以看完所有比赛后再离开？",
@@ -87,6 +88,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时29分 ~ 05时53分]"
+        },
+        {
+          "title": "在 12306 出现之前，线下购票柜台工作人员使用的 TRS 系统也是全国联网的，为什么那时没有崩溃问题？",
+          "url": "https://www.zhihu.com/question/572076661",
+          "source": "知乎",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 19时24分]"
         },
         {
           "title": "关羽军事那么菜，为什么曹魏一直解决不了他，还被打得要迁离许都？",
@@ -160,15 +173,15 @@
           "time_info": "[04时11分 ~ 04时12分]"
         },
         {
-          "title": "在 12306 出现之前，线下购票柜台工作人员使用的 TRS 系统也是全国联网的，为什么那时没有崩溃问题？",
-          "url": "https://www.zhihu.com/question/572076661",
+          "title": "为什么国内对哥特风格的接受度不高？",
+          "url": "https://www.zhihu.com/question/306518660",
           "source": "知乎",
           "ranks": [
-            9
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时55分"
+          "time_info": "19时24分"
         },
         {
           "title": "你为什么不化妆？",
