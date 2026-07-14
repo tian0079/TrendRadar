@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T06:56:47.448804+08:00",
-  "total_titles_processed": 633,
+  "generated_at": "2026-07-15T07:51:28.568696+08:00",
+  "total_titles_processed": 702,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "如何评价韩国综合指数一个月从 9200 跌到 6800，120 万散户账户爆仓？为什么韩国散户这么容易被强平？",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 06时56分]"
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 07时51分]"
         },
         {
           "title": "为什么 Codex 搭载 GPT-5.6 后，越来越多用户开始弃用 Skills？",
@@ -31,8 +31,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 06时56分]"
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 07时51分]"
         },
         {
           "title": "周星驰为什么常年戴口罩",
@@ -43,8 +43,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 06时56分]"
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 07时51分]"
         },
         {
           "title": "邹市明夫妇投资理财亏损 2 亿，为什么会亏这么多？投资理财时要注意些什么？",
@@ -54,8 +54,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 06时56分]"
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 07时51分]"
         },
         {
           "title": "为什么吃牛肉可以三分熟，猪肉却不可以呢？",
@@ -66,8 +66,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时57分 ~ 06时56分]"
+          "appearance_count": 6,
+          "time_info": "[04时57分 ~ 07时51分]"
         },
         {
           "title": "在 12306 出现之前，线下购票柜台工作人员使用的 TRS 系统也是全国联网的，为什么那时没有崩溃问题？",
@@ -104,6 +104,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时14分 ~ 04时58分]"
+        },
+        {
+          "title": "沈阳暴雨内涝，单日降雨量达 223.8 毫米，打破当地观测史纪录，雨为什么这么大？导致内涝的原因有哪些？",
+          "url": "https://www.zhihu.com/question/2060274213731169983",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时51分"
         }
       ]
     }
