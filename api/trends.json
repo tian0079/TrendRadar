@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T21:25:27.145866+08:00",
-  "total_titles_processed": 1627,
+  "generated_at": "2026-07-14T23:22:25.641250+08:00",
+  "total_titles_processed": 1773,
   "failed_sources": [],
   "trends": [
     {
@@ -64,6 +64,30 @@
           "time_info": "[00时29分 ~ 07时52分]"
         },
         {
+          "title": "如何评价韩国综合指数一个月从 9200 跌到 6800，120 万散户账户爆仓？为什么韩国散户这么容易被强平？",
+          "url": "https://www.zhihu.com/question/2060415646706263496",
+          "source": "知乎",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 23时22分]"
+        },
+        {
+          "title": "在 12306 出现之前，线下购票柜台工作人员使用的 TRS 系统也是全国联网的，为什么那时没有崩溃问题？",
+          "url": "https://www.zhihu.com/question/572076661",
+          "source": "知乎",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时55分 ~ 23时22分]"
+        },
+        {
           "title": "为什么工作痛苦但不离职",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B7%A5%E4%BD%9C%E7%97%9B%E8%8B%A6%E4%BD%86%E4%B8%8D%E7%A6%BB%E8%81%8C&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -79,17 +103,6 @@
           "time_info": "[02时42分 ~ 07时52分]"
         },
         {
-          "title": "如何评价韩国综合指数一个月从 9200 跌到 6800，120 万散户账户爆仓？为什么韩国散户这么容易被强平？",
-          "url": "https://www.zhihu.com/question/2060415646706263496",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时25分"
-        },
-        {
           "title": "公司说全员降薪 20% 不接受就走人，第二天有同事没有来，公司人事却联系，说让休息一天后复岗，为什么？",
           "url": "https://www.zhihu.com/question/2059237272705316521",
           "source": "知乎",
@@ -99,18 +112,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时29分 ~ 05时53分]"
-        },
-        {
-          "title": "在 12306 出现之前，线下购票柜台工作人员使用的 TRS 系统也是全国联网的，为什么那时没有崩溃问题？",
-          "url": "https://www.zhihu.com/question/572076661",
-          "source": "知乎",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时55分 ~ 21时25分]"
         },
         {
           "title": "关羽军事那么菜，为什么曹魏一直解决不了他，还被打得要迁离许都？",
@@ -150,6 +151,28 @@
           "time_info": "[00时29分 ~ 02时42分]"
         },
         {
+          "title": "周星驰为什么常年戴口罩",
+          "url": "https://www.toutiao.com/trending/7661209551722659882/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 23时22分]"
+        },
+        {
+          "title": "邹市明夫妇投资理财亏损 2 亿，为什么会亏这么多？投资理财时要注意些什么？",
+          "url": "https://www.zhihu.com/question/2060364904519791870",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 23时22分]"
+        },
+        {
           "title": "为什么施南生必须被记住",
           "url": "https://www.toutiao.com/trending/7662253138681794054/",
           "source": "今日头条",
@@ -182,28 +205,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时11分 ~ 04时12分]"
-        },
-        {
-          "title": "周星驰为什么常年戴口罩",
-          "url": "https://www.toutiao.com/trending/7661209551722659882/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时25分"
-        },
-        {
-          "title": "邹市明夫妇投资理财亏损 2 亿，为什么会亏这么多？投资理财时要注意些什么？",
-          "url": "https://www.zhihu.com/question/2060364904519791870",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时25分"
         },
         {
           "title": "为什么国内对哥特风格的接受度不高？",
@@ -245,7 +246,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         }
