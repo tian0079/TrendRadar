@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T04:58:01.476998+08:00",
-  "total_titles_processed": 500,
+  "generated_at": "2026-07-15T05:57:07.630311+08:00",
+  "total_titles_processed": 572,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2060415646706263496",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 05时57分]"
         },
         {
           "title": "为什么 Codex 搭载 GPT-5.6 后，越来越多用户开始弃用 Skills？",
@@ -25,11 +26,34 @@
           "ranks": [
             8,
             4,
-            6
+            6,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 05时57分]"
+        },
+        {
+          "title": "周星驰为什么常年戴口罩",
+          "url": "https://www.toutiao.com/trending/7661209551722659882/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 05时57分]"
+        },
+        {
+          "title": "邹市明夫妇投资理财亏损 2 亿，为什么会亏这么多？投资理财时要注意些什么？",
+          "url": "https://www.zhihu.com/question/2060364904519791870",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 05时57分]"
         },
         {
           "title": "在 12306 出现之前，线下购票柜台工作人员使用的 TRS 系统也是全国联网的，为什么那时没有崩溃问题？",
@@ -43,26 +67,28 @@
           "time_info": "01时11分"
         },
         {
-          "title": "周星驰为什么常年戴口罩",
-          "url": "https://www.toutiao.com/trending/7661209551722659882/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时58分]"
-        },
-        {
-          "title": "邹市明夫妇投资理财亏损 2 亿，为什么会亏这么多？投资理财时要注意些什么？",
-          "url": "https://www.zhihu.com/question/2060364904519791870",
+          "title": "为什么吃牛肉可以三分熟，猪肉却不可以呢？",
+          "url": "https://www.zhihu.com/question/552089218",
           "source": "知乎",
           "ranks": [
-            12
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时58分]"
+          "time_info": "[04时57分 ~ 05时57分]"
+        },
+        {
+          "title": "超市为什么越来越难",
+          "url": "https://www.toutiao.com/trending/7662088368087371270/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时57分 ~ 05时57分]"
         },
         {
           "title": "为什么早年创伤多的人显年轻",
@@ -75,28 +101,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时14分 ~ 04时58分]"
-        },
-        {
-          "title": "为什么吃牛肉可以三分熟，猪肉却不可以呢？",
-          "url": "https://www.zhihu.com/question/552089218",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 04时58分]"
-        },
-        {
-          "title": "超市为什么越来越难",
-          "url": "https://www.toutiao.com/trending/7662088368087371270/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 04时58分]"
         }
       ]
     }
