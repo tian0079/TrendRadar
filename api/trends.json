@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T18:12:10.222058+08:00",
-  "total_titles_processed": 1358,
+  "generated_at": "2026-07-15T20:13:20.948924+08:00",
+  "total_titles_processed": 1519,
   "failed_sources": [],
   "trends": [
     {
@@ -87,8 +87,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时09分 ~ 18时12分]"
+          "appearance_count": 5,
+          "time_info": "[13时09分 ~ 20时13分]"
+        },
+        {
+          "title": "为什么会有「来了巴黎就祛魅」的说法？",
+          "url": "https://www.zhihu.com/question/642212992",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时02分 ~ 20时13分]"
         },
         {
           "title": "在 12306 出现之前，线下购票柜台工作人员使用的 TRS 系统也是全国联网的，为什么那时没有崩溃问题？",
@@ -100,6 +111,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
+          "url": "https://www.zhihu.com/question/2060645375338180828",
+          "source": "知乎",
+          "ranks": [
+            13,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时09分 ~ 20时13分]"
         },
         {
           "title": "法国不敌西班牙无缘世界杯决赛，他们输在哪？豪华锋线为什么会哑火？教练德尚该承担主要责任吗？",
@@ -129,17 +153,6 @@
           "time_info": "[04时57分 ~ 06时56分]"
         },
         {
-          "title": "为什么会有「来了巴黎就祛魅」的说法？",
-          "url": "https://www.zhihu.com/question/642212992",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时02分 ~ 18时12分]"
-        },
-        {
           "title": "沈阳暴雨内涝，单日降雨量达 223.8 毫米，打破当地观测史纪录，雨为什么这么大？导致内涝的原因有哪些？",
           "url": "https://www.zhihu.com/question/2060274213731169983",
           "source": "知乎",
@@ -152,18 +165,6 @@
           "time_info": "[07时51分 ~ 10时02分]"
         },
         {
-          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
-          "url": "https://www.zhihu.com/question/2060645375338180828",
-          "source": "知乎",
-          "ranks": [
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时09分 ~ 18时12分]"
-        },
-        {
           "title": "为什么老一辈人都觉得空调不能长时间吹？",
           "url": "https://www.zhihu.com/question/611736271",
           "source": "知乎",
@@ -171,8 +172,32 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 20时13分]"
+        },
+        {
+          "title": "为什么周星驰的剧本台词风格他自己演就很自然还很搞笑，而换成其他人演不仅不搞笑还巨尴尬?",
+          "url": "https://www.zhihu.com/question/1903913532988326041",
+          "source": "知乎",
+          "ranks": [
+            15,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时02分 ~ 18时12分]"
+          "time_info": "[18时11分 ~ 20时13分]"
+        },
+        {
+          "title": "马上评｜为什么说逼捐是在“帮倒忙”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33589260",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时11分 ~ 20时13分]"
         },
         {
           "title": "为什么早年创伤多的人显年轻",
@@ -197,28 +222,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时02分 ~ 13时09分]"
-        },
-        {
-          "title": "为什么周星驰的剧本台词风格他自己演就很自然还很搞笑，而换成其他人演不仅不搞笑还巨尴尬?",
-          "url": "https://www.zhihu.com/question/1903913532988326041",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时11分 ~ 18时12分]"
-        },
-        {
-          "title": "马上评｜为什么说逼捐是在“帮倒忙”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33589260",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时11分 ~ 18时12分]"
         },
         {
           "title": "为什么目前 AI 的设备是用 Mac 为主，而不是熟知的 Windows？",
