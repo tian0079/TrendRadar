@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T06:57:13.099564+08:00",
-  "total_titles_processed": 667,
+  "generated_at": "2026-07-16T07:57:37.272632+08:00",
+  "total_titles_processed": 750,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "为什么阿根廷主帅斯卡洛尼要极力淡化马岛战争对英阿大战的影响，不断强调「这只是一场足球比赛」？",
@@ -17,8 +17,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 06时57分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 07时57分]"
+        },
+        {
+          "title": "马上评｜为什么说逼捐是在“帮倒忙”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33589260",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 07时57分]"
         },
         {
           "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
@@ -48,16 +61,15 @@
           "time_info": "[00时19分 ~ 04时06分]"
         },
         {
-          "title": "马上评｜为什么说逼捐是在“帮倒忙”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33589260",
-          "source": "澎湃新闻",
+          "title": "《功夫女足》将在 7 月 17 日（上映第 7 天）更换片源，为什么会出现这种情况？剧情会改动吗？",
+          "url": "https://www.zhihu.com/question/2060771091736425253",
+          "source": "知乎",
           "ranks": [
-            14,
-            13
+            4
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 06时57分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
         },
         {
           "title": "为什么很多爆款心理文案是「伪心理学」？普通人辨别时容易踩哪些误区？",
@@ -68,8 +80,20 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时56分 ~ 07时57分]"
+        },
+        {
+          "title": "沙溢同样是被欺负了，为什么在《极限挑战》观众们叫好，在《跑男》都骂节目组？",
+          "url": "https://www.zhihu.com/question/283166946",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[05时56分 ~ 06时57分]"
+          "time_info": "[06时56分 ~ 07时57分]"
         },
         {
           "title": "为什么杨瀚森在 NBA 发展联盟 & 夏季联赛的发挥，反而比在国家队的发挥好？",
@@ -105,17 +129,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时04分 ~ 04时06分]"
-        },
-        {
-          "title": "沙溢同样是被欺负了，为什么在《极限挑战》观众们叫好，在《跑男》都骂节目组？",
-          "url": "https://www.zhihu.com/question/283166946",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 06时57分]"
         }
       ]
     }
