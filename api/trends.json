@@ -1,55 +1,59 @@
 {
-  "generated_at": "2026-07-16T00:19:55.810224+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-16T02:04:40.482765+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "为什么周星驰的剧本台词风格他自己演就很自然还很搞笑，而换成其他人演不仅不搞笑还巨尴尬?",
           "url": "https://www.zhihu.com/question/1903913532988326041",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 02时04分]"
         },
         {
           "title": "为什么阿根廷主帅斯卡洛尼要极力淡化马岛战争对英阿大战的影响，不断强调「这只是一场足球比赛」？",
           "url": "https://www.zhihu.com/question/2060664652996900553",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 02时04分]"
         },
         {
           "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
           "url": "https://www.zhihu.com/question/2060645375338180828",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 02时04分]"
         },
         {
           "title": "为什么杨瀚森在 NBA 发展联盟 & 夏季联赛的发挥，反而比在国家队的发挥好？",
           "url": "https://www.zhihu.com/question/2060355356761350590",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 02时04分]"
         },
         {
           "title": "为什么老一辈人都觉得空调不能长时间吹？",
@@ -59,19 +63,31 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 02时04分]"
         },
         {
           "title": "马上评｜为什么说逼捐是在“帮倒忙”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33589260",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 02时04分]"
+        },
+        {
+          "title": "为什么广府人喜欢说粤语是「古汉语」？",
+          "url": "https://www.zhihu.com/question/2059747814251483350",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时19分"
+          "time_info": "02时04分"
         }
       ]
     }
