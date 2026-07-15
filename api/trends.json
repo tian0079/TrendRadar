@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T04:06:27.093683+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2026-07-16T05:56:42.776449+08:00",
+  "total_titles_processed": 613,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "为什么阿根廷主帅斯卡洛尼要极力淡化马岛战争对英阿大战的影响，不断强调「这只是一场足球比赛」？",
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 04时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 05时56分]"
         },
         {
           "title": "为什么周星驰的剧本台词风格他自己演就很自然还很搞笑，而换成其他人演不仅不搞笑还巨尴尬?",
@@ -38,11 +39,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 04时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 05时56分]"
         },
         {
           "title": "马上评｜为什么说逼捐是在“帮倒忙”",
@@ -53,8 +55,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 04时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 05时56分]"
         },
         {
           "title": "为什么杨瀚森在 NBA 发展联盟 & 夏季联赛的发挥，反而比在国家队的发挥好？",
@@ -90,6 +92,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时04分 ~ 04时06分]"
+        },
+        {
+          "title": "为什么很多爆款心理文案是「伪心理学」？普通人辨别时容易踩哪些误区？",
+          "url": "https://www.zhihu.com/question/2059920152658027762",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
         }
       ]
     }
