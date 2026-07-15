@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T16:02:48.917816+08:00",
-  "total_titles_processed": 1199,
+  "generated_at": "2026-07-15T18:12:10.222058+08:00",
+  "total_titles_processed": 1358,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "如何评价韩国综合指数一个月从 9200 跌到 6800，120 万散户账户爆仓？为什么韩国散户这么容易被强平？",
@@ -38,6 +38,21 @@
           "time_info": "[01时11分 ~ 13时09分]"
         },
         {
+          "title": "为什么吃牛肉可以三分熟，猪肉却不可以呢？",
+          "url": "https://www.zhihu.com/question/552089218",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6,
+            11,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[04时57分 ~ 18时12分]"
+        },
+        {
           "title": "周星驰为什么常年戴口罩",
           "url": "https://www.toutiao.com/trending/7661209551722659882/",
           "source": "今日头条",
@@ -52,20 +67,6 @@
           "time_info": "[01时11分 ~ 16时02分]"
         },
         {
-          "title": "为什么吃牛肉可以三分熟，猪肉却不可以呢？",
-          "url": "https://www.zhihu.com/question/552089218",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6,
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时57分 ~ 16时02分]"
-        },
-        {
           "title": "邹市明夫妇投资理财亏损 2 亿，为什么会亏这么多？投资理财时要注意些什么？",
           "url": "https://www.zhihu.com/question/2060364904519791870",
           "source": "知乎",
@@ -77,6 +78,19 @@
           "time_info": "[01时11分 ~ 07时51分]"
         },
         {
+          "title": "沙溢同样是被欺负了，为什么在《极限挑战》观众们叫好，在《跑男》都骂节目组？",
+          "url": "https://www.zhihu.com/question/283166946",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时09分 ~ 18时12分]"
+        },
+        {
           "title": "在 12306 出现之前，线下购票柜台工作人员使用的 TRS 系统也是全国联网的，为什么那时没有崩溃问题？",
           "url": "https://www.zhihu.com/question/572076661",
           "source": "知乎",
@@ -86,6 +100,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "法国不敌西班牙无缘世界杯决赛，他们输在哪？豪华锋线为什么会哑火？教练德尚该承担主要责任吗？",
+          "url": "https://www.zhihu.com/question/2060634535255963378",
+          "source": "知乎",
+          "ranks": [
+            11,
+            10,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时02分 ~ 18时12分]"
         },
         {
           "title": "超市为什么越来越难",
@@ -101,6 +129,17 @@
           "time_info": "[04时57分 ~ 06时56分]"
         },
         {
+          "title": "为什么会有「来了巴黎就祛魅」的说法？",
+          "url": "https://www.zhihu.com/question/642212992",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时02分 ~ 18时12分]"
+        },
+        {
           "title": "沈阳暴雨内涝，单日降雨量达 223.8 毫米，打破当地观测史纪录，雨为什么这么大？导致内涝的原因有哪些？",
           "url": "https://www.zhihu.com/question/2060274213731169983",
           "source": "知乎",
@@ -113,17 +152,27 @@
           "time_info": "[07时51分 ~ 10时02分]"
         },
         {
-          "title": "法国不敌西班牙无缘世界杯决赛，他们输在哪？豪华锋线为什么会哑火？教练德尚该承担主要责任吗？",
-          "url": "https://www.zhihu.com/question/2060634535255963378",
+          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
+          "url": "https://www.zhihu.com/question/2060645375338180828",
           "source": "知乎",
           "ranks": [
-            11,
-            10,
-            8
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时09分 ~ 18时12分]"
+        },
+        {
+          "title": "为什么老一辈人都觉得空调不能长时间吹？",
+          "url": "https://www.zhihu.com/question/611736271",
+          "source": "知乎",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时02分 ~ 16时02分]"
+          "time_info": "[16时02分 ~ 18时12分]"
         },
         {
           "title": "为什么早年创伤多的人显年轻",
@@ -138,41 +187,6 @@
           "time_info": "[03时14分 ~ 04时58分]"
         },
         {
-          "title": "为什么会有「来了巴黎就祛魅」的说法？",
-          "url": "https://www.zhihu.com/question/642212992",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时02分 ~ 16时02分]"
-        },
-        {
-          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
-          "url": "https://www.zhihu.com/question/2060645375338180828",
-          "source": "知乎",
-          "ranks": [
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时09分 ~ 16时02分]"
-        },
-        {
-          "title": "沙溢同样是被欺负了，为什么在《极限挑战》观众们叫好，在《跑男》都骂节目组？",
-          "url": "https://www.zhihu.com/question/283166946",
-          "source": "知乎",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时09分 ~ 16时02分]"
-        },
-        {
           "title": "为什么《三国第一部：争洛阳》这样用心制作的动画电影受不到市场认可？",
           "url": "https://www.zhihu.com/question/2059979827566863683",
           "source": "知乎",
@@ -185,15 +199,26 @@
           "time_info": "[10时02分 ~ 13时09分]"
         },
         {
-          "title": "为什么老一辈人都觉得空调不能长时间吹？",
-          "url": "https://www.zhihu.com/question/611736271",
+          "title": "为什么周星驰的剧本台词风格他自己演就很自然还很搞笑，而换成其他人演不仅不搞笑还巨尴尬?",
+          "url": "https://www.zhihu.com/question/1903913532988326041",
           "source": "知乎",
           "ranks": [
-            10
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 18时12分]"
+        },
+        {
+          "title": "马上评｜为什么说逼捐是在“帮倒忙”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33589260",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 18时12分]"
         },
         {
           "title": "为什么目前 AI 的设备是用 Mac 为主，而不是熟知的 Windows？",
