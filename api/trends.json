@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T13:37:21.869995+08:00",
-  "total_titles_processed": 1090,
+  "generated_at": "2026-07-16T16:07:22.272179+08:00",
+  "total_titles_processed": 1252,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "为什么阿根廷主帅斯卡洛尼要极力淡化马岛战争对英阿大战的影响，不断强调「这只是一场足球比赛」？",
@@ -42,11 +42,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时57分 ~ 13时37分]"
+          "appearance_count": 4,
+          "time_info": "[07时57分 ~ 16时07分]"
         },
         {
           "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
@@ -88,6 +89,30 @@
           "time_info": "[05时56分 ~ 07时57分]"
         },
         {
+          "title": "为什么建设人民大会堂的时候，没有采用中国本土的建筑风格？",
+          "url": "https://www.zhihu.com/question/2052009717355090086",
+          "source": "知乎",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 16时07分]"
+        },
+        {
+          "title": "基因为什么走向了繁殖，而不是永生？",
+          "url": "https://www.zhihu.com/question/2060328828980011019",
+          "source": "知乎",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 16时07分]"
+        },
+        {
           "title": "沙溢同样是被欺负了，为什么在《极限挑战》观众们叫好，在《跑男》都骂节目组？",
           "url": "https://www.zhihu.com/question/283166946",
           "source": "知乎",
@@ -100,6 +125,18 @@
           "time_info": "[06时56分 ~ 07时57分]"
         },
         {
+          "title": "猫为什么可以「瞬间清醒」又「瞬间入睡」？",
+          "url": "https://www.zhihu.com/question/657777049",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 16时07分]"
+        },
+        {
           "title": "为什么杨瀚森在 NBA 发展联盟 & 夏季联赛的发挥，反而比在国家队的发挥好？",
           "url": "https://www.zhihu.com/question/2060355356761350590",
           "source": "知乎",
@@ -110,18 +147,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时19分 ~ 02时04分]"
-        },
-        {
-          "title": "为什么建设人民大会堂的时候，没有采用中国本土的建筑风格？",
-          "url": "https://www.zhihu.com/question/2052009717355090086",
-          "source": "知乎",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时27分 ~ 13时37分]"
         },
         {
           "title": "为什么老一辈人都觉得空调不能长时间吹？",
@@ -147,27 +172,15 @@
           "time_info": "[02时04分 ~ 04时06分]"
         },
         {
-          "title": "基因为什么走向了繁殖，而不是永生？",
-          "url": "https://www.zhihu.com/question/2060328828980011019",
-          "source": "知乎",
+          "title": "新高考下选物理,文科成冷门",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356221&amp;topic_name=%E6%96%B0%E9%AB%98%E8%80%83%E4%B8%8B%E9%80%89%E7%89%A9%E7%90%86%2C%E6%96%87%E7%A7%91%E6%88%90%E5%86%B7%E9%97%A8",
+          "source": "贴吧",
           "ranks": [
-            16,
-            19
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时27分 ~ 13时37分]"
-        },
-        {
-          "title": "猫为什么可以「瞬间清醒」又「瞬间入睡」？",
-          "url": "https://www.zhihu.com/question/657777049",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时27分 ~ 13时37分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
         },
         {
           "title": "为什么《三角洲行动》烽火赛事这么「难看」？",
