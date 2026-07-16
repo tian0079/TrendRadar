@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T00:18:48.817616+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-17T02:04:14.857467+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "深圳文和友招牌拆除，CEO 确认撤场，为什么文和友难以走出长沙？",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时04分]"
         },
         {
           "title": "“为什么我们要替别人去和中国作对呢”",
@@ -26,63 +26,90 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时04分]"
         },
         {
           "title": "为什么都喜欢吃智利的车厘子而不喜欢吃中国的樱桃？",
           "url": "https://www.zhihu.com/question/1993136934327960099",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时04分]"
         },
         {
           "title": "为什么鲁宾逊漂流记这样一部以热带海岛为背景的作品，完全没有任何关于蚊虫的描写？",
           "url": "https://www.zhihu.com/question/2058654142529384461",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "新高考下选物理,文科成冷门",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356221&amp;topic_name=%E6%96%B0%E9%AB%98%E8%80%83%E4%B8%8B%E9%80%89%E7%89%A9%E7%90%86%2C%E6%96%87%E7%A7%91%E6%88%90%E5%86%B7%E9%97%A8",
-          "source": "贴吧",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时04分]"
         },
         {
           "title": "如何看待真我 realme 退出中国市场，售后质保由 OPPO 全面接手？品牌为什么会走到停运这一步？",
           "url": "https://www.zhihu.com/question/2061159948042461715",
           "source": "知乎",
           "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时04分]"
+        },
+        {
+          "title": "新高考下选物理,文科成冷门",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356221&amp;topic_name=%E6%96%B0%E9%AB%98%E8%80%83%E4%B8%8B%E9%80%89%E7%89%A9%E7%90%86%2C%E6%96%87%E7%A7%91%E6%88%90%E5%86%B7%E9%97%A8",
+          "source": "贴吧",
+          "ranks": [
+            16,
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时04分]"
         },
         {
           "title": "英格兰面对阿根廷为什么没苟住",
           "url": "https://www.toutiao.com/trending/7663062828344937990/",
           "source": "今日头条",
           "ranks": [
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时04分]"
+        },
+        {
+          "title": "《功夫女足》将在 7 月 17 日（上映第 7 天）更换片源，为什么会出现这种情况？剧情会改动吗？",
+          "url": "https://www.zhihu.com/question/2060771091736425253",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 02时04分]"
+        },
+        {
+          "title": "基因为什么走向了繁殖，而不是永生？",
+          "url": "https://www.zhihu.com/question/2060328828980011019",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 02时04分]"
         }
       ]
     }
