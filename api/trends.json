@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T18:56:23.365961+08:00",
-  "total_titles_processed": 1431,
+  "generated_at": "2026-07-16T20:19:13.674054+08:00",
+  "total_titles_processed": 1552,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "为什么阿根廷主帅斯卡洛尼要极力淡化马岛战争对英阿大战的影响，不断强调「这只是一场足球比赛」？",
@@ -65,6 +65,17 @@
           "time_info": "[00时19分 ~ 06时57分]"
         },
         {
+          "title": "“为什么我们要替别人去和中国作对呢”",
+          "url": "https://news.ifeng.com/c/8uoIHsOw2cr",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时18分 ~ 20时19分]"
+        },
+        {
           "title": "为什么周星驰的剧本台词风格他自己演就很自然还很搞笑，而换成其他人演不仅不搞笑还巨尴尬?",
           "url": "https://www.zhihu.com/question/1903913532988326041",
           "source": "知乎",
@@ -76,6 +87,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时19分 ~ 04时06分]"
+        },
+        {
+          "title": "猫为什么可以「瞬间清醒」又「瞬间入睡」？",
+          "url": "https://www.zhihu.com/question/657777049",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时27分 ~ 20时19分]"
+        },
+        {
+          "title": "新高考下选物理,文科成冷门",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356221&amp;topic_name=%E6%96%B0%E9%AB%98%E8%80%83%E4%B8%8B%E9%80%89%E7%89%A9%E7%90%86%2C%E6%96%87%E7%A7%91%E6%88%90%E5%86%B7%E9%97%A8",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时07分 ~ 20时19分]"
         },
         {
           "title": "为什么很多爆款心理文案是「伪心理学」？普通人辨别时容易踩哪些误区？",
@@ -90,18 +125,6 @@
           "time_info": "[05时56分 ~ 07时57分]"
         },
         {
-          "title": "猫为什么可以「瞬间清醒」又「瞬间入睡」？",
-          "url": "https://www.zhihu.com/question/657777049",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时27分 ~ 18时56分]"
-        },
-        {
           "title": "为什么建设人民大会堂的时候，没有采用中国本土的建筑风格？",
           "url": "https://www.zhihu.com/question/2052009717355090086",
           "source": "知乎",
@@ -112,6 +135,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时27分 ~ 16时07分]"
+        },
+        {
+          "title": "为什么都喜欢吃智利的车厘子而不喜欢吃中国的樱桃？",
+          "url": "https://www.zhihu.com/question/1993136934327960099",
+          "source": "知乎",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时56分 ~ 20时19分]"
         },
         {
           "title": "基因为什么走向了繁殖，而不是永生？",
@@ -150,16 +185,15 @@
           "time_info": "[00时19分 ~ 02时04分]"
         },
         {
-          "title": "新高考下选物理,文科成冷门",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356221&amp;topic_name=%E6%96%B0%E9%AB%98%E8%80%83%E4%B8%8B%E9%80%89%E7%89%A9%E7%90%86%2C%E6%96%87%E7%A7%91%E6%88%90%E5%86%B7%E9%97%A8",
-          "source": "贴吧",
+          "title": "如何评价菲尔兹奖获得者邓煜和王虹的二次元属性，为什么十年前国内二次元圈子和高学历高精尖理工学子挂钩多？",
+          "url": "https://www.zhihu.com/question/2060878925874697880",
+          "source": "知乎",
           "ranks": [
-            9,
-            15
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时07分 ~ 18时56分]"
+          "time_info": "[20时18分 ~ 20时19分]"
         },
         {
           "title": "为什么老一辈人都觉得空调不能长时间吹？",
@@ -191,18 +225,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
-          "title": "为什么都喜欢吃智利的车厘子而不喜欢吃中国的樱桃？",
-          "url": "https://www.zhihu.com/question/1993136934327960099",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -224,7 +247,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         }
