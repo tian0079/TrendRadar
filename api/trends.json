@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T04:01:57.251062+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-07-17T05:12:05.031517+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
@@ -8,29 +8,31 @@
       "match_count": 9,
       "titles": [
         {
-          "title": "深圳文和友招牌拆除，CEO 确认撤场，为什么文和友难以走出长沙？",
-          "url": "https://www.zhihu.com/question/2060496768580718879",
-          "source": "知乎",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 04时01分]"
-        },
-        {
           "title": "如何看待真我 realme 退出中国市场，售后质保由 OPPO 全面接手？品牌为什么会走到停运这一步？",
           "url": "https://www.zhihu.com/question/2061159948042461715",
           "source": "知乎",
           "ranks": [
             18,
             14,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 04时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 05时12分]"
+        },
+        {
+          "title": "深圳文和友招牌拆除，CEO 确认撤场，为什么文和友难以走出长沙？",
+          "url": "https://www.zhihu.com/question/2060496768580718879",
+          "source": "知乎",
+          "ranks": [
+            5,
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 05时12分]"
         },
         {
           "title": "“为什么我们要替别人去和中国作对呢”",
@@ -40,8 +42,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 04时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 05时12分]"
         },
         {
           "title": "为什么都喜欢吃智利的车厘子而不喜欢吃中国的樱桃？",
@@ -49,11 +51,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 04时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 05时12分]"
         },
         {
           "title": "为什么鲁宾逊漂流记这样一部以热带海岛为背景的作品，完全没有任何关于蚊虫的描写？",
@@ -62,11 +65,12 @@
           "ranks": [
             14,
             13,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 04时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 05时12分]"
         },
         {
           "title": "新高考下选物理,文科成冷门",
@@ -77,8 +81,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 04时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 05时12分]"
         },
         {
           "title": "英格兰面对阿根廷为什么没苟住",
