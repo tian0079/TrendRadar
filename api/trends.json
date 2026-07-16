@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T07:57:37.272632+08:00",
-  "total_titles_processed": 750,
+  "generated_at": "2026-07-16T10:27:42.413893+08:00",
+  "total_titles_processed": 906,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "为什么阿根廷主帅斯卡洛尼要极力淡化马岛战争对英阿大战的影响，不断强调「这只是一场足球比赛」？",
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 07时57分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 10时27分]"
         },
         {
           "title": "马上评｜为什么说逼捐是在“帮倒忙”",
@@ -27,11 +28,24 @@
           "ranks": [
             14,
             13,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 07时57分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 10时27分]"
+        },
+        {
+          "title": "《功夫女足》将在 7 月 17 日（上映第 7 天）更换片源，为什么会出现这种情况？剧情会改动吗？",
+          "url": "https://www.zhihu.com/question/2060771091736425253",
+          "source": "知乎",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时57分 ~ 10时27分]"
         },
         {
           "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
@@ -59,17 +73,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时19分 ~ 04时06分]"
-        },
-        {
-          "title": "《功夫女足》将在 7 月 17 日（上映第 7 天）更换片源，为什么会出现这种情况？剧情会改动吗？",
-          "url": "https://www.zhihu.com/question/2060771091736425253",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时57分"
         },
         {
           "title": "为什么很多爆款心理文案是「伪心理学」？普通人辨别时容易踩哪些误区？",
@@ -129,6 +132,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时04分 ~ 04时06分]"
+        },
+        {
+          "title": "为什么建设人民大会堂的时候，没有采用中国本土的建筑风格？",
+          "url": "https://www.zhihu.com/question/2052009717355090086",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "基因为什么走向了繁殖，而不是永生？",
+          "url": "https://www.zhihu.com/question/2060328828980011019",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "猫为什么可以「瞬间清醒」又「瞬间入睡」？",
+          "url": "https://www.zhihu.com/question/657777049",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "为什么《三角洲行动》烽火赛事这么「难看」？",
+          "url": "https://www.zhihu.com/question/2060026009227989091",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         }
       ]
     }
