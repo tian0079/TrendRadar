@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T20:06:56.494618+08:00",
-  "total_titles_processed": 1454,
+  "generated_at": "2026-07-17T22:40:34.408549+08:00",
+  "total_titles_processed": 1616,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "如何看待真我 realme 退出中国市场，售后质保由 OPPO 全面接手？品牌为什么会走到停运这一步？",
@@ -37,6 +37,19 @@
           "time_info": "[00时18分 ~ 13时39分]"
         },
         {
+          "title": "日本护士将排泄物混入患者输液管致其死亡，排泄物进入血液为什么会致命？如何防范内部人员带来的医疗风险？",
+          "url": "https://www.zhihu.com/question/2061057694832620856",
+          "source": "知乎",
+          "ranks": [
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时03分 ~ 22时40分]"
+        },
+        {
           "title": "深圳文和友招牌拆除，CEO 确认撤场，为什么文和友难以走出长沙？",
           "url": "https://www.zhihu.com/question/2060496768580718879",
           "source": "知乎",
@@ -49,19 +62,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时18分 ~ 07时56分]"
-        },
-        {
-          "title": "日本护士将排泄物混入患者输液管致其死亡，排泄物进入血液为什么会致命？如何防范内部人员带来的医疗风险？",
-          "url": "https://www.zhihu.com/question/2061057694832620856",
-          "source": "知乎",
-          "ranks": [
-            5,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时03分 ~ 20时06分]"
         },
         {
           "title": "为什么米村拌饭各个门店都那么火？",
@@ -124,8 +124,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 20时06分]"
+          "appearance_count": 3,
+          "time_info": "[18时44分 ~ 22时40分]"
         },
         {
           "title": "20万一只猴 为什么不去峨眉山抓",
@@ -162,6 +162,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时18分 ~ 02时04分]"
+        },
+        {
+          "title": "为什么会有钢琴老师讲不带成人学生？",
+          "url": "https://www.zhihu.com/question/2042257207627179809",
+          "source": "知乎",
+          "ranks": [
+            17,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时06分 ~ 22时40分]"
         },
         {
           "title": "NBA 总裁希望詹姆斯尽快决定下家，这将影响新赛程的安排，为什么一名球员的去向会影响整个联盟的赛程安排？",
@@ -210,15 +222,15 @@
           "time_info": "[02时03分 ~ 02时04分]"
         },
         {
-          "title": "为什么会有钢琴老师讲不带成人学生？",
-          "url": "https://www.zhihu.com/question/2042257207627179809",
+          "title": "为什么「锄禾日当午」，除草要在中午呢？",
+          "url": "https://www.zhihu.com/question/2057344841936265609",
           "source": "知乎",
           "ranks": [
-            17
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时06分"
+          "time_info": "22时40分"
         },
         {
           "title": "为什么方媛炒菜还背着包",
