@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T02:03:05.136605+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2026-07-18T04:03:55.224200+08:00",
+  "total_titles_processed": 490,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 04时03分]"
         },
         {
           "title": "日本护士将排泄物混入患者输液管致其死亡，排泄物进入血液为什么会致命？如何防范内部人员带来的医疗风险？",
@@ -37,11 +37,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 04时03分]"
         },
         {
           "title": "为什么「锄禾日当午」，除草要在中午呢？",
@@ -49,11 +50,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 04时03分]"
         }
       ]
     }
