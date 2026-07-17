@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-07-18T06:45:51.931883+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2026-07-18T07:50:48.872500+08:00",
+  "total_titles_processed": 654,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
       "match_count": 4,
       "titles": [
+        {
+          "title": "日本护士将排泄物混入患者输液管致其死亡，排泄物进入血液为什么会致命？如何防范内部人员带来的医疗风险？",
+          "url": "https://www.zhihu.com/question/2061057694832620856",
+          "source": "知乎",
+          "ranks": [
+            1,
+            3,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 07时50分]"
+        },
         {
           "title": "超市老板称「往年夏天卖断货的碳酸饮料，今年送都送不出去」，碳酸饮料为什么卖不动？是暂时还是大势所趋？",
           "url": "https://www.zhihu.com/question/2061198817991418630",
@@ -21,18 +35,18 @@
           "time_info": "[00时12分 ~ 05时49分]"
         },
         {
-          "title": "日本护士将排泄物混入患者输液管致其死亡，排泄物进入血液为什么会致命？如何防范内部人员带来的医疗风险？",
-          "url": "https://www.zhihu.com/question/2061057694832620856",
+          "title": "为什么「锄禾日当午」，除草要在中午呢？",
+          "url": "https://www.zhihu.com/question/2057344841936265609",
           "source": "知乎",
           "ranks": [
-            1,
-            3,
+            20,
             16,
-            13
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 06时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时12分 ~ 07时50分]"
         },
         {
           "title": "为什么会有钢琴老师讲不带成人学生？",
@@ -44,20 +58,6 @@
             9,
             11,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 06时45分]"
-        },
-        {
-          "title": "为什么「锄禾日当午」，除草要在中午呢？",
-          "url": "https://www.zhihu.com/question/2057344841936265609",
-          "source": "知乎",
-          "ranks": [
-            20,
-            16,
-            18,
-            15
           ],
           "is_new": false,
           "appearance_count": 6,
