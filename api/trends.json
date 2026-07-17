@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T13:39:22.646102+08:00",
-  "total_titles_processed": 1003,
+  "generated_at": "2026-07-17T16:03:50.496971+08:00",
+  "total_titles_processed": 1169,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "如何看待真我 realme 退出中国市场，售后质保由 OPPO 全面接手？品牌为什么会走到停运这一步？",
@@ -51,6 +51,18 @@
           "time_info": "[00时18分 ~ 07时56分]"
         },
         {
+          "title": "为什么米村拌饭各个门店都那么火？",
+          "url": "https://www.zhihu.com/question/2043613736666232393",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时56分 ~ 16时03分]"
+        },
+        {
           "title": "为什么鲁宾逊漂流记这样一部以热带海岛为背景的作品，完全没有任何关于蚊虫的描写？",
           "url": "https://www.zhihu.com/question/2058654142529384461",
           "source": "知乎",
@@ -64,18 +76,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时18分 ~ 07时56分]"
-        },
-        {
-          "title": "为什么米村拌饭各个门店都那么火？",
-          "url": "https://www.zhihu.com/question/2043613736666232393",
-          "source": "知乎",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时56分 ~ 13时39分]"
         },
         {
           "title": "“为什么我们要替别人去和中国作对呢”",
@@ -100,6 +100,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时18分 ~ 05时12分]"
+        },
+        {
+          "title": "日本护士将排泄物混入患者输液管致其死亡，排泄物进入血液为什么会致命？如何防范内部人员带来的医疗风险？",
+          "url": "https://www.zhihu.com/question/2061057694832620856",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
         },
         {
           "title": "20万一只猴 为什么不去峨眉山抓",
@@ -138,6 +149,18 @@
           "time_info": "[00时18分 ~ 02时04分]"
         },
         {
+          "title": "一女子双腿被蚊子叮了 126 个包，为什么会被咬这么多？除了痒，身体会不会出现更严重的健康问题？",
+          "url": "https://www.zhihu.com/question/2060718962724139053",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 16时03分]"
+        },
+        {
           "title": "《功夫女足》将在 7 月 17 日（上映第 7 天）更换片源，为什么会出现这种情况？剧情会改动吗？",
           "url": "https://www.zhihu.com/question/2060771091736425253",
           "source": "知乎",
@@ -158,17 +181,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时03分 ~ 02时04分]"
-        },
-        {
-          "title": "一女子双腿被蚊子叮了 126 个包，为什么会被咬这么多？除了痒，身体会不会出现更严重的健康问题？",
-          "url": "https://www.zhihu.com/question/2060718962724139053",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时39分"
         },
         {
           "title": "为什么方媛炒菜还背着包",
