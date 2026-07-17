@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T07:56:37.600732+08:00",
-  "total_titles_processed": 664,
+  "generated_at": "2026-07-17T10:14:15.457660+08:00",
+  "total_titles_processed": 817,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "如何看待真我 realme 退出中国市场，售后质保由 OPPO 全面接手？品牌为什么会走到停运这一步？",
@@ -19,8 +19,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 07时56分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 10时14分]"
+        },
+        {
+          "title": "新高考下选物理,文科成冷门",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356221&amp;topic_name=%E6%96%B0%E9%AB%98%E8%80%83%E4%B8%8B%E9%80%89%E7%89%A9%E7%90%86%2C%E6%96%87%E7%A7%91%E6%88%90%E5%86%B7%E9%97%A8",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 10时14分]"
         },
         {
           "title": "深圳文和友招牌拆除，CEO 确认撤场，为什么文和友难以走出长沙？",
@@ -52,18 +65,6 @@
           "time_info": "[00时18分 ~ 07时56分]"
         },
         {
-          "title": "新高考下选物理,文科成冷门",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356221&amp;topic_name=%E6%96%B0%E9%AB%98%E8%80%83%E4%B8%8B%E9%80%89%E7%89%A9%E7%90%86%2C%E6%96%87%E7%A7%91%E6%88%90%E5%86%B7%E9%97%A8",
-          "source": "贴吧",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 07时56分]"
-        },
-        {
           "title": "“为什么我们要替别人去和中国作对呢”",
           "url": "https://news.ifeng.com/c/8uoIHsOw2cr",
           "source": "凤凰网",
@@ -88,6 +89,30 @@
           "time_info": "[00时18分 ~ 05时12分]"
         },
         {
+          "title": "为什么米村拌饭各个门店都那么火？",
+          "url": "https://www.zhihu.com/question/2043613736666232393",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时56分 ~ 10时14分]"
+        },
+        {
+          "title": "20万一只猴 为什么不去峨眉山抓",
+          "url": "https://www.baidu.com/s?wd=20%E4%B8%87%E4%B8%80%E5%8F%AA%E7%8C%B4+%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%8E%BB%E5%B3%A8%E7%9C%89%E5%B1%B1%E6%8A%93",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时56分 ~ 10时14分]"
+        },
+        {
           "title": "英格兰面对阿根廷为什么没苟住",
           "url": "https://www.toutiao.com/trending/7663062828344937990/",
           "source": "今日头条",
@@ -98,6 +123,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时18分 ~ 02时04分]"
+        },
+        {
+          "title": "本届世界杯，佛得角和库拉索都是靠「雇佣兵」打入了世界杯，为什么国足对归化显得一直都很抗拒?",
+          "url": "https://www.zhihu.com/question/2056857047036080742",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 10时14分]"
         },
         {
           "title": "《功夫女足》将在 7 月 17 日（上映第 7 天）更换片源，为什么会出现这种情况？剧情会改动吗？",
@@ -122,35 +158,13 @@
           "time_info": "[02时03分 ~ 02时04分]"
         },
         {
-          "title": "为什么米村拌饭各个门店都那么火？",
-          "url": "https://www.zhihu.com/question/2043613736666232393",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
-          "title": "20万一只猴 为什么不去峨眉山抓",
-          "url": "https://www.baidu.com/s?wd=20%E4%B8%87%E4%B8%80%E5%8F%AA%E7%8C%B4+%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%8E%BB%E5%B3%A8%E7%9C%89%E5%B1%B1%E6%8A%93",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
           "title": "为什么方媛炒菜还背着包",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%96%B9%E5%AA%9B%E7%82%92%E8%8F%9C%E8%BF%98%E8%83%8C%E7%9D%80%E5%8C%85%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         }
