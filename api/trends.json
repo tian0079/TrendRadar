@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T05:49:29.818729+08:00",
-  "total_titles_processed": 566,
+  "generated_at": "2026-07-18T06:45:51.931883+08:00",
+  "total_titles_processed": 587,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "ranks": [
             1,
             3,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 05时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 06时45分]"
         },
         {
           "title": "为什么会有钢琴老师讲不带成人学生？",
@@ -41,11 +42,12 @@
             10,
             6,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 05时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 06时45分]"
         },
         {
           "title": "为什么「锄禾日当午」，除草要在中午呢？",
@@ -54,11 +56,12 @@
           "ranks": [
             20,
             16,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 05时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 06时45分]"
         }
       ]
     }
