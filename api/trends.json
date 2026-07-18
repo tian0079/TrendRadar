@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-07-19T04:05:09.717394+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-07-19T05:46:25.101672+08:00",
+  "total_titles_processed": 459,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "为什么体感酷热，但实际温度却只有 39℃？听说气象局会卡 40℃，这种说法是否合理？",
-          "url": "https://www.zhihu.com/question/2061366752232190902",
-          "source": "知乎",
-          "ranks": [
-            3,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时05分]"
-        },
         {
           "title": "美国基建能力不是很差吗？为什么这次世界杯中的体育场馆这么多？",
           "url": "https://www.zhihu.com/question/2060785946757428288",
@@ -27,11 +14,38 @@
           "ranks": [
             9,
             7,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时05分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 05时46分]"
+        },
+        {
+          "title": "为什么体感酷热，但实际温度却只有 39℃？听说气象局会卡 40℃，这种说法是否合理？",
+          "url": "https://www.zhihu.com/question/2061366752232190902",
+          "source": "知乎",
+          "ranks": [
+            3,
+            8,
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 05时46分]"
+        },
+        {
+          "title": "上游订单爆表、下游不计代价！“大空头”查诺斯：AI这笔账为什么算不过来",
+          "url": "https://wallstreetcn.com/articles/3777307",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 05时46分]"
         },
         {
           "title": "韩国人为什么喜欢来张家界",
@@ -45,28 +59,17 @@
           "time_info": "[02时57分 ~ 02时58分]"
         },
         {
-          "title": "上游订单爆表、下游不计代价！“大空头”查诺斯：AI这笔账为什么算不过来",
-          "url": "https://wallstreetcn.com/articles/3777307",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时05分]"
-        },
-        {
           "title": "为什么父母觉得我们工作容易",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%88%B6%E6%AF%8D%E8%A7%89%E5%BE%97%E6%88%91%E4%BB%AC%E5%B7%A5%E4%BD%9C%E5%AE%B9%E6%98%93&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
             28,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时57分 ~ 04时05分]"
+          "appearance_count": 5,
+          "time_info": "[02时57分 ~ 05时46分]"
         },
         {
           "title": "为什么杭州湾和珠三角都建大桥了，可是渤海湾却没有建大桥?",
@@ -79,6 +82,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 01时54分]"
+        },
+        {
+          "title": "为什么全世界都爱哈兰德",
+          "url": "https://www.toutiao.com/trending/7663871407331216947/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时46分"
         }
       ]
     }
