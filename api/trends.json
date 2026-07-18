@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T06:45:22.052963+08:00",
-  "total_titles_processed": 490,
+  "generated_at": "2026-07-19T07:51:13.484766+08:00",
+  "total_titles_processed": 544,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 06时45分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时51分]"
+        },
+        {
+          "title": "上游订单爆表、下游不计代价！“大空头”查诺斯：AI这笔账为什么算不过来",
+          "url": "https://wallstreetcn.com/articles/3777307",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时51分]"
         },
         {
           "title": "为什么体感酷热，但实际温度却只有 39℃？听说气象局会卡 40℃，这种说法是否合理？",
@@ -35,18 +48,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时53分 ~ 05时46分]"
-        },
-        {
-          "title": "上游订单爆表、下游不计代价！“大空头”查诺斯：AI这笔账为什么算不过来",
-          "url": "https://wallstreetcn.com/articles/3777307",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 06时45分]"
         },
         {
           "title": "韩国人为什么喜欢来张家界",
@@ -73,6 +74,18 @@
           "time_info": "[02时57分 ~ 05时46分]"
         },
         {
+          "title": "为什么同一个医生，今天去是普通门诊医生，明天去就是专家医生了？",
+          "url": "https://www.zhihu.com/question/2061126196163826320",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时45分 ~ 07时51分]"
+        },
+        {
           "title": "为什么杭州湾和珠三角都建大桥了，可是渤海湾却没有建大桥?",
           "url": "https://www.zhihu.com/question/660373683",
           "source": "知乎",
@@ -83,17 +96,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 01时54分]"
-        },
-        {
-          "title": "为什么同一个医生，今天去是普通门诊医生，明天去就是专家医生了？",
-          "url": "https://www.zhihu.com/question/2061126196163826320",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时45分"
         },
         {
           "title": "为什么全世界都爱哈兰德",
