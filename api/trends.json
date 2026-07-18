@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T07:50:48.872500+08:00",
-  "total_titles_processed": 654,
+  "generated_at": "2026-07-18T10:03:10.979440+08:00",
+  "total_titles_processed": 767,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "日本护士将排泄物混入患者输液管致其死亡，排泄物进入血液为什么会致命？如何防范内部人员带来的医疗风险？",
@@ -62,6 +62,39 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时12分 ~ 06时45分]"
+        },
+        {
+          "title": "为什么《暮光之城》男主扮演者这么讨厌《暮光之城》？",
+          "url": "https://www.zhihu.com/question/62842616",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
+          "title": "为什么从奢华酒店到如家汉庭都是冰露矿泉水？",
+          "url": "https://www.zhihu.com/question/26900902",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
+          "title": "为什么同样是重金属银无毒而铅有毒？",
+          "url": "https://www.zhihu.com/question/31535632",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
         }
       ]
     }
