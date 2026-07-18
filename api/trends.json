@@ -1,147 +1,22 @@
 {
-  "generated_at": "2026-07-18T23:53:45.313609+08:00",
-  "total_titles_processed": 1600,
+  "generated_at": "2026-07-19T00:53:54.157855+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 18,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "为什么《暮光之城》男主扮演者这么讨厌《暮光之城》？",
-          "url": "https://www.zhihu.com/question/62842616",
-          "source": "知乎",
-          "ranks": [
-            9,
-            4,
-            6,
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时02分 ~ 19时57分]"
-        },
         {
           "title": "为什么体感酷热，但实际温度却只有 39℃？听说气象局会卡 40℃，这种说法是否合理？",
           "url": "https://www.zhihu.com/question/2061366752232190902",
           "source": "知乎",
           "ranks": [
-            10,
-            9,
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时21分 ~ 23时53分]"
-        },
-        {
-          "title": "为什么杭州湾和珠三角都建大桥了，可是渤海湾却没有建大桥?",
-          "url": "https://www.zhihu.com/question/660373683",
-          "source": "知乎",
-          "ranks": [
-            20,
-            15,
-            10,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时42分 ~ 23时53分]"
-        },
-        {
-          "title": "日本护士将排泄物混入患者输液管致其死亡，排泄物进入血液为什么会致命？如何防范内部人员带来的医疗风险？",
-          "url": "https://www.zhihu.com/question/2061057694832620856",
-          "source": "知乎",
-          "ranks": [
-            1,
-            3,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 07时50分]"
-        },
-        {
-          "title": "超市老板称「往年夏天卖断货的碳酸饮料，今年送都送不出去」，碳酸饮料为什么卖不动？是暂时还是大势所趋？",
-          "url": "https://www.zhihu.com/question/2061198817991418630",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 05时49分]"
-        },
-        {
-          "title": "为什么贝克汉姆会和恩师弗格森反目，选择出走曼联？",
-          "url": "https://www.zhihu.com/question/503931227",
-          "source": "知乎",
-          "ranks": [
-            5,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时57分 ~ 23时53分]"
-        },
-        {
-          "title": "为什么「锄禾日当午」，除草要在中午呢？",
-          "url": "https://www.zhihu.com/question/2057344841936265609",
-          "source": "知乎",
-          "ranks": [
-            20,
-            16,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 07时50分]"
-        },
-        {
-          "title": "为什么要给美甲师点奶茶",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%BB%99%E7%BE%8E%E7%94%B2%E5%B8%88%E7%82%B9%E5%A5%B6%E8%8C%B6&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时21分 ~ 21时09分]"
-        },
-        {
-          "title": "为什么会有钢琴老师讲不带成人学生？",
-          "url": "https://www.zhihu.com/question/2042257207627179809",
-          "source": "知乎",
-          "ranks": [
-            10,
-            6,
-            9,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 06时45分]"
-        },
-        {
-          "title": "为什么中国不申请世界杯",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E4%B8%8D%E7%94%B3%E8%AF%B7%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时57分 ~ 21时09分]"
+          "appearance_count": 1,
+          "time_info": "00时53分"
         },
         {
           "title": "上游订单爆表、下游不计代价！“大空头”查诺斯：AI这笔账为什么算不过来",
@@ -151,88 +26,30 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时48分 ~ 23时53分]"
+          "appearance_count": 1,
+          "time_info": "00时53分"
         },
         {
           "title": "美国基建能力不是很差吗？为什么这次世界杯中的体育场馆这么多？",
           "url": "https://www.zhihu.com/question/2060785946757428288",
           "source": "知乎",
           "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时48分 ~ 23时53分]"
-        },
-        {
-          "title": "机器人格斗赛头部脱落后仍能继续战斗，为什么头掉了还能打？这算不算人形机器人的成熟标志？",
-          "url": "https://www.zhihu.com/question/2061451804827545826",
-          "source": "知乎",
-          "ranks": [
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时21分 ~ 15时43分]"
-        },
-        {
-          "title": "为什么同样是重金属银无毒而铅有毒？",
-          "url": "https://www.zhihu.com/question/31535632",
-          "source": "知乎",
-          "ranks": [
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时02分 ~ 13时21分]"
-        },
-        {
-          "title": "韩国人为什么喜欢来张家界",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E5%96%9C%E6%AC%A2%E6%9D%A5%E5%BC%A0%E5%AE%B6%E7%95%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时59分 ~ 19时00分]"
-        },
-        {
-          "title": "为什么从奢华酒店到如家汉庭都是冰露矿泉水？",
-          "url": "https://www.zhihu.com/question/26900902",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 10时03分]"
-        },
-        {
-          "title": "大冷门 林诗栋温瑞博不敌林高远组合",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%86%B7%E9%97%A8+%E6%9E%97%E8%AF%97%E6%A0%8B%E6%B8%A9%E7%91%9E%E5%8D%9A%E4%B8%8D%E6%95%8C%E6%9E%97%E9%AB%98%E8%BF%9C%E7%BB%84%E5%90%88",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时08分 ~ 21时09分]"
-        },
-        {
-          "title": "孩子画一些没什么意义的东西，我只是心平气和地问问她，她为什么宁可哭也不回答？",
-          "url": "https://www.zhihu.com/question/2061391637109010870",
-          "source": "知乎",
-          "ranks": [
-            19
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时57分"
+          "time_info": "00时53分"
+        },
+        {
+          "title": "为什么杭州湾和珠三角都建大桥了，可是渤海湾却没有建大桥?",
+          "url": "https://www.zhihu.com/question/660373683",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时53分"
         }
       ]
     }
