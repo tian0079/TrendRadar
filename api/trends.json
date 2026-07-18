@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T00:53:54.157855+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-19T01:54:50.998052+08:00",
+  "total_titles_processed": 360,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 01时54分]"
+        },
+        {
+          "title": "美国基建能力不是很差吗？为什么这次世界杯中的体育场馆这么多？",
+          "url": "https://www.zhihu.com/question/2060785946757428288",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 01时54分]"
         },
         {
           "title": "上游订单爆表、下游不计代价！“大空头”查诺斯：AI这笔账为什么算不过来",
@@ -26,30 +38,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
-        },
-        {
-          "title": "美国基建能力不是很差吗？为什么这次世界杯中的体育场馆这么多？",
-          "url": "https://www.zhihu.com/question/2060785946757428288",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 01时54分]"
         },
         {
           "title": "为什么杭州湾和珠三角都建大桥了，可是渤海湾却没有建大桥?",
           "url": "https://www.zhihu.com/question/660373683",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 01时54分]"
         }
       ]
     }
