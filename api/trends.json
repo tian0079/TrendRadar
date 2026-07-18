@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T10:03:10.979440+08:00",
-  "total_titles_processed": 767,
+  "generated_at": "2026-07-18T13:21:33.563202+08:00",
+  "total_titles_processed": 943,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "日本护士将排泄物混入患者输液管致其死亡，排泄物进入血液为什么会致命？如何防范内部人员带来的医疗风险？",
@@ -68,11 +68,24 @@
           "url": "https://www.zhihu.com/question/62842616",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 10时03分]"
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 13时21分]"
+        },
+        {
+          "title": "为什么同样是重金属银无毒而铅有毒？",
+          "url": "https://www.zhihu.com/question/31535632",
+          "source": "知乎",
+          "ranks": [
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 13时21分]"
         },
         {
           "title": "为什么从奢华酒店到如家汉庭都是冰露矿泉水？",
@@ -86,15 +99,15 @@
           "time_info": "[10时02分 ~ 10时03分]"
         },
         {
-          "title": "为什么同样是重金属银无毒而铅有毒？",
-          "url": "https://www.zhihu.com/question/31535632",
+          "title": "机器人格斗赛头部脱落后仍能继续战斗，为什么头掉了还能打？这算不算人形机器人的成熟标志？",
+          "url": "https://www.zhihu.com/question/2061451804827545826",
           "source": "知乎",
           "ranks": [
-            15
+            14
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 10时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         }
       ]
     }
