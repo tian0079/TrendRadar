@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T13:21:33.563202+08:00",
-  "total_titles_processed": 943,
+  "generated_at": "2026-07-18T15:43:02.928966+08:00",
+  "total_titles_processed": 1072,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "日本护士将排泄物混入患者输液管致其死亡，排泄物进入血液为什么会致命？如何防范内部人员带来的医疗风险？",
@@ -49,6 +49,19 @@
           "time_info": "[00时12分 ~ 07时50分]"
         },
         {
+          "title": "为什么《暮光之城》男主扮演者这么讨厌《暮光之城》？",
+          "url": "https://www.zhihu.com/question/62842616",
+          "source": "知乎",
+          "ranks": [
+            9,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时02分 ~ 15时43分]"
+        },
+        {
           "title": "为什么会有钢琴老师讲不带成人学生？",
           "url": "https://www.zhihu.com/question/2042257207627179809",
           "source": "知乎",
@@ -64,16 +77,16 @@
           "time_info": "[00时12分 ~ 06时45分]"
         },
         {
-          "title": "为什么《暮光之城》男主扮演者这么讨厌《暮光之城》？",
-          "url": "https://www.zhihu.com/question/62842616",
+          "title": "机器人格斗赛头部脱落后仍能继续战斗，为什么头掉了还能打？这算不算人形机器人的成熟标志？",
+          "url": "https://www.zhihu.com/question/2061451804827545826",
           "source": "知乎",
           "ranks": [
-            9,
-            4
+            14,
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时02分 ~ 13时21分]"
+          "time_info": "[13时21分 ~ 15时43分]"
         },
         {
           "title": "为什么同样是重金属银无毒而铅有毒？",
@@ -99,15 +112,15 @@
           "time_info": "[10时02分 ~ 10时03分]"
         },
         {
-          "title": "机器人格斗赛头部脱落后仍能继续战斗，为什么头掉了还能打？这算不算人形机器人的成熟标志？",
-          "url": "https://www.zhihu.com/question/2061451804827545826",
+          "title": "为什么杭州湾和珠三角都建大桥了，可是渤海湾却没有建大桥?",
+          "url": "https://www.zhihu.com/question/660373683",
           "source": "知乎",
           "ranks": [
-            14
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 15时43分]"
         }
       ]
     }
