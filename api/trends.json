@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T13:48:41.159300+08:00",
-  "total_titles_processed": 865,
+  "generated_at": "2026-07-19T16:10:50.308038+08:00",
+  "total_titles_processed": 1017,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美国基建能力不是很差吗？为什么这次世界杯中的体育场馆这么多？",
@@ -35,8 +35,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时53分 ~ 13时48分]"
+          "appearance_count": 14,
+          "time_info": "[00时53分 ~ 16时10分]"
         },
         {
           "title": "为什么体感酷热，但实际温度却只有 39℃？听说气象局会卡 40℃，这种说法是否合理？",
@@ -72,8 +72,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时14分 ~ 13时48分]"
+          "appearance_count": 4,
+          "time_info": "[10时14分 ~ 16时10分]"
         },
         {
           "title": "为什么父母觉得我们工作容易",
@@ -87,6 +87,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时57分 ~ 05时46分]"
+        },
+        {
+          "title": "和孩子沟通困难，明明是讨论，但家长提出问题，为什么孩子却不能理解和接受？",
+          "url": "https://www.zhihu.com/question/2055979572177458096",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时14分 ~ 16时10分]"
         },
         {
           "title": "为什么稻田里能一直蓄着水？而麦田就蓄不了？",
@@ -112,15 +123,16 @@
           "time_info": "[06时45分 ~ 07时51分]"
         },
         {
-          "title": "和孩子沟通困难，明明是讨论，但家长提出问题，为什么孩子却不能理解和接受？",
-          "url": "https://www.zhihu.com/question/2055979572177458096",
+          "title": "为什么越来越多的演员去开演唱会？不少人因高价票与低质翻唱遭质疑，跨界开演唱会这条路能长久吗？",
+          "url": "https://www.zhihu.com/question/2061865676021522525",
           "source": "知乎",
           "ranks": [
-            17
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时14分 ~ 13时48分]"
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 16时10分]"
         },
         {
           "title": "你认为邹市明和冉莹颖亏损 2 亿，谁的责任大一些？为什么？",
@@ -146,15 +158,15 @@
           "time_info": "[00时53分 ~ 01时54分]"
         },
         {
-          "title": "为什么越来越多的演员去开演唱会？不少人因高价票与低质翻唱遭质疑，跨界开演唱会这条路能长久吗？",
-          "url": "https://www.zhihu.com/question/2061865676021522525",
+          "title": "为什么真人版的毛利兰都没有角？",
+          "url": "https://www.zhihu.com/question/286452082",
           "source": "知乎",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时48分"
+          "time_info": "16时10分"
         },
         {
           "title": "为什么全世界都爱哈兰德",
@@ -174,7 +186,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         }
