@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T21:08:41.684644+08:00",
-  "total_titles_processed": 1406,
+  "generated_at": "2026-07-19T22:52:36.510400+08:00",
+  "total_titles_processed": 1518,
   "failed_sources": [],
   "trends": [
     {
@@ -77,17 +77,6 @@
           "time_info": "[02时57分 ~ 02时58分]"
         },
         {
-          "title": "和孩子沟通困难，明明是讨论，但家长提出问题，为什么孩子却不能理解和接受？",
-          "url": "https://www.zhihu.com/question/2055979572177458096",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时14分 ~ 19时54分]"
-        },
-        {
           "title": "为什么真人版的毛利兰都没有角？",
           "url": "https://www.zhihu.com/question/286452082",
           "source": "知乎",
@@ -98,8 +87,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时10分 ~ 21时08分]"
+          "appearance_count": 5,
+          "time_info": "[16时10分 ~ 22时52分]"
+        },
+        {
+          "title": "和孩子沟通困难，明明是讨论，但家长提出问题，为什么孩子却不能理解和接受？",
+          "url": "https://www.zhihu.com/question/2055979572177458096",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时14分 ~ 19时54分]"
         },
         {
           "title": "为什么父母觉得我们工作容易",
@@ -138,6 +138,18 @@
           "time_info": "[06时45分 ~ 07时51分]"
         },
         {
+          "title": "《功夫女足》和《少林足球》，抛开情怀滤镜，单论电影本身，你觉得哪个更好看？为什么？",
+          "url": "https://www.zhihu.com/question/2060160756528702468",
+          "source": "知乎",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时54分 ~ 22时52分]"
+        },
+        {
           "title": "为什么越来越多的演员去开演唱会？不少人因高价票与低质翻唱遭质疑，跨界开演唱会这条路能长久吗？",
           "url": "https://www.zhihu.com/question/2061865676021522525",
           "source": "知乎",
@@ -173,27 +185,15 @@
           "time_info": "[00时53分 ~ 01时54分]"
         },
         {
-          "title": "《功夫女足》和《少林足球》，抛开情怀滤镜，单论电影本身，你觉得哪个更好看？为什么？",
-          "url": "https://www.zhihu.com/question/2060160756528702468",
-          "source": "知乎",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时54分 ~ 21时08分]"
-        },
-        {
           "title": "两只猫为什么会互相舔毛？怎么知道他们是闹着玩还是真的打架？",
           "url": "https://www.zhihu.com/question/286733645",
           "source": "知乎",
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 22时52分]"
         },
         {
           "title": "为什么全世界都爱哈兰德",
