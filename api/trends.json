@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T10:15:02.517853+08:00",
-  "total_titles_processed": 687,
+  "generated_at": "2026-07-19T13:48:41.159300+08:00",
+  "total_titles_processed": 865,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美国基建能力不是很差吗？为什么这次世界杯中的体育场馆这么多？",
@@ -31,11 +31,12 @@
             9,
             8,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 10时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 13时48分]"
         },
         {
           "title": "为什么体感酷热，但实际温度却只有 39℃？听说气象局会卡 40℃，这种说法是否合理？",
@@ -63,6 +64,18 @@
           "time_info": "[02时57分 ~ 02时58分]"
         },
         {
+          "title": "为什么印度小吃摊的卫生看起来那么糟，很多国人去吃了闹肚子，可是印度人却不受影响？",
+          "url": "https://www.zhihu.com/question/2060535612919363451",
+          "source": "知乎",
+          "ranks": [
+            14,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 13时48分]"
+        },
+        {
           "title": "为什么父母觉得我们工作容易",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%88%B6%E6%AF%8D%E8%A7%89%E5%BE%97%E6%88%91%E4%BB%AC%E5%B7%A5%E4%BD%9C%E5%AE%B9%E6%98%93&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -74,6 +87,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时57分 ~ 05时46分]"
+        },
+        {
+          "title": "为什么稻田里能一直蓄着水？而麦田就蓄不了？",
+          "url": "https://www.zhihu.com/question/2047400357463057122",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 13时48分]"
         },
         {
           "title": "为什么同一个医生，今天去是普通门诊医生，明天去就是专家医生了？",
@@ -88,15 +112,15 @@
           "time_info": "[06时45分 ~ 07时51分]"
         },
         {
-          "title": "为什么稻田里能一直蓄着水？而麦田就蓄不了？",
-          "url": "https://www.zhihu.com/question/2047400357463057122",
+          "title": "和孩子沟通困难，明明是讨论，但家长提出问题，为什么孩子却不能理解和接受？",
+          "url": "https://www.zhihu.com/question/2055979572177458096",
           "source": "知乎",
           "ranks": [
-            10
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 13时48分]"
         },
         {
           "title": "你认为邹市明和冉莹颖亏损 2 亿，谁的责任大一些？为什么？",
@@ -104,17 +128,6 @@
           "source": "知乎",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
-        },
-        {
-          "title": "为什么印度小吃摊的卫生看起来那么糟，很多国人去吃了闹肚子，可是印度人却不受影响？",
-          "url": "https://www.zhihu.com/question/2060535612919363451",
-          "source": "知乎",
-          "ranks": [
-            14
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -133,15 +146,15 @@
           "time_info": "[00时53分 ~ 01时54分]"
         },
         {
-          "title": "和孩子沟通困难，明明是讨论，但家长提出问题，为什么孩子却不能理解和接受？",
-          "url": "https://www.zhihu.com/question/2055979572177458096",
+          "title": "为什么越来越多的演员去开演唱会？不少人因高价票与低质翻唱遭质疑，跨界开演唱会这条路能长久吗？",
+          "url": "https://www.zhihu.com/question/2061865676021522525",
           "source": "知乎",
           "ranks": [
-            17
+            12
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
         },
         {
           "title": "为什么全世界都爱哈兰德",
@@ -153,6 +166,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
+        },
+        {
+          "title": "四川为什么这么“热”",
+          "url": "https://www.toutiao.com/trending/7663861528823513151/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
         }
       ]
     }
