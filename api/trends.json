@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T05:48:58.779990+08:00",
-  "total_titles_processed": 507,
+  "generated_at": "2026-07-20T06:48:05.729473+08:00",
+  "total_titles_processed": 566,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             11,
             9,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 05时48分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 06时48分]"
         },
         {
           "title": "两只猫为什么会互相舔毛？怎么知道他们是闹着玩还是真的打架？",
@@ -28,8 +29,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 05时48分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 06时48分]"
         },
         {
           "title": "我想知道量子纠缠为什么能瞬间影响遥远的粒子？",
@@ -38,11 +39,12 @@
           "ranks": [
             20,
             17,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时01分 ~ 05时48分]"
+          "appearance_count": 6,
+          "time_info": "[03时01分 ~ 06时48分]"
         },
         {
           "title": "为什么不上班反而低精力",
