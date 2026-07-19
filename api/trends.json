@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T04:10:49.606721+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2026-07-20T05:48:58.779990+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 04时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时48分]"
         },
         {
           "title": "两只猫为什么会互相舔毛？怎么知道他们是闹着玩还是真的打架？",
@@ -27,8 +28,21 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 04时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时48分]"
+        },
+        {
+          "title": "我想知道量子纠缠为什么能瞬间影响遥远的粒子？",
+          "url": "https://www.zhihu.com/question/2059281079941457516",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时01分 ~ 05时48分]"
         },
         {
           "title": "为什么不上班反而低精力",
@@ -40,18 +54,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时56分 ~ 04时10分]"
-        },
-        {
-          "title": "我想知道量子纠缠为什么能瞬间影响遥远的粒子？",
-          "url": "https://www.zhihu.com/question/2059281079941457516",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 04时10分]"
         },
         {
           "title": "为什么会有人认为整个华北平原都是黄河三角洲？",
