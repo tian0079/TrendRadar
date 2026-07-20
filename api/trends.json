@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T01:58:41.478460+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-21T03:45:02.889043+08:00",
+  "total_titles_processed": 371,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 03时45分]"
         },
         {
           "title": "为什么我开始不害怕领导了，说什么都不反驳，只淡淡一笑，看到主要领导也就这样？",
@@ -26,41 +26,44 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 03时45分]"
         },
         {
           "title": "为什么在极限运动视频中多数是外国人？",
           "url": "https://www.zhihu.com/question/37668903",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 03时45分]"
         },
         {
           "title": "为什么豆包没有被 DeepSeek「斩杀」？",
           "url": "https://www.zhihu.com/question/2061575313973416591",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 03时45分]"
         },
         {
           "title": "半个西瓜为什么存在食品安全风险",
           "url": "https://www.toutiao.com/trending/7664441565943480362/",
           "source": "今日头条",
           "ranks": [
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 03时45分]"
         }
       ]
     }
