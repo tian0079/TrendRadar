@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T06:57:00.571524+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2026-07-21T07:56:05.547657+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时58分 ~ 06时57分]"
+          "appearance_count": 8,
+          "time_info": "[01时58分 ~ 07时56分]"
         },
         {
           "title": "为什么我开始不害怕领导了，说什么都不反驳，只淡淡一笑，看到主要领导也就这样？",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时58分 ~ 06时57分]"
+          "appearance_count": 8,
+          "time_info": "[01时58分 ~ 07时56分]"
         },
         {
           "title": "为什么豆包没有被 DeepSeek「斩杀」？",
@@ -37,11 +37,12 @@
             15,
             13,
             8,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时58分 ~ 06时57分]"
+          "appearance_count": 8,
+          "time_info": "[01时58分 ~ 07时56分]"
         },
         {
           "title": "为什么在极限运动视频中多数是外国人？",
@@ -51,11 +52,12 @@
             14,
             9,
             6,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时58分 ~ 06时57分]"
+          "appearance_count": 8,
+          "time_info": "[01时58分 ~ 07时56分]"
         },
         {
           "title": "半个西瓜为什么存在食品安全风险",
@@ -65,11 +67,12 @@
             23,
             25,
             22,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时58分 ~ 06时57分]"
+          "appearance_count": 8,
+          "time_info": "[01时58分 ~ 07时56分]"
         },
         {
           "title": "《功夫女足》观众看了都说好，为什么影评人说烂大街？",
