@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T05:08:48.127606+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-07-21T06:57:00.571524+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "今天为什么需要世界人工智能大会",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时58分 ~ 05时08分]"
+          "appearance_count": 6,
+          "time_info": "[01时58分 ~ 06时57分]"
         },
         {
           "title": "为什么我开始不害怕领导了，说什么都不反驳，只淡淡一笑，看到主要领导也就这样？",
@@ -26,21 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时58分 ~ 05时08分]"
-        },
-        {
-          "title": "为什么在极限运动视频中多数是外国人？",
-          "url": "https://www.zhihu.com/question/37668903",
-          "source": "知乎",
-          "ranks": [
-            14,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时58分 ~ 05时08分]"
+          "appearance_count": 6,
+          "time_info": "[01时58分 ~ 06时57分]"
         },
         {
           "title": "为什么豆包没有被 DeepSeek「斩杀」？",
@@ -49,11 +36,26 @@
           "ranks": [
             15,
             13,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时58分 ~ 05时08分]"
+          "appearance_count": 6,
+          "time_info": "[01时58分 ~ 06时57分]"
+        },
+        {
+          "title": "为什么在极限运动视频中多数是外国人？",
+          "url": "https://www.zhihu.com/question/37668903",
+          "source": "知乎",
+          "ranks": [
+            14,
+            9,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时58分 ~ 06时57分]"
         },
         {
           "title": "半个西瓜为什么存在食品安全风险",
@@ -62,11 +64,23 @@
           "ranks": [
             23,
             25,
-            22
+            22,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时58分 ~ 05时08分]"
+          "appearance_count": 6,
+          "time_info": "[01时58分 ~ 06时57分]"
+        },
+        {
+          "title": "《功夫女足》观众看了都说好，为什么影评人说烂大街？",
+          "url": "https://www.zhihu.com/question/2061061982518764560",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 06时57分]"
         }
       ]
     }
