@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T01:15:30.630885+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-22T03:15:10.741731+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 03时15分]"
         },
         {
           "title": "网友发现很多 KTV 都没有 MV 了，全是奇怪的 AI 画面，为什么会这样？你有遇到这种情况吗？",
           "url": "https://www.zhihu.com/question/2061915732447687216",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 03时15分]"
         },
         {
           "title": "乐事回应「消费者吃到蓝色薯片」，系工厂使用的着色验证薯片，不影响食品安全与品质，薯片为什么要着色验证？",
@@ -37,19 +38,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 03时15分]"
         },
         {
           "title": "中国计划 2030 年前载人登月，美国计划 2028 年重返月球，你觉得谁会先上？为什么？",
           "url": "https://www.zhihu.com/question/2062554385847160852",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 03时15分]"
         },
         {
           "title": "为什么要造不隐身的飞机",
