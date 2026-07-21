@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T03:15:10.741731+08:00",
-  "total_titles_processed": 394,
+  "generated_at": "2026-07-22T05:04:46.724695+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
@@ -8,27 +8,42 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "马宁首次回应无缘主哨淘汰赛，称到现在都不知道为什么，配置问题不是核心原因，那问题可能出在哪里？",
-          "url": "https://www.zhihu.com/question/2062863345573803605",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 03时15分]"
-        },
-        {
           "title": "网友发现很多 KTV 都没有 MV 了，全是奇怪的 AI 画面，为什么会这样？你有遇到这种情况吗？",
           "url": "https://www.zhihu.com/question/2061915732447687216",
           "source": "知乎",
           "ranks": [
             12,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时15分 ~ 05时04分]"
+        },
+        {
+          "title": "马宁首次回应无缘主哨淘汰赛，称到现在都不知道为什么，配置问题不是核心原因，那问题可能出在哪里？",
+          "url": "https://www.zhihu.com/question/2062863345573803605",
+          "source": "知乎",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时15分 ~ 05时04分]"
+        },
+        {
+          "title": "中国计划 2030 年前载人登月，美国计划 2028 年重返月球，你觉得谁会先上？为什么？",
+          "url": "https://www.zhihu.com/question/2062554385847160852",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时15分 ~ 05时04分]"
         },
         {
           "title": "乐事回应「消费者吃到蓝色薯片」，系工厂使用的着色验证薯片，不影响食品安全与品质，薯片为什么要着色验证？",
@@ -42,27 +57,16 @@
           "time_info": "[01时15分 ~ 03时15分]"
         },
         {
-          "title": "中国计划 2030 年前载人登月，美国计划 2028 年重返月球，你觉得谁会先上？为什么？",
-          "url": "https://www.zhihu.com/question/2062554385847160852",
-          "source": "知乎",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 03时15分]"
-        },
-        {
           "title": "为什么要造不隐身的飞机",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E9%80%A0%E4%B8%8D%E9%9A%90%E8%BA%AB%E7%9A%84%E9%A3%9E%E6%9C%BA",
           "source": "bilibili 热搜",
           "ranks": [
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 05时04分]"
         }
       ]
     }
