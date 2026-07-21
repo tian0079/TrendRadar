@@ -1,151 +1,22 @@
 {
-  "generated_at": "2026-07-21T23:42:25.501898+08:00",
-  "total_titles_processed": 1582,
+  "generated_at": "2026-07-22T01:15:30.630885+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 21,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "今天为什么需要世界人工智能大会",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%A4%A9%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时58分 ~ 10时13分]"
-        },
-        {
-          "title": "为什么我开始不害怕领导了，说什么都不反驳，只淡淡一笑，看到主要领导也就这样？",
-          "url": "https://www.zhihu.com/question/4714962638",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时58分 ~ 07时56分]"
-        },
-        {
-          "title": "为什么豆包没有被 DeepSeek「斩杀」？",
-          "url": "https://www.zhihu.com/question/2061575313973416591",
-          "source": "知乎",
-          "ranks": [
-            15,
-            13,
-            8,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时58分 ~ 10时13分]"
-        },
-        {
-          "title": "为什么在极限运动视频中多数是外国人？",
-          "url": "https://www.zhihu.com/question/37668903",
-          "source": "知乎",
-          "ranks": [
-            14,
-            9,
-            6,
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时58分 ~ 07时56分]"
-        },
-        {
-          "title": "半个西瓜为什么存在食品安全风险",
-          "url": "https://www.toutiao.com/trending/7664441565943480362/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            25,
-            22,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时58分 ~ 07时56分]"
-        },
-        {
-          "title": "女生高考 684 分花 3000 元咨询进双非，原计划上央财、上财，为什么会出现这种情况？高报师能赔偿吗？",
-          "url": "https://www.zhihu.com/question/2062830801440306762",
-          "source": "知乎",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时47分 ~ 19时06分]"
-        },
         {
           "title": "马宁首次回应无缘主哨淘汰赛，称到现在都不知道为什么，配置问题不是核心原因，那问题可能出在哪里？",
           "url": "https://www.zhihu.com/question/2062863345573803605",
           "source": "知乎",
           "ranks": [
-            9,
-            6,
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时05分 ~ 23时42分]"
-        },
-        {
-          "title": "乐事回应「消费者吃到蓝色薯片」，系工厂使用的着色验证薯片，不影响食品安全与品质，薯片为什么要着色验证？",
-          "url": "https://www.zhihu.com/question/2061399390741337380",
-          "source": "知乎",
-          "ranks": [
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时05分 ~ 23时42分]"
-        },
-        {
-          "title": "为什么恋综这么多高颜值精英、富二代、留学生，但是他们在恋综呈现出的生活依旧很无聊?",
-          "url": "https://www.zhihu.com/question/2001825569575306638",
-          "source": "知乎",
-          "ranks": [
-            18,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 13时47分]"
-        },
-        {
-          "title": "为什么日韩人民突然同步爱吃麻辣烫了？",
-          "url": "https://www.zhihu.com/question/2058337204255118363",
-          "source": "知乎",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时47分 ~ 16时21分]"
-        },
-        {
-          "title": "AI的猴子为什么能让菲律宾“破防”",
-          "url": "https://www.toutiao.com/trending/7664683124179337279/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时21分 ~ 19时06分]"
+          "appearance_count": 1,
+          "time_info": "01时15分"
         },
         {
           "title": "网友发现很多 KTV 都没有 MV 了，全是奇怪的 AI 画面，为什么会这样？你有遇到这种情况吗？",
@@ -155,109 +26,41 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时30分 ~ 23时42分]"
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
+          "title": "乐事回应「消费者吃到蓝色薯片」，系工厂使用的着色验证薯片，不影响食品安全与品质，薯片为什么要着色验证？",
+          "url": "https://www.zhihu.com/question/2061399390741337380",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
+          "title": "中国计划 2030 年前载人登月，美国计划 2028 年重返月球，你觉得谁会先上？为什么？",
+          "url": "https://www.zhihu.com/question/2062554385847160852",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
         },
         {
           "title": "为什么要造不隐身的飞机",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E9%80%A0%E4%B8%8D%E9%9A%90%E8%BA%AB%E7%9A%84%E9%A3%9E%E6%9C%BA",
           "source": "bilibili 热搜",
           "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时30分 ~ 23时42分]"
-        },
-        {
-          "title": "为什么王权的象征往往是大猫（狮子、老虎、美洲豹）和鹰，而非熊或者鳄鱼？",
-          "url": "https://www.zhihu.com/question/2062227038862307460",
-          "source": "知乎",
-          "ranks": [
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时47分 ~ 16时21分]"
-        },
-        {
-          "title": "《功夫女足》观众看了都说好，为什么影评人说烂大街？",
-          "url": "https://www.zhihu.com/question/2061061982518764560",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 06时57分]"
-        },
-        {
-          "title": "这届世界杯经常出现的「XX 是个外行」是什么梗，为什么这么多人躺床上骂别人是外行，这个梗为什么这么好玩？",
-          "url": "https://www.zhihu.com/question/2061029759895561659",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时47分 ~ 16时21分]"
-        },
-        {
-          "title": "《功夫女足》为什么口碑两极分化",
-          "url": "https://www.toutiao.com/trending/7664845671584779785/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时30分 ~ 21时31分]"
-        },
-        {
-          "title": "AI的猴子为什么能让菲律宾“破防”",
-          "url": "https://www.baidu.com/s?wd=AI%E7%9A%84%E7%8C%B4%E5%AD%90%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E8%AE%A9%E8%8F%B2%E5%BE%8B%E5%AE%BE%E2%80%9C%E7%A0%B4%E9%98%B2%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时05分 ~ 19时06分]"
-        },
-        {
-          "title": "学习明明很痛苦，孔子为什么还要说「学而时习之，不亦说 yuè乎」？",
-          "url": "https://www.zhihu.com/question/2061437886252290978",
-          "source": "知乎",
-          "ranks": [
-            9
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "为什么学霸看书刷题都那么快？",
-          "url": "https://www.zhihu.com/question/1969892755984594774",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
-          "title": "为什么癸酉本《石头记》存在诸多漏洞，却仍被许多人视为真本？",
-          "url": "https://www.zhihu.com/question/2036634256450049470",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
+          "time_info": "01时15分"
         }
       ]
     }
