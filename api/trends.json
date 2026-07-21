@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T06:53:05.406721+08:00",
-  "total_titles_processed": 544,
+  "generated_at": "2026-07-22T07:55:12.396748+08:00",
+  "total_titles_processed": 627,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "网友发现很多 KTV 都没有 MV 了，全是奇怪的 AI 画面，为什么会这样？你有遇到这种情况吗？",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时15分 ~ 06时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时15分 ~ 07时55分]"
         },
         {
           "title": "中国计划 2030 年前载人登月，美国计划 2028 年重返月球，你觉得谁会先上？为什么？",
@@ -70,6 +70,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时15分 ~ 06时53分]"
+        },
+        {
+          "title": "整车利润率仅 1.5% ，卖一台 10 万元新车只赚 1500 元，为什么车企不涨价反而打价格战？",
+          "url": "https://www.zhihu.com/question/2062885893309047731",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时54分 ~ 07时55分]"
+        },
+        {
+          "title": "上海这么大的城市，下大暴雨为什么还会积水？",
+          "url": "https://www.zhihu.com/question/2062236136534291064",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时54分 ~ 07时55分]"
         }
       ]
     }
