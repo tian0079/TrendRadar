@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T16:22:32.473861+08:00",
-  "total_titles_processed": 1121,
+  "generated_at": "2026-07-22T19:07:25.851856+08:00",
+  "total_titles_processed": 1306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "网友发现很多 KTV 都没有 MV 了，全是奇怪的 AI 画面，为什么会这样？你有遇到这种情况吗？",
@@ -20,6 +20,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时15分 ~ 10时11分]"
+        },
+        {
+          "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
+          "url": "https://www.zhihu.com/question/2062943431668789795",
+          "source": "知乎",
+          "ranks": [
+            20,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时11分 ~ 19时07分]"
         },
         {
           "title": "中国计划 2030 年前载人登月，美国计划 2028 年重返月球，你觉得谁会先上？为什么？",
@@ -61,17 +74,15 @@
           "time_info": "[01时15分 ~ 05时04分]"
         },
         {
-          "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
-          "url": "https://www.zhihu.com/question/2062943431668789795",
+          "title": "大脑为什么要删除三岁前的记忆？",
+          "url": "https://www.zhihu.com/question/2061935759511368565",
           "source": "知乎",
           "ranks": [
-            20,
-            4,
-            3
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时11分 ~ 16时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "乐事回应「消费者吃到蓝色薯片」，系工厂使用的着色验证薯片，不影响食品安全与品质，薯片为什么要着色验证？",
@@ -116,9 +127,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 19时07分]"
         },
         {
           "title": "《我的叔叔于勒》里为什么说吃牡蛎非常优雅高贵?",
@@ -152,6 +163,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
+        },
+        {
+          "title": "为什么在中国邮箱不流行？",
+          "url": "https://www.zhihu.com/question/378318261",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         }
       ]
     }
