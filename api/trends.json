@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T13:46:30.675751+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2026-07-22T16:22:32.473861+08:00",
+  "total_titles_processed": 1121,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "网友发现很多 KTV 都没有 MV 了，全是奇怪的 AI 画面，为什么会这样？你有遇到这种情况吗？",
@@ -36,6 +36,19 @@
           "time_info": "[01时15分 ~ 06时53分]"
         },
         {
+          "title": "整车利润率仅 1.5% ，卖一台 10 万元新车只赚 1500 元，为什么车企不涨价反而打价格战？",
+          "url": "https://www.zhihu.com/question/2062885893309047731",
+          "source": "知乎",
+          "ranks": [
+            12,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时54分 ~ 16时22分]"
+        },
+        {
           "title": "马宁首次回应无缘主哨淘汰赛，称到现在都不知道为什么，配置问题不是核心原因，那问题可能出在哪里？",
           "url": "https://www.zhihu.com/question/2062863345573803605",
           "source": "知乎",
@@ -48,17 +61,17 @@
           "time_info": "[01时15分 ~ 05时04分]"
         },
         {
-          "title": "整车利润率仅 1.5% ，卖一台 10 万元新车只赚 1500 元，为什么车企不涨价反而打价格战？",
-          "url": "https://www.zhihu.com/question/2062885893309047731",
+          "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
+          "url": "https://www.zhihu.com/question/2062943431668789795",
           "source": "知乎",
           "ranks": [
-            12,
-            6,
-            2
+            20,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时54分 ~ 13时46分]"
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 16时22分]"
         },
         {
           "title": "乐事回应「消费者吃到蓝色薯片」，系工厂使用的着色验证薯片，不影响食品安全与品质，薯片为什么要着色验证？",
@@ -70,18 +83,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时15分 ~ 06时53分]"
-        },
-        {
-          "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
-          "url": "https://www.zhihu.com/question/2062943431668789795",
-          "source": "知乎",
-          "ranks": [
-            20,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 13时46分]"
         },
         {
           "title": "上海这么大的城市，下大暴雨为什么还会积水？",
@@ -109,13 +110,24 @@
           "time_info": "[01时15分 ~ 06时53分]"
         },
         {
+          "title": "毛利兰人设完美，为什么在《名侦探柯南》里人气越来越低？",
+          "url": "https://www.zhihu.com/question/2062567954588480341",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "《我的叔叔于勒》里为什么说吃牡蛎非常优雅高贵?",
           "url": "https://www.zhihu.com/question/28850652",
           "source": "知乎",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         },
@@ -137,7 +149,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         }
