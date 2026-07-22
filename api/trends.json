@@ -1,101 +1,55 @@
 {
-  "generated_at": "2026-07-22T23:32:11.773207+08:00",
-  "total_titles_processed": 1585,
+  "generated_at": "2026-07-23T01:14:04.739620+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 18,
+      "match_count": 6,
       "titles": [
         {
-          "title": "网友发现很多 KTV 都没有 MV 了，全是奇怪的 AI 画面，为什么会这样？你有遇到这种情况吗？",
-          "url": "https://www.zhihu.com/question/2061915732447687216",
-          "source": "知乎",
+          "title": "年轻人为什么不爱康师傅了",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%88%B1%E5%BA%B7%E5%B8%88%E5%82%85%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            12,
-            5,
-            3,
-            1
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时15分 ~ 10时11分]"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 01时14分]"
         },
         {
           "title": "大脑为什么要删除三岁前的记忆？",
           "url": "https://www.zhihu.com/question/2061935759511368565",
           "source": "知乎",
           "ranks": [
-            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时07分 ~ 23时32分]"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 01时14分]"
         },
         {
-          "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
-          "url": "https://www.zhihu.com/question/2062943431668789795",
+          "title": "为什么 LV 告侵权，就是被人嘲讽，而迪士尼告侵权，大家却是玩梗，觉得很有意思呢？",
+          "url": "https://www.zhihu.com/question/2056857053994525624",
           "source": "知乎",
           "ranks": [
-            20,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时11分 ~ 19时07分]"
-        },
-        {
-          "title": "中国计划 2030 年前载人登月，美国计划 2028 年重返月球，你觉得谁会先上？为什么？",
-          "url": "https://www.zhihu.com/question/2062554385847160852",
-          "source": "知乎",
-          "ranks": [
-            19,
-            18,
-            13,
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时15分 ~ 06时53分]"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 01时14分]"
         },
         {
-          "title": "整车利润率仅 1.5% ，卖一台 10 万元新车只赚 1500 元，为什么车企不涨价反而打价格战？",
-          "url": "https://www.zhihu.com/question/2062885893309047731",
-          "source": "知乎",
+          "title": "为什么要说尽量少跟AI倾诉聊天",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AF%B4%E5%B0%BD%E9%87%8F%E5%B0%91%E8%B7%9FAI%E5%80%BE%E8%AF%89%E8%81%8A%E5%A4%A9&t=31&band_rank=8&Refer=top",
+          "source": "微博",
           "ranks": [
-            12,
-            6,
-            2
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时54分 ~ 16时22分]"
-        },
-        {
-          "title": "马宁首次回应无缘主哨淘汰赛，称到现在都不知道为什么，配置问题不是核心原因，那问题可能出在哪里？",
-          "url": "https://www.zhihu.com/question/2062863345573803605",
-          "source": "知乎",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 05时04分]"
-        },
-        {
-          "title": "年轻人为什么不爱康师傅了",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%88%B1%E5%BA%B7%E5%B8%88%E5%82%85%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时42分 ~ 23时32分]"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 01时14分]"
         },
         {
           "title": "毛利兰人设完美，为什么在《名侦探柯南》里人气越来越低？",
@@ -105,68 +59,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时22分 ~ 23时32分]"
-        },
-        {
-          "title": "乐事回应「消费者吃到蓝色薯片」，系工厂使用的着色验证薯片，不影响食品安全与品质，薯片为什么要着色验证？",
-          "url": "https://www.zhihu.com/question/2061399390741337380",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时15分 ~ 06时53分]"
-        },
-        {
-          "title": "上海这么大的城市，下大暴雨为什么还会积水？",
-          "url": "https://www.zhihu.com/question/2062236136534291064",
-          "source": "知乎",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时54分 ~ 13时46分]"
-        },
-        {
-          "title": "为什么要造不隐身的飞机",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E9%80%A0%E4%B8%8D%E9%9A%90%E8%BA%AB%E7%9A%84%E9%A3%9E%E6%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            30,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 06时53分]"
-        },
-        {
-          "title": "为什么 LV 告侵权，就是被人嘲讽，而迪士尼告侵权，大家却是玩梗，觉得很有意思呢？",
-          "url": "https://www.zhihu.com/question/2056857053994525624",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时42分 ~ 23时32分]"
-        },
-        {
-          "title": "为什么在中国邮箱不流行？",
-          "url": "https://www.zhihu.com/question/378318261",
-          "source": "知乎",
-          "ranks": [
-            20,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时07分 ~ 23时32分]"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 01时14分]"
         },
         {
           "title": "媒体披露高校教师评职称需到账百万科研经费，为什么会有这种现象？这合理吗？",
@@ -176,52 +70,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时42分 ~ 23时32分]"
-        },
-        {
-          "title": "为什么要说尽量少跟AI倾诉聊天",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AF%B4%E5%B0%BD%E9%87%8F%E5%B0%91%E8%B7%9FAI%E5%80%BE%E8%AF%89%E8%81%8A%E5%A4%A9&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时31分 ~ 23时32分]"
-        },
-        {
-          "title": "《我的叔叔于勒》里为什么说吃牡蛎非常优雅高贵?",
-          "url": "https://www.zhihu.com/question/28850652",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时46分"
-        },
-        {
-          "title": "宙斯的子女为什么没人干掉宙斯?",
-          "url": "https://www.zhihu.com/question/489464525",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "英国为什么连续十年留不住一位首相",
-          "url": "https://www.toutiao.com/trending/7665118850190413358/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时46分"
+          "time_info": "[01时13分 ~ 01时14分]"
         }
       ]
     }
