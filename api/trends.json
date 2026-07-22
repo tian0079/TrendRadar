@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T03:09:47.296196+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-07-23T05:03:16.812890+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "为什么 LV 告侵权，就是被人嘲讽，而迪士尼告侵权，大家却是玩梗，觉得很有意思呢？",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 03时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 05时03分]"
         },
         {
           "title": "年轻人为什么不爱康师傅了",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 03时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 05时03分]"
         },
         {
           "title": "大脑为什么要删除三岁前的记忆？",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 03时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 05时03分]"
         },
         {
           "title": "为什么要说尽量少跟AI倾诉聊天",
@@ -50,8 +50,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 03时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 05时03分]"
+        },
+        {
+          "title": "媒体披露高校教师评职称需到账百万科研经费，为什么会有这种现象？这合理吗？",
+          "url": "https://www.zhihu.com/question/2059646616953418885",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 05时03分]"
         },
         {
           "title": "毛利兰人设完美，为什么在《名侦探柯南》里人气越来越低？",
@@ -65,15 +76,15 @@
           "time_info": "[01时13分 ~ 03时09分]"
         },
         {
-          "title": "媒体披露高校教师评职称需到账百万科研经费，为什么会有这种现象？这合理吗？",
-          "url": "https://www.zhihu.com/question/2059646616953418885",
+          "title": "《潜伏》为什么晚秋会对来搜刮伯父财产的余则成一见钟情？",
+          "url": "https://www.zhihu.com/question/14075531614",
           "source": "知乎",
           "ranks": [
-            20
+            17
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 03时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
         }
       ]
     }
