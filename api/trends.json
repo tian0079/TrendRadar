@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T20:22:41.034618+08:00",
-  "total_titles_processed": 1334,
+  "generated_at": "2026-07-23T23:09:05.550012+08:00",
+  "total_titles_processed": 1516,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "为什么 LV 告侵权，就是被人嘲讽，而迪士尼告侵权，大家却是玩梗，觉得很有意思呢？",
@@ -135,6 +135,19 @@
           "time_info": "[12时13分 ~ 20时22分]"
         },
         {
+          "title": "为什么古代打仗不大量使用毒箭来快速消灭敌人？",
+          "url": "https://www.zhihu.com/question/2063203201608897319",
+          "source": "知乎",
+          "ranks": [
+            9,
+            19,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时17分 ~ 23时09分]"
+        },
+        {
           "title": "为什么胡歌和刘诗诗几乎不参加综艺节目？",
           "url": "https://www.zhihu.com/question/326219584",
           "source": "知乎",
@@ -159,18 +172,6 @@
           "time_info": "[01时13分 ~ 03时09分]"
         },
         {
-          "title": "为什么古代打仗不大量使用毒箭来快速消灭敌人？",
-          "url": "https://www.zhihu.com/question/2063203201608897319",
-          "source": "知乎",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 20时22分]"
-        },
-        {
           "title": "为什么现在，大部分人都在网上买东西，实体店静静悄悄？",
           "url": "https://www.zhihu.com/question/2062787306789003681",
           "source": "知乎",
@@ -180,6 +181,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时02分 ~ 08时03分]"
+        },
+        {
+          "title": "老师为什么教不了自己的孩子？",
+          "url": "https://www.zhihu.com/question/2039469724594090031",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时08分 ~ 23时09分]"
         },
         {
           "title": "《剑雨》中转轮王为什么甘心在宫里被人呼来喝去的？江阿生隐姓埋名在大街上当跑腿是为了等机会报仇吗？",
