@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T15:31:47.038030+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-07-23T18:17:57.126975+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "为什么 LV 告侵权，就是被人嘲讽，而迪士尼告侵权，大家却是玩梗，觉得很有意思呢？",
@@ -66,8 +66,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 15时31分]"
+          "appearance_count": 3,
+          "time_info": "[12时13分 ~ 18时17分]"
         },
         {
           "title": "媒体披露高校教师评职称需到账百万科研经费，为什么会有这种现象？这合理吗？",
@@ -119,6 +119,19 @@
           "time_info": "[08时02分 ~ 15时31分]"
         },
         {
+          "title": "为什么现在大部分人都在网上买东西，实体店静静悄悄？",
+          "url": "https://www.zhihu.com/question/2062787306789003681",
+          "source": "知乎",
+          "ranks": [
+            7,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时13分 ~ 18时17分]"
+        },
+        {
           "title": "毛利兰人设完美，为什么在《名侦探柯南》里人气越来越低？",
           "url": "https://www.zhihu.com/question/2062567954588480341",
           "source": "知乎",
@@ -130,28 +143,17 @@
           "time_info": "[01时13分 ~ 03时09分]"
         },
         {
-          "title": "为什么现在大部分人都在网上买东西，实体店静静悄悄？",
-          "url": "https://www.zhihu.com/question/2062787306789003681",
-          "source": "知乎",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 15时31分]"
-        },
-        {
           "title": "为什么英国参加世界杯不叫英国队，而叫英格兰？",
           "url": "https://www.zhihu.com/question/2050507183931012504",
           "source": "知乎",
           "ranks": [
             18,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 15时31分]"
+          "appearance_count": 3,
+          "time_info": "[12时13分 ~ 18时17分]"
         },
         {
           "title": "为什么现在，大部分人都在网上买东西，实体店静静悄悄？",
@@ -165,13 +167,24 @@
           "time_info": "[08时02分 ~ 08时03分]"
         },
         {
+          "title": "为什么古代打仗不大量使用毒箭来快速消灭敌人？",
+          "url": "https://www.zhihu.com/question/2063203201608897319",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "《剑雨》中转轮王为什么甘心在宫里被人呼来喝去的？江阿生隐姓埋名在大街上当跑腿是为了等机会报仇吗？",
           "url": "https://www.zhihu.com/question/369891739",
           "source": "知乎",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
