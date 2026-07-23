@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T08:03:11.190555+08:00",
-  "total_titles_processed": 633,
+  "generated_at": "2026-07-23T12:13:19.546238+08:00",
+  "total_titles_processed": 841,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "为什么 LV 告侵权，就是被人嘲讽，而迪士尼告侵权，大家却是玩梗，觉得很有意思呢？",
@@ -69,6 +69,29 @@
           "time_info": "[01时13分 ~ 06时59分]"
         },
         {
+          "title": "西门庆有钱有势的不能补偿武大些钱，让他与潘金莲和离吗，或者再给武大娶个媳妇，为什么非要杀了武大呢？",
+          "url": "https://www.zhihu.com/question/2047419289150477897",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时02分 ~ 12时13分]"
+        },
+        {
+          "title": "为什么祁同伟和高启强并不讨人厌，反而侯亮平和安欣会让人反感呢？",
+          "url": "https://www.zhihu.com/question/2060313146192143108",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
           "title": "《潜伏》为什么晚秋会对来搜刮伯父财产的余则成一见钟情？",
           "url": "https://www.zhihu.com/question/14075531614",
           "source": "知乎",
@@ -93,26 +116,16 @@
           "time_info": "[01时13分 ~ 03时09分]"
         },
         {
-          "title": "西门庆有钱有势的不能补偿武大些钱，让他与潘金莲和离吗，或者再给武大娶个媳妇，为什么非要杀了武大呢？",
-          "url": "https://www.zhihu.com/question/2047419289150477897",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时02分 ~ 08时03分]"
-        },
-        {
           "title": "为什么胡歌和刘诗诗几乎不参加综艺节目？",
           "url": "https://www.zhihu.com/question/326219584",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时02分 ~ 08时03分]"
+          "appearance_count": 3,
+          "time_info": "[08时02分 ~ 12时13分]"
         },
         {
           "title": "为什么现在，大部分人都在网上买东西，实体店静静悄悄？",
@@ -124,6 +137,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时02分 ~ 08时03分]"
+        },
+        {
+          "title": "为什么现在大部分人都在网上买东西，实体店静静悄悄？",
+          "url": "https://www.zhihu.com/question/2062787306789003681",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "为什么英国参加世界杯不叫英国队，而叫英格兰？",
+          "url": "https://www.zhihu.com/question/2050507183931012504",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "桑拿天为什么越喝水越口渴",
+          "url": "https://www.toutiao.com/trending/7664893196635537462/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         }
       ]
     }
