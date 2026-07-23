@@ -1,219 +1,22 @@
 {
-  "generated_at": "2026-07-23T23:09:05.550012+08:00",
-  "total_titles_processed": 1516,
+  "generated_at": "2026-07-24T01:17:54.670244+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 17,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "为什么 LV 告侵权，就是被人嘲讽，而迪士尼告侵权，大家却是玩梗，觉得很有意思呢？",
-          "url": "https://www.zhihu.com/question/2056857053994525624",
-          "source": "知乎",
-          "ranks": [
-            5,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时13分 ~ 08时03分]"
-        },
-        {
-          "title": "为什么要说尽量少跟AI倾诉聊天",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AF%B4%E5%B0%BD%E9%87%8F%E5%B0%91%E8%B7%9FAI%E5%80%BE%E8%AF%89%E8%81%8A%E5%A4%A9&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            4,
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时13分 ~ 08时03分]"
-        },
-        {
-          "title": "大脑为什么要删除三岁前的记忆？",
-          "url": "https://www.zhihu.com/question/2061935759511368565",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时13分 ~ 06时59分]"
-        },
-        {
-          "title": "年轻人为什么不爱康师傅了",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%88%B1%E5%BA%B7%E5%B8%88%E5%82%85%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时13分 ~ 08时03分]"
-        },
-        {
-          "title": "为什么祁同伟和高启强并不讨人厌，反而侯亮平和安欣会让人反感呢？",
-          "url": "https://www.zhihu.com/question/2060313146192143108",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 20时22分]"
-        },
-        {
-          "title": "媒体披露高校教师评职称需到账百万科研经费，为什么会有这种现象？这合理吗？",
-          "url": "https://www.zhihu.com/question/2059646616953418885",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时13分 ~ 06时59分]"
-        },
-        {
-          "title": "西门庆有钱有势的不能补偿武大些钱，让他与潘金莲和离吗，或者再给武大娶个媳妇，为什么非要杀了武大呢？",
-          "url": "https://www.zhihu.com/question/2047419289150477897",
-          "source": "知乎",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时02分 ~ 12时13分]"
-        },
-        {
-          "title": "《潜伏》为什么晚秋会对来搜刮伯父财产的余则成一见钟情？",
-          "url": "https://www.zhihu.com/question/14075531614",
-          "source": "知乎",
-          "ranks": [
-            17,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时03分 ~ 08时03分]"
-        },
-        {
-          "title": "为什么现在大部分人都在网上买东西，实体店静静悄悄？",
-          "url": "https://www.zhihu.com/question/2062787306789003681",
-          "source": "知乎",
-          "ranks": [
-            7,
-            8,
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 20时22分]"
-        },
-        {
-          "title": "为什么英国参加世界杯不叫英国队，而叫英格兰？",
-          "url": "https://www.zhihu.com/question/2050507183931012504",
-          "source": "知乎",
-          "ranks": [
-            18,
-            10,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 20时22分]"
-        },
         {
           "title": "为什么古代打仗不大量使用毒箭来快速消灭敌人？",
           "url": "https://www.zhihu.com/question/2063203201608897319",
           "source": "知乎",
           "ranks": [
-            9,
-            19,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时17分 ~ 23时09分]"
-        },
-        {
-          "title": "为什么胡歌和刘诗诗几乎不参加综艺节目？",
-          "url": "https://www.zhihu.com/question/326219584",
-          "source": "知乎",
-          "ranks": [
-            16,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时02分 ~ 15时31分]"
-        },
-        {
-          "title": "毛利兰人设完美，为什么在《名侦探柯南》里人气越来越低？",
-          "url": "https://www.zhihu.com/question/2062567954588480341",
-          "source": "知乎",
-          "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 03时09分]"
-        },
-        {
-          "title": "为什么现在，大部分人都在网上买东西，实体店静静悄悄？",
-          "url": "https://www.zhihu.com/question/2062787306789003681",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时02分 ~ 08时03分]"
-        },
-        {
-          "title": "老师为什么教不了自己的孩子？",
-          "url": "https://www.zhihu.com/question/2039469724594090031",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时08分 ~ 23时09分]"
-        },
-        {
-          "title": "《剑雨》中转轮王为什么甘心在宫里被人呼来喝去的？江阿生隐姓埋名在大街上当跑腿是为了等机会报仇吗？",
-          "url": "https://www.zhihu.com/question/369891739",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时31分"
-        },
-        {
-          "title": "桑拿天为什么越喝水越口渴",
-          "url": "https://www.toutiao.com/trending/7664893196635537462/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时13分"
+          "time_info": "01时17分"
         }
       ]
     }
