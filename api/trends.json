@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T19:02:13.198866+08:00",
-  "total_titles_processed": 1292,
+  "generated_at": "2026-07-24T20:26:49.408846+08:00",
+  "total_titles_processed": 1414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "为什么古代打仗不大量使用毒箭来快速消灭敌人？",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时17分 ~ 07时58分]"
+        },
+        {
+          "title": "为什么感觉现在小孩越来越笨了？",
+          "url": "https://www.zhihu.com/question/454093481",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 20时26分]"
         },
         {
           "title": "社会本就存在尔虞我诈，为什么从小要给孩子灌输真善美，而不是教他们认清现实？",
@@ -31,26 +43,16 @@
           "time_info": "[13时47分 ~ 16时21分]"
         },
         {
-          "title": "为什么感觉现在小孩越来越笨了？",
-          "url": "https://www.zhihu.com/question/454093481",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
-        },
-        {
           "title": "菲尔兹奖为什么卡年龄",
           "url": "https://www.toutiao.com/trending/7665945382999854633/",
           "source": "今日头条",
           "ranks": [
-            10
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 20时26分]"
         },
         {
           "title": "迪路兽为什么要戴手套？",
@@ -60,19 +62,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 20时26分]"
         },
         {
           "title": "明星一地鸡毛的婚姻，为什么要通过综艺展示给大众？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33642412",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 20时26分]"
         },
         {
           "title": "为什么美元石油黄金一起涨",
@@ -84,6 +87,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时01分 ~ 19时02分]"
+        },
+        {
+          "title": "为什么德云社 400 多个演员，郭德纲只捧红了那几个？",
+          "url": "https://www.zhihu.com/question/615775454",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "为什么不见程序员害怕失业抵制AI",
