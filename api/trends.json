@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T00:35:06.599949+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-25T02:17:39.442730+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时17分]"
         },
         {
           "title": "为什么感觉现在小孩越来越笨了？",
           "url": "https://www.zhihu.com/question/454093481",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时17分]"
         },
         {
           "title": "明星一地鸡毛的婚姻，为什么要通过综艺展示给大众？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33642412",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时17分]"
         }
       ]
     }
