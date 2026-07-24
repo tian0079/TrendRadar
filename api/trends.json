@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-24T20:26:49.408846+08:00",
-  "total_titles_processed": 1414,
+  "generated_at": "2026-07-24T22:52:55.818333+08:00",
+  "total_titles_processed": 1573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "为什么感觉现在小孩越来越笨了？",
+          "url": "https://www.zhihu.com/question/454093481",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时01分 ~ 22时52分]"
+        },
         {
           "title": "为什么古代打仗不大量使用毒箭来快速消灭敌人？",
           "url": "https://www.zhihu.com/question/2063203201608897319",
@@ -19,16 +31,15 @@
           "time_info": "[01时17分 ~ 07时58分]"
         },
         {
-          "title": "为什么感觉现在小孩越来越笨了？",
-          "url": "https://www.zhihu.com/question/454093481",
+          "title": "从数学研究角度，为什么王虹可以在本科小透明后取得巨大突破？",
+          "url": "https://www.zhihu.com/question/2063910329785045183",
           "source": "知乎",
           "ranks": [
-            6,
-            4
+            2
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时01分 ~ 20时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "社会本就存在尔虞我诈，为什么从小要给孩子灌输真善美，而不是教他们认清现实？",
@@ -41,6 +52,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时47分 ~ 16时21分]"
+        },
+        {
+          "title": "明星一地鸡毛的婚姻，为什么要通过综艺展示给大众？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33642412",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时01分 ~ 22时52分]"
         },
         {
           "title": "菲尔兹奖为什么卡年龄",
@@ -66,18 +90,6 @@
           "time_info": "[19时01分 ~ 20时26分]"
         },
         {
-          "title": "明星一地鸡毛的婚姻，为什么要通过综艺展示给大众？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33642412",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时01分 ~ 20时26分]"
-        },
-        {
           "title": "为什么美元石油黄金一起涨",
           "url": "https://www.toutiao.com/trending/7665964732095925779/",
           "source": "今日头条",
@@ -95,7 +107,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
