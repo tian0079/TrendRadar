@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T02:17:39.442730+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-07-25T04:18:28.073957+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 04时18分]"
         },
         {
           "title": "为什么感觉现在小孩越来越笨了？",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 04时18分]"
         },
         {
           "title": "明星一地鸡毛的婚姻，为什么要通过综艺展示给大众？",
@@ -39,8 +40,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 04时18分]"
         }
       ]
     }
