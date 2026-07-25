@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T03:04:12.286791+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-07-26T04:45:35.396699+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.zhihu.com/question/2063053785887514933",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 04时45分]"
         },
         {
           "title": "大脑有上百亿个神经元，为什么正常人只产生一个意识？是什么在阻止第二个「我」的出现？",
           "url": "https://www.zhihu.com/question/2038041817728410774",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 04时45分]"
         },
         {
           "title": "任正非为什么说「τ 定律是华为唯一出路」？",
@@ -37,8 +39,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 04时45分]"
         },
         {
           "title": "从传统评点看金庸｜《倚天》篇：为什么人人都爱赵敏？",
@@ -49,8 +51,32 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 04时45分]"
+        },
+        {
+          "title": "穿凉鞋的人越来越少，洞洞鞋、勃肯鞋、溯溪鞋接班，为什么大家这样选？反映出哪些消费趋势？",
+          "url": "https://www.zhihu.com/question/2062144078456648299",
+          "source": "知乎",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时03分 ~ 04时45分]"
+        },
+        {
+          "title": "为什么越懂事的人越容易委屈？",
+          "url": "https://www.zhihu.com/question/2061113811613005054",
+          "source": "知乎",
+          "ranks": [
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时03分 ~ 04时45分]"
         },
         {
           "title": "《民法典》为什么把「配偶」放在「亲属」的第 1 位？",
@@ -75,28 +101,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时08分 ~ 01时57分]"
-        },
-        {
-          "title": "穿凉鞋的人越来越少，洞洞鞋、勃肯鞋、溯溪鞋接班，为什么大家这样选？反映出哪些消费趋势？",
-          "url": "https://www.zhihu.com/question/2062144078456648299",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时03分 ~ 03时04分]"
-        },
-        {
-          "title": "为什么越懂事的人越容易委屈？",
-          "url": "https://www.zhihu.com/question/2061113811613005054",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时03分 ~ 03时04分]"
         },
         {
           "title": "为什么显卡又涨价了",
