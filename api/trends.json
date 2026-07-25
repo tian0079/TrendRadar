@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T05:52:42.709057+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2026-07-26T06:52:09.123008+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "为什么两广地区在计算机和数学领域出现了人才井喷?",
@@ -14,23 +14,12 @@
           "ranks": [
             1,
             3,
-            4
+            4,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 05时52分]"
-        },
-        {
-          "title": "从传统评点看金庸｜《倚天》篇：为什么人人都爱赵敏？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33652793",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 05时52分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 06时52分]"
         },
         {
           "title": "任正非为什么说「τ 定律是华为唯一出路」？",
@@ -41,8 +30,35 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 06时52分]"
+        },
+        {
+          "title": "从传统评点看金庸｜《倚天》篇：为什么人人都爱赵敏？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33652793",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 06时52分]"
+        },
+        {
+          "title": "穿凉鞋的人越来越少，洞洞鞋、勃肯鞋、溯溪鞋接班，为什么大家这样选？反映出哪些消费趋势？",
+          "url": "https://www.zhihu.com/question/2062144078456648299",
+          "source": "知乎",
+          "ranks": [
+            13,
+            10,
+            7,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时08分 ~ 05时52分]"
+          "time_info": "[03时03分 ~ 06时52分]"
         },
         {
           "title": "大脑有上百亿个神经元，为什么正常人只产生一个意识？是什么在阻止第二个「我」的出现？",
@@ -57,17 +73,17 @@
           "time_info": "[00时08分 ~ 04时45分]"
         },
         {
-          "title": "穿凉鞋的人越来越少，洞洞鞋、勃肯鞋、溯溪鞋接班，为什么大家这样选？反映出哪些消费趋势？",
-          "url": "https://www.zhihu.com/question/2062144078456648299",
+          "title": "《民法典》为什么把「配偶」放在「亲属」的第 1 位？",
+          "url": "https://www.zhihu.com/question/628507781",
           "source": "知乎",
           "ranks": [
-            13,
-            10,
-            7
+            11,
+            20,
+            17
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[03时03分 ~ 05时52分]"
+          "time_info": "[00时08分 ~ 06时52分]"
         },
         {
           "title": "为什么越懂事的人越容易委屈？",
@@ -83,16 +99,16 @@
           "time_info": "[03时03分 ~ 05时52分]"
         },
         {
-          "title": "《民法典》为什么把「配偶」放在「亲属」的第 1 位？",
-          "url": "https://www.zhihu.com/question/628507781",
-          "source": "知乎",
+          "title": "詹姆斯为什么选择76人",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%BA%E4%BB%80%E4%B9%88%E9%80%89%E6%8B%A976%E4%BA%BA",
+          "source": "bilibili 热搜",
           "ranks": [
-            11,
-            20
+            29,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[05时52分 ~ 06时52分]"
         },
         {
           "title": "《间谍过家家》里黄昏为什么没有察觉尤尔的真实身份？",
@@ -105,6 +121,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时08分 ~ 01时57分]"
+        },
+        {
+          "title": "为什么网络都提倡减肥要少吃米面馒头？",
+          "url": "https://www.zhihu.com/question/2057049665552623029",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时51分 ~ 06时52分]"
         },
         {
           "title": "为什么显卡又涨价了",
@@ -127,17 +154,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
-        },
-        {
-          "title": "詹姆斯为什么选择76人",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%BA%E4%BB%80%E4%B9%88%E9%80%89%E6%8B%A976%E4%BA%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时52分"
         }
       ]
     }
