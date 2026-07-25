@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T18:37:05.723389+08:00",
-  "total_titles_processed": 1102,
+  "generated_at": "2026-07-25T20:02:20.959842+08:00",
+  "total_titles_processed": 1165,
   "failed_sources": [],
   "trends": [
     {
@@ -39,11 +39,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时59分 ~ 18时37分]"
+          "appearance_count": 5,
+          "time_info": "[16时59分 ~ 20时02分]"
         },
         {
           "title": "明星一地鸡毛的婚姻，为什么要通过综艺展示给大众？",
@@ -64,11 +65,12 @@
           "ranks": [
             17,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时14分 ~ 18时37分]"
+          "appearance_count": 6,
+          "time_info": "[14时14分 ~ 20时02分]"
         },
         {
           "title": "大脑有上百亿个神经元，为什么正常人只产生一个意识？是什么在阻止第二个「我」的出现？",
@@ -78,8 +80,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时59分 ~ 18时37分]"
+          "appearance_count": 5,
+          "time_info": "[16时59分 ~ 20时02分]"
+        },
+        {
+          "title": "为什么两广地区在计算机和数学领域出现了人才井喷?",
+          "url": "https://www.zhihu.com/question/2063053785887514933",
+          "source": "知乎",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时36分 ~ 20时02分]"
+        },
+        {
+          "title": "为什么携程被罚最重",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%90%BA%E7%A8%8B%E8%A2%AB%E7%BD%9A%E6%9C%80%E9%87%8D%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时36分 ~ 20时02分]"
         },
         {
           "title": "为什么中国父母会沉迷于让孩子吃苦？",
@@ -92,28 +118,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时14分 ~ 16时59分]"
-        },
-        {
-          "title": "为什么两广地区在计算机和数学领域出现了人才井喷?",
-          "url": "https://www.zhihu.com/question/2063053785887514933",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 18时37分]"
-        },
-        {
-          "title": "为什么携程被罚最重",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%90%BA%E7%A8%8B%E8%A2%AB%E7%BD%9A%E6%9C%80%E9%87%8D%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 18时37分]"
         },
         {
           "title": "为什么 rmvb 格式消失了, 它在技术上比不上 H264 吗？",
