@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T00:08:58.036171+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-26T01:57:52.756511+08:00",
+  "total_titles_processed": 364,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 01时57分]"
         },
         {
           "title": "大脑有上百亿个神经元，为什么正常人只产生一个意识？是什么在阻止第二个「我」的出现？",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 01时57分]"
         },
         {
           "title": "任正非为什么说「τ 定律是华为唯一出路」？",
@@ -37,41 +37,44 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 01时57分]"
         },
         {
           "title": "从传统评点看金庸｜《倚天》篇：为什么人人都爱赵敏？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33652793",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 01时57分]"
         },
         {
           "title": "《民法典》为什么把「配偶」放在「亲属」的第 1 位？",
           "url": "https://www.zhihu.com/question/628507781",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 01时57分]"
         },
         {
           "title": "《间谍过家家》里黄昏为什么没有察觉尤尔的真实身份？",
           "url": "https://www.zhihu.com/question/531245241",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 01时57分]"
         },
         {
           "title": "为什么携程被罚最重",
