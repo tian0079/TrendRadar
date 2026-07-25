@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T20:02:20.959842+08:00",
-  "total_titles_processed": 1165,
+  "generated_at": "2026-07-25T21:54:33.287903+08:00",
+  "total_titles_processed": 1288,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "从数学研究角度，为什么王虹可以在本科小透明后取得巨大突破？",
@@ -18,6 +18,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时34分 ~ 11时22分]"
+        },
+        {
+          "title": "任正非为什么说「τ 定律是华为唯一出路」？",
+          "url": "https://www.zhihu.com/question/2063930109304594992",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时59分 ~ 21时54分]"
         },
         {
           "title": "为什么感觉现在小孩越来越笨了？",
@@ -34,17 +47,29 @@
           "time_info": "[00时34分 ~ 06时03分]"
         },
         {
-          "title": "任正非为什么说「τ 定律是华为唯一出路」？",
-          "url": "https://www.zhihu.com/question/2063930109304594992",
+          "title": "《民法典》为什么把「配偶」放在「亲属」的第 1 位？",
+          "url": "https://www.zhihu.com/question/628507781",
           "source": "知乎",
           "ranks": [
-            5,
-            4,
-            9
+            17,
+            11,
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时59分 ~ 20时02分]"
+          "appearance_count": 7,
+          "time_info": "[14时14分 ~ 21时54分]"
+        },
+        {
+          "title": "大脑有上百亿个神经元，为什么正常人只产生一个意识？是什么在阻止第二个「我」的出现？",
+          "url": "https://www.zhihu.com/question/2038041817728410774",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时59分 ~ 21时54分]"
         },
         {
           "title": "明星一地鸡毛的婚姻，为什么要通过综艺展示给大众？",
@@ -59,41 +84,17 @@
           "time_info": "[00时34分 ~ 06时03分]"
         },
         {
-          "title": "《民法典》为什么把「配偶」放在「亲属」的第 1 位？",
-          "url": "https://www.zhihu.com/question/628507781",
-          "source": "知乎",
-          "ranks": [
-            17,
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时14分 ~ 20时02分]"
-        },
-        {
-          "title": "大脑有上百亿个神经元，为什么正常人只产生一个意识？是什么在阻止第二个「我」的出现？",
-          "url": "https://www.zhihu.com/question/2038041817728410774",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时59分 ~ 20时02分]"
-        },
-        {
           "title": "为什么两广地区在计算机和数学领域出现了人才井喷?",
           "url": "https://www.zhihu.com/question/2063053785887514933",
           "source": "知乎",
           "ranks": [
             15,
-            12
+            12,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时36分 ~ 20时02分]"
+          "appearance_count": 5,
+          "time_info": "[18时36分 ~ 21时54分]"
         },
         {
           "title": "为什么携程被罚最重",
@@ -104,8 +105,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时36分 ~ 20时02分]"
+          "appearance_count": 5,
+          "time_info": "[18时36分 ~ 21时54分]"
         },
         {
           "title": "为什么中国父母会沉迷于让孩子吃苦？",
@@ -118,6 +119,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时14分 ~ 16时59分]"
+        },
+        {
+          "title": "为什么显卡又涨价了",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%BE%E5%8D%A1%E5%8F%88%E6%B6%A8%E4%BB%B7%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "为什么 rmvb 格式消失了, 它在技术上比不上 H264 吗？",
