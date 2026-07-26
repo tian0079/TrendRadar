@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T13:58:33.387934+08:00",
-  "total_titles_processed": 824,
+  "generated_at": "2026-07-26T16:27:13.281863+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
@@ -38,6 +38,20 @@
           "time_info": "[00时08分 ~ 06时52分]"
         },
         {
+          "title": "为什么网络都提倡减肥要少吃米面馒头？",
+          "url": "https://www.zhihu.com/question/2057049665552623029",
+          "source": "知乎",
+          "ranks": [
+            18,
+            12,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时51分 ~ 16时27分]"
+        },
+        {
           "title": "从传统评点看金庸｜《倚天》篇：为什么人人都爱赵敏？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33652793",
           "source": "澎湃新闻",
@@ -49,8 +63,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时08分 ~ 13时58分]"
+          "appearance_count": 14,
+          "time_info": "[00时08分 ~ 16时27分]"
         },
         {
           "title": "任正非为什么说「τ 定律是华为唯一出路」？",
@@ -63,19 +77,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时08分 ~ 07时58分]"
-        },
-        {
-          "title": "为什么网络都提倡减肥要少吃米面馒头？",
-          "url": "https://www.zhihu.com/question/2057049665552623029",
-          "source": "知乎",
-          "ranks": [
-            18,
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时51分 ~ 13时58分]"
         },
         {
           "title": "詹姆斯为什么选择76人",
@@ -130,6 +131,18 @@
           "time_info": "[03时03分 ~ 05时52分]"
         },
         {
+          "title": "传统武术为什么非常强调松，特别是内家拳？感觉所谓的松，更多的是心里暗示形式之松，如站桩，练拳？",
+          "url": "https://www.zhihu.com/question/2048756264893781699",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时40分 ~ 16时27分]"
+        },
+        {
           "title": "为什么显卡又涨价了",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%BE%E5%8D%A1%E5%8F%88%E6%B6%A8%E4%BB%B7%E4%BA%86",
           "source": "bilibili 热搜",
@@ -140,6 +153,42 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时03分 ~ 07时58分]"
+        },
+        {
+          "title": "段正淳的情人个个被他辜负，为什么临死前没一个恨他？",
+          "url": "https://www.zhihu.com/question/2063573343102559614",
+          "source": "知乎",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 16时27分]"
+        },
+        {
+          "title": "澳大利亚国土面积世界第六，军力仅 5.5 万，为什么没人敢打？",
+          "url": "https://www.zhihu.com/question/2064336691528312089",
+          "source": "知乎",
+          "ranks": [
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 16时27分]"
+        },
+        {
+          "title": "为什么大多数成年人一旦学会游泳就只想连续游，不再关注技术动作？",
+          "url": "https://www.zhihu.com/question/7803569929",
+          "source": "知乎",
+          "ranks": [
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 16时27分]"
         },
         {
           "title": "《间谍过家家》里黄昏为什么没有察觉尤尔的真实身份？",
@@ -154,57 +203,13 @@
           "time_info": "[00时08分 ~ 01时57分]"
         },
         {
-          "title": "传统武术为什么非常强调松，特别是内家拳？感觉所谓的松，更多的是心里暗示形式之松，如站桩，练拳？",
-          "url": "https://www.zhihu.com/question/2048756264893781699",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时40分 ~ 13时58分]"
-        },
-        {
-          "title": "段正淳的情人个个被他辜负，为什么临死前没一个恨他？",
-          "url": "https://www.zhihu.com/question/2063573343102559614",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
           "title": "为什么现在做菜基本都把食材的味道去掉了？",
           "url": "https://www.zhihu.com/question/423164516",
           "source": "知乎",
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "澳大利亚国土面积世界第六，军力仅 5.5 万，为什么没人敢打？",
-          "url": "https://www.zhihu.com/question/2064336691528312089",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "为什么大多数成年人一旦学会游泳就只想连续游，不再关注技术动作？",
-          "url": "https://www.zhihu.com/question/7803569929",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
