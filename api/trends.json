@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T20:02:18.336619+08:00",
-  "total_titles_processed": 1155,
+  "generated_at": "2026-07-26T21:45:19.410429+08:00",
+  "total_titles_processed": 1256,
   "failed_sources": [],
   "trends": [
     {
@@ -32,11 +32,12 @@
             3,
             4,
             18,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时03分 ~ 20时02分]"
+          "appearance_count": 13,
+          "time_info": "[03时03分 ~ 21时45分]"
         },
         {
           "title": "为什么网络都提倡减肥要少吃米面馒头？",
@@ -80,6 +81,21 @@
           "time_info": "[00时08分 ~ 07时58分]"
         },
         {
+          "title": "为什么大多数成年人一旦学会游泳就只想连续游，不再关注技术动作？",
+          "url": "https://www.zhihu.com/question/7803569929",
+          "source": "知乎",
+          "ranks": [
+            16,
+            20,
+            8,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时58分 ~ 21时45分]"
+        },
+        {
           "title": "传统武术为什么非常强调松，特别是内家拳？感觉所谓的松，更多的是心里暗示形式之松，如站桩，练拳？",
           "url": "https://www.zhihu.com/question/2048756264893781699",
           "source": "知乎",
@@ -103,20 +119,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时52分 ~ 07时58分]"
-        },
-        {
-          "title": "为什么大多数成年人一旦学会游泳就只想连续游，不再关注技术动作？",
-          "url": "https://www.zhihu.com/question/7803569929",
-          "source": "知乎",
-          "ranks": [
-            16,
-            20,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时58分 ~ 20时02分]"
         },
         {
           "title": "《民法典》为什么把「配偶」放在「亲属」的第 1 位？",
@@ -143,6 +145,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时08分 ~ 04时45分]"
+        },
+        {
+          "title": "深观察｜从哪吒到八仙，为什么现代人仍然需要神话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33661466",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时42分 ~ 21时45分]"
         },
         {
           "title": "为什么越懂事的人越容易委屈？",
@@ -182,16 +197,16 @@
           "time_info": "[13时58分 ~ 16时27分]"
         },
         {
-          "title": "深观察｜从哪吒到八仙，为什么现代人仍然需要神话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33661466",
-          "source": "澎湃新闻",
+          "title": "人类的指甲在生活中看起来好像并没有什么实际的价值，为什么这么长时间也没有退化呢？",
+          "url": "https://www.zhihu.com/question/358666124",
+          "source": "知乎",
           "ranks": [
-            14,
-            13
+            18,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时42分 ~ 20时02分]"
+          "time_info": "[20时01分 ~ 21时45分]"
         },
         {
           "title": "澳大利亚国土面积世界第六，军力仅 5.5 万，为什么没人敢打？",
@@ -216,17 +231,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时08分 ~ 01时57分]"
-        },
-        {
-          "title": "人类的指甲在生活中看起来好像并没有什么实际的价值，为什么这么长时间也没有退化呢？",
-          "url": "https://www.zhihu.com/question/358666124",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时01分 ~ 20时02分]"
         },
         {
           "title": "为什么水泥会遇水变硬",
