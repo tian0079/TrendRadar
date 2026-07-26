@@ -1,283 +1,44 @@
 {
-  "generated_at": "2026-07-26T23:02:43.986116+08:00",
-  "total_titles_processed": 1314,
+  "generated_at": "2026-07-27T00:55:38.352350+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 21,
+      "match_count": 3,
       "titles": [
         {
-          "title": "为什么两广地区在计算机和数学领域出现了人才井喷?",
-          "url": "https://www.zhihu.com/question/2063053785887514933",
+          "title": "人类的指甲在生活中看起来好像并没有什么实际的价值，为什么这么长时间也没有退化呢？",
+          "url": "https://www.zhihu.com/question/358666124",
           "source": "知乎",
           "ranks": [
-            1,
-            3,
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时08分 ~ 06时52分]"
-        },
-        {
-          "title": "穿凉鞋的人越来越少，洞洞鞋、勃肯鞋、溯溪鞋接班，为什么大家这样选？反映出哪些消费趋势？",
-          "url": "https://www.zhihu.com/question/2062144078456648299",
-          "source": "知乎",
-          "ranks": [
-            13,
-            10,
-            7,
-            3,
-            4,
-            18,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时03分 ~ 21时45分]"
-        },
-        {
-          "title": "为什么网络都提倡减肥要少吃米面馒头？",
-          "url": "https://www.zhihu.com/question/2057049665552623029",
-          "source": "知乎",
-          "ranks": [
-            18,
-            12,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时51分 ~ 16时27分]"
-        },
-        {
-          "title": "从传统评点看金庸｜《倚天》篇：为什么人人都爱赵敏？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33652793",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9,
-            11,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时08分 ~ 16时27分]"
-        },
-        {
-          "title": "任正非为什么说「τ 定律是华为唯一出路」？",
-          "url": "https://www.zhihu.com/question/2063930109304594992",
-          "source": "知乎",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时08分 ~ 07时58分]"
-        },
-        {
-          "title": "为什么大多数成年人一旦学会游泳就只想连续游，不再关注技术动作？",
-          "url": "https://www.zhihu.com/question/7803569929",
-          "source": "知乎",
-          "ranks": [
-            16,
-            20,
-            8,
-            9,
-            6,
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时58分 ~ 23时02分]"
-        },
-        {
-          "title": "传统武术为什么非常强调松，特别是内家拳？感觉所谓的松，更多的是心里暗示形式之松，如站桩，练拳？",
-          "url": "https://www.zhihu.com/question/2048756264893781699",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时40分 ~ 20时02分]"
-        },
-        {
-          "title": "詹姆斯为什么选择76人",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%BA%E4%BB%80%E4%B9%88%E9%80%89%E6%8B%A976%E4%BA%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时52分 ~ 07时58分]"
-        },
-        {
-          "title": "《民法典》为什么把「配偶」放在「亲属」的第 1 位？",
-          "url": "https://www.zhihu.com/question/628507781",
-          "source": "知乎",
-          "ranks": [
-            11,
-            20,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 07时58分]"
-        },
-        {
-          "title": "大脑有上百亿个神经元，为什么正常人只产生一个意识？是什么在阻止第二个「我」的出现？",
-          "url": "https://www.zhihu.com/question/2038041817728410774",
-          "source": "知乎",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 04时45分]"
+          "appearance_count": 1,
+          "time_info": "00时55分"
         },
         {
           "title": "深观察｜从哪吒到八仙，为什么现代人仍然需要神话",
           "url": "https://m.thepaper.cn/newsDetail_forward_33661466",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时42分 ~ 23时02分]"
-        },
-        {
-          "title": "为什么越懂事的人越容易委屈？",
-          "url": "https://www.zhihu.com/question/2061113811613005054",
-          "source": "知乎",
-          "ranks": [
-            17,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时03分 ~ 05时52分]"
-        },
-        {
-          "title": "人类的指甲在生活中看起来好像并没有什么实际的价值，为什么这么长时间也没有退化呢？",
-          "url": "https://www.zhihu.com/question/358666124",
-          "source": "知乎",
-          "ranks": [
-            18,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时01分 ~ 23时02分]"
-        },
-        {
-          "title": "为什么显卡又涨价了",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%BE%E5%8D%A1%E5%8F%88%E6%B6%A8%E4%BB%B7%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时03分 ~ 07时58分]"
-        },
-        {
-          "title": "段正淳的情人个个被他辜负，为什么临死前没一个恨他？",
-          "url": "https://www.zhihu.com/question/2063573343102559614",
-          "source": "知乎",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时58分 ~ 16时27分]"
-        },
-        {
-          "title": "澳大利亚国土面积世界第六，军力仅 5.5 万，为什么没人敢打？",
-          "url": "https://www.zhihu.com/question/2064336691528312089",
-          "source": "知乎",
-          "ranks": [
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时58分 ~ 16时27分]"
-        },
-        {
-          "title": "《间谍过家家》里黄昏为什么没有察觉尤尔的真实身份？",
-          "url": "https://www.zhihu.com/question/531245241",
-          "source": "知乎",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时57分]"
-        },
-        {
-          "title": "为什么水泥会遇水变硬",
-          "url": "https://www.toutiao.com/trending/7666042436300455978/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时01分 ~ 20时02分]"
-        },
-        {
-          "title": "为什么现在做菜基本都把食材的味道去掉了？",
-          "url": "https://www.zhihu.com/question/423164516",
-          "source": "知乎",
-          "ranks": [
-            13
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "00时55分"
         },
         {
-          "title": "为什么大家的自建房都不注重设计？",
-          "url": "https://www.zhihu.com/question/666118079",
+          "title": "为什么大多数成年人一旦学会游泳就只想连续游，不再关注技术动作？",
+          "url": "https://www.zhihu.com/question/7803569929",
           "source": "知乎",
           "ranks": [
-            17
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "为什么携程被罚最重",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%90%BA%E7%A8%8B%E8%A2%AB%E7%BD%9A%E6%9C%80%E9%87%8D%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "time_info": "00时55分"
         }
       ]
     }
