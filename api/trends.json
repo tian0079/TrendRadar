@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T21:45:19.410429+08:00",
-  "total_titles_processed": 1256,
+  "generated_at": "2026-07-26T23:02:43.986116+08:00",
+  "total_titles_processed": 1314,
   "failed_sources": [],
   "trends": [
     {
@@ -89,11 +89,12 @@
             20,
             8,
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时58分 ~ 21时45分]"
+          "appearance_count": 8,
+          "time_info": "[13时58分 ~ 23时02分]"
         },
         {
           "title": "传统武术为什么非常强调松，特别是内家拳？感觉所谓的松，更多的是心里暗示形式之松，如站桩，练拳？",
@@ -153,11 +154,12 @@
           "ranks": [
             14,
             13,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时42分 ~ 21时45分]"
+          "appearance_count": 5,
+          "time_info": "[18时42分 ~ 23时02分]"
         },
         {
           "title": "为什么越懂事的人越容易委屈？",
@@ -171,6 +173,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时03分 ~ 05时52分]"
+        },
+        {
+          "title": "人类的指甲在生活中看起来好像并没有什么实际的价值，为什么这么长时间也没有退化呢？",
+          "url": "https://www.zhihu.com/question/358666124",
+          "source": "知乎",
+          "ranks": [
+            18,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时01分 ~ 23时02分]"
         },
         {
           "title": "为什么显卡又涨价了",
@@ -195,18 +210,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时58分 ~ 16时27分]"
-        },
-        {
-          "title": "人类的指甲在生活中看起来好像并没有什么实际的价值，为什么这么长时间也没有退化呢？",
-          "url": "https://www.zhihu.com/question/358666124",
-          "source": "知乎",
-          "ranks": [
-            18,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时01分 ~ 21时45分]"
         },
         {
           "title": "澳大利亚国土面积世界第六，军力仅 5.5 万，为什么没人敢打？",
