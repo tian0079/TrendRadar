@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-27T00:55:38.352350+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-27T02:00:57.905212+08:00",
+  "total_titles_processed": 352,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "人类的指甲在生活中看起来好像并没有什么实际的价值，为什么这么长时间也没有退化呢？",
           "url": "https://www.zhihu.com/question/358666124",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时00分]"
         },
         {
           "title": "深观察｜从哪吒到八仙，为什么现代人仍然需要神话",
@@ -26,8 +27,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时00分]"
+        },
+        {
+          "title": "电动车为什么要做大车?",
+          "url": "https://www.zhihu.com/question/353099267",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时59分 ~ 02时00分]"
         },
         {
           "title": "为什么大多数成年人一旦学会游泳就只想连续游，不再关注技术动作？",
