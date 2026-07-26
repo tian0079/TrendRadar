@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T16:27:13.281863+08:00",
-  "total_titles_processed": 944,
+  "generated_at": "2026-07-26T18:42:54.374457+08:00",
+  "total_titles_processed": 1070,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "穿凉鞋的人越来越少，洞洞鞋、勃肯鞋、溯溪鞋接班，为什么大家这样选？反映出哪些消费趋势？",
@@ -118,6 +118,31 @@
           "time_info": "[00时08分 ~ 04时45分]"
         },
         {
+          "title": "传统武术为什么非常强调松，特别是内家拳？感觉所谓的松，更多的是心里暗示形式之松，如站桩，练拳？",
+          "url": "https://www.zhihu.com/question/2048756264893781699",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时40分 ~ 18时42分]"
+        },
+        {
+          "title": "为什么大多数成年人一旦学会游泳就只想连续游，不再关注技术动作？",
+          "url": "https://www.zhihu.com/question/7803569929",
+          "source": "知乎",
+          "ranks": [
+            16,
+            20,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时58分 ~ 18时42分]"
+        },
+        {
           "title": "为什么越懂事的人越容易委屈？",
           "url": "https://www.zhihu.com/question/2061113811613005054",
           "source": "知乎",
@@ -129,18 +154,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时03分 ~ 05时52分]"
-        },
-        {
-          "title": "传统武术为什么非常强调松，特别是内家拳？感觉所谓的松，更多的是心里暗示形式之松，如站桩，练拳？",
-          "url": "https://www.zhihu.com/question/2048756264893781699",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时40分 ~ 16时27分]"
         },
         {
           "title": "为什么显卡又涨价了",
@@ -179,18 +192,6 @@
           "time_info": "[13时58分 ~ 16时27分]"
         },
         {
-          "title": "为什么大多数成年人一旦学会游泳就只想连续游，不再关注技术动作？",
-          "url": "https://www.zhihu.com/question/7803569929",
-          "source": "知乎",
-          "ranks": [
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时58分 ~ 16时27分]"
-        },
-        {
           "title": "《间谍过家家》里黄昏为什么没有察觉尤尔的真实身份？",
           "url": "https://www.zhihu.com/question/531245241",
           "source": "知乎",
@@ -212,6 +213,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "深观察｜从哪吒到八仙，为什么现代人仍然需要神话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33661466",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "为什么大家的自建房都不注重设计？",
