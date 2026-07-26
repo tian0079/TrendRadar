@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T03:20:12.027572+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2026-07-27T04:54:48.629694+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 04时54分]"
         },
         {
           "title": "深观察｜从哪吒到八仙，为什么现代人仍然需要神话",
@@ -28,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 04时54分]"
         },
         {
           "title": "电动车为什么要做大车?",
