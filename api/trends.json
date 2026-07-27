@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T07:59:56.867456+08:00",
-  "total_titles_processed": 572,
+  "generated_at": "2026-07-27T11:28:36.809605+08:00",
+  "total_titles_processed": 774,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "深观察｜从哪吒到八仙，为什么现代人仍然需要神话",
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 07时59分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 11时28分]"
         },
         {
           "title": "人类的指甲在生活中看起来好像并没有什么实际的价值，为什么这么长时间也没有退化呢？",
@@ -39,33 +40,36 @@
           "url": "https://www.zhihu.com/question/2057134171752084148",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 11时28分]"
         },
         {
           "title": "电动车为什么要做大车?",
           "url": "https://www.zhihu.com/question/353099267",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时59分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[01时59分 ~ 11时28分]"
         },
         {
           "title": "为什么被称为「操控之王」的特斯拉赛道圈速成绩并不好？",
           "url": "https://www.zhihu.com/question/2063401187211319087",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 11时28分]"
         },
         {
           "title": "为什么大多数成年人一旦学会游泳就只想连续游，不再关注技术动作？",
@@ -77,6 +81,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "为什么说“一年一影帝百年周星驰”",
+          "url": "https://www.toutiao.com/trending/7667035874957200937/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         }
       ]
     }
