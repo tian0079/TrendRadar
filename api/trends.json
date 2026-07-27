@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T02:23:04.479885+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2026-07-28T04:20:44.919415+08:00",
+  "total_titles_processed": 495,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "为什么菲尔兹奖要限定 40 岁以下？",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时20分]"
         },
         {
           "title": "为什么现在的汽车都要宣传百公里加速多少，我要开那么快干什么？",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时20分]"
         },
         {
           "title": "为什么中国人总喜欢把客厅弄那么大，而厨房卫生间那么小？",
@@ -38,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时20分]"
         },
         {
           "title": "和王虹一同完成挂谷猜想的，南开大学的老师为什么没获得菲尔兹奖?",
@@ -49,8 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时20分]"
         },
         {
           "title": "为什么现在初中生越来越不聪明了？",
@@ -63,6 +63,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时14分 ~ 02时23分]"
+        },
+        {
+          "title": "为什么大多数男生会执着于一台属于自己的电脑？",
+          "url": "https://www.zhihu.com/question/2049981482995922816",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
         }
       ]
     }
