@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T15:00:44.623592+08:00",
-  "total_titles_processed": 967,
+  "generated_at": "2026-07-27T18:49:08.970088+08:00",
+  "total_titles_processed": 1175,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "深观察｜从哪吒到八仙，为什么现代人仍然需要神话",
@@ -73,6 +73,28 @@
           "time_info": "[11时28分 ~ 15时00分]"
         },
         {
+          "title": "为什么中国人总喜欢把客厅弄那么大，而厨房卫生间那么小？",
+          "url": "https://www.zhihu.com/question/1997358863511470900",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 18时49分]"
+        },
+        {
+          "title": "为什么现在初中生越来越不聪明了？",
+          "url": "https://www.zhihu.com/question/2064669154007947156",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 18时49分]"
+        },
+        {
           "title": "为什么被称为「操控之王」的特斯拉赛道圈速成绩并不好？",
           "url": "https://www.zhihu.com/question/2063401187211319087",
           "source": "知乎",
@@ -83,6 +105,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时59分 ~ 11时28分]"
+        },
+        {
+          "title": "为什么现在的汽车都要宣传百公里加速多少，我要开那么快干什么？",
+          "url": "https://www.zhihu.com/question/2024602270579323820",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 18时49分]"
         },
         {
           "title": "为什么大多数成年人一旦学会游泳就只想连续游，不再关注技术动作？",
