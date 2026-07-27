@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T04:20:44.919415+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2026-07-28T06:04:04.444133+08:00",
+  "total_titles_processed": 568,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 06时04分]"
         },
         {
           "title": "为什么现在的汽车都要宣传百公里加速多少，我要开那么快干什么？",
@@ -24,22 +24,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 04时20分]"
-        },
-        {
-          "title": "为什么中国人总喜欢把客厅弄那么大，而厨房卫生间那么小？",
-          "url": "https://www.zhihu.com/question/1997358863511470900",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 06时04分]"
         },
         {
           "title": "和王虹一同完成挂谷猜想的，南开大学的老师为什么没获得菲尔兹奖?",
@@ -49,8 +39,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 06时04分]"
+        },
+        {
+          "title": "为什么中国人总喜欢把客厅弄那么大，而厨房卫生间那么小？",
+          "url": "https://www.zhihu.com/question/1997358863511470900",
+          "source": "知乎",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 06时04分]"
         },
         {
           "title": "为什么现在初中生越来越不聪明了？",
@@ -71,9 +73,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时20分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 06时04分]"
         }
       ]
     }
