@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-07-29T00:04:59.846929+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-29T02:12:12.201981+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "为什么很多电车后屁股都凹一块也不修？",
           "url": "https://www.zhihu.com/question/2064678914778214835",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时12分]"
         },
         {
           "title": "24 岁女孩正颌手术被做反变「鞋拔子脸」，当事医生已停诊，为什么会出现这种医疗事故？患者要怎么维权？",
           "url": "https://www.zhihu.com/question/2064801268552537608",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时12分]"
         },
         {
           "title": "为什么菲尔兹奖的两个得主，大部分人都在关注王虹，而关于邓煜的消息寥寥无几？",
@@ -37,8 +39,30 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时12分]"
+        },
+        {
+          "title": "林黛玉进荣国府拜见舅舅，为什么舅舅都「避而不见」呢？",
+          "url": "https://www.zhihu.com/question/1928160499444463137",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 02时12分]"
+        },
+        {
+          "title": "为什么西方古代黄金文物多见大件的冠冕、圣杯，而中国古代更倾向于将黄金做成细小的错金银、金辟邪或马饰？",
+          "url": "https://www.zhihu.com/question/2062984600406549348",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 02时12分]"
         },
         {
           "title": "为什么越来越多的公司开始在印尼投资？印尼具备何种发展潜力？",
