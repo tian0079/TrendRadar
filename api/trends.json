@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T06:01:42.494442+08:00",
-  "total_titles_processed": 550,
+  "generated_at": "2026-07-29T07:09:46.585156+08:00",
+  "total_titles_processed": 617,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 07时09分]"
         },
         {
           "title": "为什么很多电车后屁股都凹一块也不修？",
@@ -28,11 +28,12 @@
           "ranks": [
             5,
             10,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 04时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 07时09分]"
         },
         {
           "title": "为什么菲尔兹奖的两个得主，大部分人都在关注王虹，而关于邓煜的消息寥寥无几？",
@@ -40,11 +41,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 07时09分]"
         },
         {
           "title": "林黛玉进荣国府拜见舅舅，为什么舅舅都「避而不见」呢？",
@@ -53,11 +55,12 @@
           "ranks": [
             18,
             15,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时11分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[02时11分 ~ 07时09分]"
         },
         {
           "title": "为什么西方古代黄金文物多见大件的冠冕、圣杯，而中国古代更倾向于将黄金做成细小的错金银、金辟邪或马饰？",
