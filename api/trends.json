@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T17:34:58.043885+08:00",
-  "total_titles_processed": 1142,
+  "generated_at": "2026-07-28T19:55:17.669777+08:00",
+  "total_titles_processed": 1304,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "为什么菲尔兹奖要限定 40 岁以下？",
@@ -90,6 +90,18 @@
           "time_info": "[11时14分 ~ 14时23分]"
         },
         {
+          "title": "为什么菲尔兹奖的两个得主，大部分人都在关注王虹，而关于邓煜的消息寥寥无几？",
+          "url": "https://www.zhihu.com/question/2064575049152066959",
+          "source": "知乎",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 19时55分]"
+        },
+        {
           "title": "长鑫科技股价暴涨、上市创 A 股多项纪录，它为什么能这么火？这轮上涨到底能走多远？",
           "url": "https://www.zhihu.com/question/2065148380980798092",
           "source": "知乎",
@@ -100,6 +112,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时14分 ~ 14时23分]"
+        },
+        {
+          "title": "为什么很多电车后屁股都凹一块也不修？",
+          "url": "https://www.zhihu.com/question/2064678914778214835",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "导演揭秘《八仙！》为什么有感叹号",
@@ -122,17 +145,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
-        },
-        {
-          "title": "为什么菲尔兹奖的两个得主，大部分人都在关注王虹，而关于邓煜的消息寥寥无几？",
-          "url": "https://www.zhihu.com/question/2064575049152066959",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时34分"
         }
       ]
     }
