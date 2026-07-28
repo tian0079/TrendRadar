@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T04:15:00.063337+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2026-07-29T06:01:42.494442+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             8,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 04时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 06时01分]"
         },
         {
           "title": "为什么很多电车后屁股都凹一块也不修？",
@@ -38,11 +39,12 @@
           "url": "https://www.zhihu.com/question/2064575049152066959",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 04时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 06时01分]"
         },
         {
           "title": "林黛玉进荣国府拜见舅舅，为什么舅舅都「避而不见」呢？",
@@ -50,11 +52,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            15
+            15,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时11分 ~ 04时15分]"
+          "appearance_count": 5,
+          "time_info": "[02时11分 ~ 06时01分]"
         },
         {
           "title": "为什么西方古代黄金文物多见大件的冠冕、圣杯，而中国古代更倾向于将黄金做成细小的错金银、金辟邪或马饰？",
