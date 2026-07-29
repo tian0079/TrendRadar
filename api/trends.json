@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T07:09:46.585156+08:00",
-  "total_titles_processed": 617,
+  "generated_at": "2026-07-29T10:10:40.372461+08:00",
+  "total_titles_processed": 809,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "24 岁女孩正颌手术被做反变「鞋拔子脸」，当事医生已停诊，为什么会出现这种医疗事故？患者要怎么维权？",
@@ -72,6 +72,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时11分 ~ 02时12分]"
+        },
+        {
+          "title": "电子屏和 PPT 已经如此普及，为什么像王虹这样的顶尖学者仍偏爱粉笔和黑板？PPT 真的还是教学的必需品吗？",
+          "url": "https://www.zhihu.com/question/2065466996951442038",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
+        },
+        {
+          "title": "为什么越来越多人客厅不要沙发了，那用什么替代呢？",
+          "url": "https://www.zhihu.com/question/668026601",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
         },
         {
           "title": "为什么越来越多的公司开始在印尼投资？印尼具备何种发展潜力？",
