@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T16:34:12.111402+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2026-07-29T19:24:10.957501+08:00",
+  "total_titles_processed": 1353,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "24 岁女孩正颌手术被做反变「鞋拔子脸」，当事医生已停诊，为什么会出现这种医疗事故？患者要怎么维权？",
@@ -20,6 +20,32 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时04分 ~ 07时09分]"
+        },
+        {
+          "title": "斗地主中，为什么地主只有三张牌的优势就可以一打二了？",
+          "url": "https://www.zhihu.com/question/2063214681746153896",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时48分 ~ 19时24分]"
+        },
+        {
+          "title": "马上评｜《王的猜想》为什么“响”了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33680081",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时48分 ~ 19时24分]"
         },
         {
           "title": "为什么很多电车后屁股都凹一块也不修？",
@@ -47,18 +73,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时04分 ~ 07时09分]"
-        },
-        {
-          "title": "斗地主中，为什么地主只有三张牌的优势就可以一打二了？",
-          "url": "https://www.zhihu.com/question/2063214681746153896",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时48分 ~ 16时34分]"
         },
         {
           "title": "林黛玉进荣国府拜见舅舅，为什么舅舅都「避而不见」呢？",
@@ -100,18 +114,6 @@
           "time_info": "[10时10分 ~ 16时34分]"
         },
         {
-          "title": "马上评｜《王的猜想》为什么“响”了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33680081",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时48分 ~ 16时34分]"
-        },
-        {
           "title": "为什么好多人根本没有意识到，其实大部分人个人手机的性能是超过他个人电脑（公司等的不算）的？",
           "url": "https://www.zhihu.com/question/2047098527092828152",
           "source": "知乎",
@@ -131,19 +133,32 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 19时24分]"
         },
         {
           "title": "明星为什么愿意把脸“卖”给AI",
           "url": "https://www.baidu.com/s?wd=%E6%98%8E%E6%98%9F%E4%B8%BA%E4%BB%80%E4%B9%88%E6%84%BF%E6%84%8F%E6%8A%8A%E8%84%B8%E2%80%9C%E5%8D%96%E2%80%9D%E7%BB%99AI",
           "source": "百度热搜",
           "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 19时24分]"
+        },
+        {
+          "title": "专访｜为什么一百年前去世的张謇仍然是现代企业家的典范",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33678423",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 19时24分]"
         },
         {
           "title": "苏超的热度为什么降温了？",
@@ -153,19 +168,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
-        },
-        {
-          "title": "专访｜为什么一百年前去世的张謇仍然是现代企业家的典范",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33678423",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 19时24分]"
         },
         {
           "title": "《人民的名义》里，高育良和李达康都没贪钱，为什么一个坐牢一个过关？",
@@ -175,8 +179,19 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 19时24分]"
+        },
+        {
+          "title": "为什么好多人根本没有意识到，其实大部分人个人手机的性能是超过他个人电脑的？",
+          "url": "https://www.zhihu.com/question/2047098527092828152",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
+          "time_info": "[19时23分 ~ 19时24分]"
         },
         {
           "title": "王的猜想为什么响了",
