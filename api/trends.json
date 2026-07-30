@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T14:24:37.933695+08:00",
-  "total_titles_processed": 1070,
+  "generated_at": "2026-07-30T17:28:52.549696+08:00",
+  "total_titles_processed": 1262,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "马上评｜《王的猜想》为什么“响”了",
@@ -91,6 +91,30 @@
           "time_info": "[11时54分 ~ 14时24分]"
         },
         {
+          "title": "为什么广西日报特稿《王的猜想》能获得这么多认同？",
+          "url": "https://www.zhihu.com/question/2065044616043131031",
+          "source": "知乎",
+          "ranks": [
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时05分 ~ 17时28分]"
+        },
+        {
+          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
+          "url": "https://www.zhihu.com/question/2065583157664018461",
+          "source": "知乎",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 17时28分]"
+        },
+        {
           "title": "为什么黄金几乎在所有文明里都是贵重金属，并且作为了货币？",
           "url": "https://www.zhihu.com/question/23846763",
           "source": "知乎",
@@ -102,27 +126,28 @@
           "time_info": "01时12分"
         },
         {
-          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
-          "url": "https://www.zhihu.com/question/2065583157664018461",
+          "title": "日本熊本县地震时天空出现巨型蘑菇云，为什么会出现这种现象？网友猜测其为地震云，这到底是什么云？",
+          "url": "https://www.zhihu.com/question/2065536648381555046",
           "source": "知乎",
           "ranks": [
-            7,
-            3
+            6,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时54分 ~ 14时24分]"
+          "time_info": "[14时24分 ~ 17时28分]"
         },
         {
-          "title": "为什么广西日报特稿《王的猜想》能获得这么多认同？",
-          "url": "https://www.zhihu.com/question/2065044616043131031",
+          "title": "中国 8 家整车厂赚不过 1 家电池厂，为什么宁德时代利润超过车企这么多？",
+          "url": "https://www.zhihu.com/question/2065751316211701463",
           "source": "知乎",
           "ranks": [
-            10
+            17,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时05分 ~ 14时24分]"
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 17时28分]"
         },
         {
           "title": "为什么现在都是站在截教一方而把元始天尊描写成坏人？",
@@ -148,26 +173,37 @@
           "time_info": "[05时57分 ~ 05时58分]"
         },
         {
-          "title": "日本熊本县地震时天空出现巨型蘑菇云，为什么会出现这种现象？网友猜测其为地震云，这到底是什么云？",
-          "url": "https://www.zhihu.com/question/2065536648381555046",
+          "title": "今年旅游市场异常冷清，消费力的提升为什么没有达到应有的效果？",
+          "url": "https://www.zhihu.com/question/2065719675850318416",
           "source": "知乎",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时24分"
+          "time_info": "17时28分"
         },
         {
-          "title": "中国 8 家整车厂赚不过 1 家电池厂，为什么宁德时代利润超过车企这么多？",
-          "url": "https://www.zhihu.com/question/2065751316211701463",
+          "title": "我发现很多农村教堂并没有发鸡蛋，那为什么还有那么多老头老太太去信？",
+          "url": "https://www.zhihu.com/question/2065207564342654038",
           "source": "知乎",
           "ranks": [
-            17
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时24分"
+          "time_info": "17时28分"
+        },
+        {
+          "title": "为什么现在大家引用《韩非子亡征》都只用「国小而不处卑」那句？",
+          "url": "https://www.zhihu.com/question/628349199",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         },
         {
           "title": "苏超的热度为什么降温了？",
