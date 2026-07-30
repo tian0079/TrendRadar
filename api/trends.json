@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T21:50:28.875482+08:00",
-  "total_titles_processed": 1580,
+  "generated_at": "2026-07-30T23:51:02.791273+08:00",
+  "total_titles_processed": 1712,
   "failed_sources": [],
   "trends": [
     {
@@ -128,6 +128,17 @@
           "time_info": "01时12分"
         },
         {
+          "title": "我发现很多农村教堂并没有发鸡蛋，那为什么还有那么多老头老太太去信？",
+          "url": "https://www.zhihu.com/question/2065207564342654038",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时28分 ~ 23时51分]"
+        },
+        {
           "title": "日本熊本县地震时天空出现巨型蘑菇云，为什么会出现这种现象？网友猜测其为地震云，这到底是什么云？",
           "url": "https://www.zhihu.com/question/2065536648381555046",
           "source": "知乎",
@@ -142,15 +153,17 @@
           "time_info": "[14时24分 ~ 21时50分]"
         },
         {
-          "title": "我发现很多农村教堂并没有发鸡蛋，那为什么还有那么多老头老太太去信？",
-          "url": "https://www.zhihu.com/question/2065207564342654038",
+          "title": "北大数院澄清王虹推荐信、保研等传闻，称其具备保研资格且获数院多位老师推荐信，为什么此前谣言能广泛传播？",
+          "url": "https://www.zhihu.com/question/2065760409827665215",
           "source": "知乎",
           "ranks": [
-            10
+            20,
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 21时50分]"
+          "appearance_count": 4,
+          "time_info": "[19时50分 ~ 23时51分]"
         },
         {
           "title": "中国 8 家整车厂赚不过 1 家电池厂，为什么宁德时代利润超过车企这么多？",
@@ -188,18 +201,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时28分 ~ 19时50分]"
-        },
-        {
-          "title": "北大数院澄清王虹推荐信、保研等传闻，称其具备保研资格且获数院多位老师推荐信，为什么此前谣言能广泛传播？",
-          "url": "https://www.zhihu.com/question/2065760409827665215",
-          "source": "知乎",
-          "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时50分 ~ 21时50分]"
         },
         {
           "title": "有什么生活中鲜为人知的冷知识？",
