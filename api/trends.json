@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T00:02:21.734895+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-08-01T01:48:34.287571+08:00",
+  "total_titles_processed": 416,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时48分]"
         },
         {
           "title": "至少 96 个足协抵制国际足联主席因凡蒂诺，他为什么犯了众怒？会被弹劾下台吗？",
@@ -26,8 +26,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时48分]"
+        },
+        {
+          "title": "为什么中国民间有虚岁一说？",
+          "url": "https://www.zhihu.com/question/2059184322427593671",
+          "source": "知乎",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时48分]"
+        },
+        {
+          "title": "老挝为什么能向中国出口电力",
+          "url": "https://www.toutiao.com/trending/7668609151718657546/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时48分]"
         },
         {
           "title": "为什么许多美剧都发生在缅因州?",
@@ -35,28 +59,6 @@
           "source": "知乎",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "为什么中国民间有虚岁一说？",
-          "url": "https://www.zhihu.com/question/2059184322427593671",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "老挝为什么能向中国出口电力",
-          "url": "https://www.toutiao.com/trending/7668609151718657546/",
-          "source": "今日头条",
-          "ranks": [
-            27
           ],
           "is_new": false,
           "appearance_count": 1,
