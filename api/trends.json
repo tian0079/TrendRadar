@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T10:25:22.789062+08:00",
-  "total_titles_processed": 679,
+  "generated_at": "2026-07-31T14:09:16.601707+08:00",
+  "total_titles_processed": 871,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "曾被视为“冷门”的学科缘何备受追捧",
@@ -14,7 +14,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         },
@@ -68,48 +68,73 @@
           "time_info": "[03时19分 ~ 05时04分]"
         },
         {
-          "title": "为什么周星驰的声誉突然好了？",
-          "url": "https://www.zhihu.com/question/2064083901421708578",
+          "title": "兰州一高校录取通知书上「身份证」印成「身证份」，为什么会出现这么明显的错误？会影响新生对学校的观感吗？",
+          "url": "https://www.zhihu.com/question/2066163271292249223",
           "source": "知乎",
           "ranks": [
+            12,
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 14时09分]"
         },
         {
           "title": "多位美团用户账户遭盗刷，矛头直指免密支付，小额免密有哪些潜在风险？为什么平台热衷引导用户开通免密支付？",
           "url": "https://www.zhihu.com/question/2065842506718077225",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "兰州一高校录取通知书上「身份证」印成「身证份」，为什么会出现这么明显的错误？会影响新生对学校的观感吗？",
-          "url": "https://www.zhihu.com/question/2066163271292249223",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 14时09分]"
         },
         {
           "title": "《基督山伯爵》这种纯爽文为什么能成为名著？",
           "url": "https://www.zhihu.com/question/2036258860516762419",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 14时09分]"
+        },
+        {
+          "title": "为什么周星驰的声誉突然好了？",
+          "url": "https://www.zhihu.com/question/2064083901421708578",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "入伏以来多名市民赤裸上身去公园「晒背」，为什么晒背会流行？对身体健康有什么好处吗？",
+          "url": "https://www.zhihu.com/question/2065749316019532347",
+          "source": "知乎",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时25分"
+          "time_info": "14时09分"
+        },
+        {
+          "title": "为什么高校行政人员的脾气普遍不好甚至态度恶劣？",
+          "url": "https://www.zhihu.com/question/46508705",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "「沙漠」的「沙」为什么不是石字旁的「砂」？",
@@ -118,7 +143,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         },
@@ -129,7 +154,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         },
