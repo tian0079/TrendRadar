@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-31T19:56:36.750655+08:00",
-  "total_titles_processed": 1101,
+  "generated_at": "2026-07-31T21:55:27.393406+08:00",
+  "total_titles_processed": 1254,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "如何评价柯洁夺冠后称「最近在琢磨别的几乎没花时间在围棋上，7 月份下棋不到 5 小时，不知道为什么就赢了」？",
+          "url": "https://www.zhihu.com/question/2066503028652204150",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
         {
           "title": "曾被视为“冷门”的学科缘何备受追捧",
           "url": "https://www.baidu.com/s?wd=%E6%9B%BE%E8%A2%AB%E8%A7%86%E4%B8%BA%E2%80%9C%E5%86%B7%E9%97%A8%E2%80%9D%E7%9A%84%E5%AD%A6%E7%A7%91%E7%BC%98%E4%BD%95%E5%A4%87%E5%8F%97%E8%BF%BD%E6%8D%A7",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
-        },
-        {
-          "title": "为什么许多美剧都发生在缅因州?",
-          "url": "https://www.zhihu.com/question/21377980",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时56分"
         },
         {
           "title": "王虹为什么懂法语，以及王虹的英语（包含口语）是什么时候学的？",
@@ -41,6 +41,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时04分 ~ 10时25分]"
+        },
+        {
+          "title": "为什么许多美剧都发生在缅因州?",
+          "url": "https://www.zhihu.com/question/21377980",
+          "source": "知乎",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 21时55分]"
         },
         {
           "title": "多囊卵巢综合征为什么要更名",
@@ -136,6 +148,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "至少 96 个足协抵制国际足联主席因凡蒂诺，他为什么犯了众怒？会被弹劾下台吗？",
+          "url": "https://www.zhihu.com/question/2066479058599113686",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "入伏以来多名市民赤裸上身去公园「晒背」，为什么晒背会流行？对身体健康有什么好处吗？",
