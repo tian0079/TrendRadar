@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-01T03:20:09.211262+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-08-01T05:01:50.276998+08:00",
+  "total_titles_processed": 543,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
       "match_count": 8,
       "titles": [
+        {
+          "title": "至少 96 个足协抵制国际足联主席因凡蒂诺，他为什么犯了众怒？会被弹劾下台吗？",
+          "url": "https://www.zhihu.com/question/2066479058599113686",
+          "source": "知乎",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 05时01分]"
+        },
         {
           "title": "如何评价柯洁夺冠后称「最近在琢磨别的几乎没花时间在围棋上，7 月份下棋不到 5 小时，不知道为什么就赢了」？",
           "url": "https://www.zhihu.com/question/2066503028652204150",
@@ -15,19 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 03时20分]"
-        },
-        {
-          "title": "至少 96 个足协抵制国际足联主席因凡蒂诺，他为什么犯了众怒？会被弹劾下台吗？",
-          "url": "https://www.zhihu.com/question/2066479058599113686",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 05时01分]"
         },
         {
           "title": "为什么感觉对方忽冷忽热的",
@@ -37,8 +38,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[03时19分 ~ 05时01分]"
+        },
+        {
+          "title": "为什么中国民间有虚岁一说？",
+          "url": "https://www.zhihu.com/question/2059184322427593671",
+          "source": "知乎",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 05时01分]"
         },
         {
           "title": "老挝为什么能向中国出口电力",
@@ -54,27 +67,16 @@
           "time_info": "[00时02分 ~ 03时20分]"
         },
         {
-          "title": "为什么中国民间有虚岁一说？",
-          "url": "https://www.zhihu.com/question/2059184322427593671",
-          "source": "知乎",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 03时20分]"
-        },
-        {
           "title": "王虹为什么懂法语，以及王虹的英语（包含口语）是什么时候学的？",
           "url": "https://www.zhihu.com/question/2065435663818830022",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[03时19分 ~ 05时01分]"
         },
         {
           "title": "为什么许多美剧都发生在缅因州?",
