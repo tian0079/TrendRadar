@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T11:17:08.624785+08:00",
-  "total_titles_processed": 852,
+  "generated_at": "2026-08-01T14:25:50.897552+08:00",
+  "total_titles_processed": 1001,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "至少 96 个足协抵制国际足联主席因凡蒂诺，他为什么犯了众怒？会被弹劾下台吗？",
@@ -46,6 +46,17 @@
           "time_info": "[03时19分 ~ 07时59分]"
         },
         {
+          "title": "黄景瑜为什么不站起来",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%AB%99%E8%B5%B7%E6%9D%A5%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "老挝为什么能向中国出口电力",
           "url": "https://www.toutiao.com/trending/7668609151718657546/",
           "source": "今日头条",
@@ -72,6 +83,17 @@
           "time_info": "[00时02分 ~ 05时01分]"
         },
         {
+          "title": "为什么说「战士知道为什么而战很重要」？",
+          "url": "https://www.zhihu.com/question/796560164",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时59分 ~ 14时25分]"
+        },
+        {
           "title": "王虹为什么懂法语，以及王虹的英语（包含口语）是什么时候学的？",
           "url": "https://www.zhihu.com/question/2065435663818830022",
           "source": "知乎",
@@ -85,15 +107,16 @@
           "time_info": "[03时19分 ~ 06时13分]"
         },
         {
-          "title": "为什么说「战士知道为什么而战很重要」？",
-          "url": "https://www.zhihu.com/question/796560164",
+          "title": "韩国股市今年以来第九次触发熔断机制，120 万人爆仓，但为什么对韩国人日常生活的冲击看起来好像并不明显？",
+          "url": "https://www.zhihu.com/question/2064266887324775991",
           "source": "知乎",
           "ranks": [
-            10
+            14,
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时59分 ~ 11时17分]"
+          "time_info": "[11时16分 ~ 14时25分]"
         },
         {
           "title": "为什么今年这么湿热",
@@ -120,17 +143,6 @@
           "time_info": "[06时13分 ~ 07时59分]"
         },
         {
-          "title": "韩国股市今年以来第九次触发熔断机制，120 万人爆仓，但为什么对韩国人日常生活的冲击看起来好像并不明显？",
-          "url": "https://www.zhihu.com/question/2064266887324775991",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时16分 ~ 11时17分]"
-        },
-        {
           "title": "为什么许多美剧都发生在缅因州?",
           "url": "https://www.zhihu.com/question/21377980",
           "source": "知乎",
@@ -151,6 +163,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "国际足联主席因凡蒂诺放弃「出售世界杯等国际足联赛事部分股权」，为什么大家这么反对这一计划？",
+          "url": "https://www.zhihu.com/question/2066811074758665895",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "为什么很多人拿「可证伪性」一棒子打死社会科学理论？这个标准真的能用来评判所有学科吗？",
+          "url": "https://www.zhihu.com/question/2057577839566780194",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         }
       ]
     }
