@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T03:03:42.679748+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-08-02T04:46:16.901180+08:00",
+  "total_titles_processed": 431,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,19 @@
           "time_info": "[00时01分 ~ 01时09分]"
         },
         {
+          "title": "性别和情绪，房主任的两种舞台语法为什么在现实中失灵了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33694022",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 04时46分]"
+        },
+        {
           "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
           "url": "https://www.zhihu.com/question/2066595452238160814",
           "source": "知乎",
@@ -26,31 +39,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时03分]"
-        },
-        {
-          "title": "性别和情绪，房主任的两种舞台语法为什么在现实中失灵了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33694022",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 04时46分]"
         },
         {
           "title": "寒武纪给超 8 成员工发放股票激励，人均 160 万元，为什么要如此「重赏」？对企业发展有何影响？",
           "url": "https://www.zhihu.com/question/2066172239116853500",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时01分 ~ 01时09分]"
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 04时46分]"
         }
       ]
     }
