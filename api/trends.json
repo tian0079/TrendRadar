@@ -1,37 +1,12 @@
 {
-  "generated_at": "2026-08-01T22:58:08.215104+08:00",
-  "total_titles_processed": 1493,
+  "generated_at": "2026-08-02T00:02:15.368009+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 18,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "至少 96 个足协抵制国际足联主席因凡蒂诺，他为什么犯了众怒？会被弹劾下台吗？",
-          "url": "https://www.zhihu.com/question/2066479058599113686",
-          "source": "知乎",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 07时59分]"
-        },
-        {
-          "title": "如何评价柯洁夺冠后称「最近在琢磨别的几乎没花时间在围棋上，7 月份下棋不到 5 小时，不知道为什么就赢了」？",
-          "url": "https://www.zhihu.com/question/2066503028652204150",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 07时59分]"
-        },
         {
           "title": "美法为什么突然公开翻脸？",
           "url": "https://news.ifeng.com/c/8vEcOAUa5Df",
@@ -40,188 +15,41 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时14分 ~ 22时58分]"
-        },
-        {
-          "title": "为什么感觉对方忽冷忽热的",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%84%9F%E8%A7%89%E5%AF%B9%E6%96%B9%E5%BF%BD%E5%86%B7%E5%BF%BD%E7%83%AD%E7%9A%84&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时19分 ~ 07时59分]"
-        },
-        {
-          "title": "老挝为什么能向中国出口电力",
-          "url": "https://www.toutiao.com/trending/7668609151718657546/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            25,
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 06时13分]"
-        },
-        {
-          "title": "为什么中国民间有虚岁一说？",
-          "url": "https://www.zhihu.com/question/2059184322427593671",
-          "source": "知乎",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时01分]"
-        },
-        {
-          "title": "黄景瑜为什么不站起来",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%AB%99%E8%B5%B7%E6%9D%A5%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时25分 ~ 17时03分]"
-        },
-        {
-          "title": "为什么说「战士知道为什么而战很重要」？",
-          "url": "https://www.zhihu.com/question/796560164",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时59分 ~ 14时25分]"
-        },
-        {
-          "title": "韩国股市今年以来第九次触发熔断机制，120 万人爆仓，但为什么对韩国人日常生活的冲击看起来好像并不明显？",
-          "url": "https://www.zhihu.com/question/2064266887324775991",
-          "source": "知乎",
-          "ranks": [
-            14,
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时16分 ~ 17时03分]"
+          "time_info": "[00时01分 ~ 00时02分]"
         },
         {
           "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
           "url": "https://www.zhihu.com/question/2066595452238160814",
           "source": "知乎",
           "ranks": [
-            11,
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时14分 ~ 22时58分]"
-        },
-        {
-          "title": "王虹为什么懂法语，以及王虹的英语（包含口语）是什么时候学的？",
-          "url": "https://www.zhihu.com/question/2065435663818830022",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时19分 ~ 06时13分]"
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 00时02分]"
         },
         {
           "title": "寒武纪给超 8 成员工发放股票激励，人均 160 万元，为什么要如此「重赏」？对企业发展有何影响？",
           "url": "https://www.zhihu.com/question/2066172239116853500",
           "source": "知乎",
           "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时09分 ~ 22时58分]"
-        },
-        {
-          "title": "为什么今年这么湿热",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BB%8A%E5%B9%B4%E8%BF%99%E4%B9%88%E6%B9%BF%E7%83%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            9
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时02分 ~ 07时59分]"
+          "time_info": "[00时01分 ~ 00时02分]"
         },
         {
-          "title": "为什么梦幻西游端游能活将近 19 年？",
-          "url": "https://www.zhihu.com/question/550082623",
-          "source": "知乎",
+          "title": "性别和情绪，房主任的两种舞台语法为什么在现实中失灵了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33694022",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            13
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时13分 ~ 07时59分]"
-        },
-        {
-          "title": "为什么许多美剧都发生在缅因州?",
-          "url": "https://www.zhihu.com/question/21377980",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "为什么日本人的审美从以前的大和抚子变成了现在的元气少女？",
-          "url": "https://www.zhihu.com/question/2061739415513326263",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时13分"
-        },
-        {
-          "title": "国际足联主席因凡蒂诺放弃「出售世界杯等国际足联赛事部分股权」，为什么大家这么反对这一计划？",
-          "url": "https://www.zhihu.com/question/2066811074758665895",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "为什么很多人拿「可证伪性」一棒子打死社会科学理论？这个标准真的能用来评判所有学科吗？",
-          "url": "https://www.zhihu.com/question/2057577839566780194",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时25分"
+          "time_info": "[00时01分 ~ 00时02分]"
         }
       ]
     }
