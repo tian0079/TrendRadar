@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T04:46:16.901180+08:00",
-  "total_titles_processed": 431,
+  "generated_at": "2026-08-02T05:52:18.047215+08:00",
+  "total_titles_processed": 444,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时01分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 05时52分]"
         },
         {
           "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
@@ -39,8 +39,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时01分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 05时52分]"
         },
         {
           "title": "寒武纪给超 8 成员工发放股票激励，人均 160 万元，为什么要如此「重赏」？对企业发展有何影响？",
@@ -48,11 +48,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            16
+            16,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 05时52分]"
         }
       ]
     }
