@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T21:09:59.029497+08:00",
-  "total_titles_processed": 1394,
+  "generated_at": "2026-08-01T22:58:08.215104+08:00",
+  "total_titles_processed": 1493,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 21时09分]"
+          "appearance_count": 4,
+          "time_info": "[19时14分 ~ 22时58分]"
         },
         {
           "title": "为什么感觉对方忽冷忽热的",
@@ -119,6 +119,18 @@
           "time_info": "[11时16分 ~ 17时03分]"
         },
         {
+          "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
+          "url": "https://www.zhihu.com/question/2066595452238160814",
+          "source": "知乎",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时14分 ~ 22时58分]"
+        },
+        {
           "title": "王虹为什么懂法语，以及王虹的英语（包含口语）是什么时候学的？",
           "url": "https://www.zhihu.com/question/2065435663818830022",
           "source": "知乎",
@@ -130,6 +142,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时19分 ~ 06时13分]"
+        },
+        {
+          "title": "寒武纪给超 8 成员工发放股票激励，人均 160 万元，为什么要如此「重赏」？对企业发展有何影响？",
+          "url": "https://www.zhihu.com/question/2066172239116853500",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时09分 ~ 22时58分]"
         },
         {
           "title": "为什么今年这么湿热",
@@ -156,18 +180,6 @@
           "time_info": "[06时13分 ~ 07时59分]"
         },
         {
-          "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
-          "url": "https://www.zhihu.com/question/2066595452238160814",
-          "source": "知乎",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 21时09分]"
-        },
-        {
           "title": "为什么许多美剧都发生在缅因州?",
           "url": "https://www.zhihu.com/question/21377980",
           "source": "知乎",
@@ -177,17 +189,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        },
-        {
-          "title": "寒武纪给超 8 成员工发放股票激励，人均 160 万元，为什么要如此「重赏」？对企业发展有何影响？",
-          "url": "https://www.zhihu.com/question/2066172239116853500",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时09分"
         },
         {
           "title": "为什么日本人的审美从以前的大和抚子变成了现在的元气少女？",
