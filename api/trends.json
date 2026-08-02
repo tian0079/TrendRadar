@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-03T00:04:24.798441+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-03T01:59:51.198836+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
       "match_count": 6,
       "titles": [
+        {
+          "title": "为什么 Bin 休息以后，从俱乐部到选手没有一个人帮他说话？",
+          "url": "https://www.zhihu.com/question/2067207850942845268",
+          "source": "知乎",
+          "ranks": [
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时04分 ~ 01时59分]"
+        },
         {
           "title": "为什么影视剧的审讯环节里经常有犯人问警察要烟抽，警察给了烟后他们就交代案情的桥段？",
           "url": "https://www.zhihu.com/question/2014369505015538447",
@@ -15,19 +27,32 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "appearance_count": 2,
+          "time_info": "[00时04分 ~ 01时59分]"
         },
         {
           "title": "为什么拖完地总有股腥臭味",
           "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8B%96%E5%AE%8C%E5%9C%B0%E6%80%BB%E6%9C%89%E8%82%A1%E8%85%A5%E8%87%AD%E5%91%B3",
           "source": "百度热搜",
           "ranks": [
-            12
+            12,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "appearance_count": 2,
+          "time_info": "[00时04分 ~ 01时59分]"
+        },
+        {
+          "title": "为什么现在公立医院不再推荐体外碎石了？更多的是倾向于输尿管软镜手术？",
+          "url": "https://www.zhihu.com/question/2010360978995422008",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时04分 ~ 01时59分]"
         },
         {
           "title": "为什么董宇辉能坚持看 500 多遍《大话西游》？真有人能同一部电影看 500 遍吗？",
@@ -35,28 +60,6 @@
           "source": "知乎",
           "ranks": [
             14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "为什么 Bin 休息以后，从俱乐部到选手没有一个人帮他说话？",
-          "url": "https://www.zhihu.com/question/2067207850942845268",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "为什么现在公立医院不再推荐体外碎石了？更多的是倾向于输尿管软镜手术？",
-          "url": "https://www.zhihu.com/question/2010360978995422008",
-          "source": "知乎",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 1,
