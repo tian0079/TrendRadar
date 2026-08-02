@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T05:53:22.521602+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-08-03T06:53:40.340802+08:00",
+  "total_titles_processed": 526,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 05时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 06时53分]"
         },
         {
           "title": "为什么现在公立医院不再推荐体外碎石了？更多的是倾向于输尿管软镜手术？",
@@ -29,11 +29,12 @@
           "ranks": [
             17,
             15,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 04时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 06时53分]"
         },
         {
           "title": "为什么影视剧的审讯环节里经常有犯人问警察要烟抽，警察给了烟后他们就交代案情的桥段？",
@@ -52,11 +53,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 05时53分]"
+          "appearance_count": 3,
+          "time_info": "[04时50分 ~ 06时53分]"
         },
         {
           "title": "为什么拖完地总有股腥臭味",
@@ -75,11 +77,12 @@
           "url": "https://www.zhihu.com/question/2066466013324088063",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "appearance_count": 2,
+          "time_info": "[00时04分 ~ 06时53分]"
         },
         {
           "title": "为什么王虹研究数学，网上铺天盖地的却是研究她的人，而不是她的研究理论呢？",
@@ -89,8 +92,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "appearance_count": 2,
+          "time_info": "[00时04分 ~ 06时53分]"
         }
       ]
     }
