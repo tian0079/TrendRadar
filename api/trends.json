@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T10:23:23.823080+08:00",
-  "total_titles_processed": 632,
+  "generated_at": "2026-08-02T13:55:31.318728+08:00",
+  "total_titles_processed": 797,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "性别和情绪，房主任的两种舞台语法为什么在现实中失灵了？",
@@ -16,11 +16,12 @@
             16,
             13,
             11,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 10时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 13时55分]"
         },
         {
           "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
@@ -65,11 +66,34 @@
           "url": "https://www.zhihu.com/question/2066180723078338542",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 10时23分]"
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 13时55分]"
+        },
+        {
+          "title": "为什么董宇辉能坚持看 500 多遍《大话西游》？真有人能同一部电影看 500 遍吗？",
+          "url": "https://www.zhihu.com/question/2066466013324088063",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
+          "title": "为什么王虹研究数学，网上铺天盖地的却是研究她的人，而不是她的研究理论呢？",
+          "url": "https://www.zhihu.com/question/2065556367398776982",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         }
       ]
     }
