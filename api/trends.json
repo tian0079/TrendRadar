@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T01:59:51.198836+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-08-03T03:16:25.633952+08:00",
+  "total_titles_processed": 436,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 03时16分]"
         },
         {
           "title": "为什么影视剧的审讯环节里经常有犯人问警察要烟抽，警察给了烟后他们就交代案情的桥段？",
@@ -27,20 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时59分]"
-        },
-        {
-          "title": "为什么拖完地总有股腥臭味",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8B%96%E5%AE%8C%E5%9C%B0%E6%80%BB%E6%9C%89%E8%82%A1%E8%85%A5%E8%87%AD%E5%91%B3",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 03时16分]"
         },
         {
           "title": "为什么现在公立医院不再推荐体外碎石了？更多的是倾向于输尿管软镜手术？",
@@ -49,6 +38,18 @@
           "ranks": [
             17,
             15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 03时16分]"
+        },
+        {
+          "title": "为什么拖完地总有股腥臭味",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8B%96%E5%AE%8C%E5%9C%B0%E6%80%BB%E6%9C%89%E8%82%A1%E8%85%A5%E8%87%AD%E5%91%B3",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
