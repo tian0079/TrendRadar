@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T18:40:00.509670+08:00",
-  "total_titles_processed": 1213,
+  "generated_at": "2026-08-03T21:38:31.414186+08:00",
+  "total_titles_processed": 1389,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "为什么 Bin 休息以后，从俱乐部到选手没有一个人帮他说话？",
@@ -24,6 +24,18 @@
           "time_info": "[00时04分 ~ 10时25分]"
         },
         {
+          "title": "精神科医生「10 级美颜证件照」火了，出诊照却素颜干练，这种反差戳中了什么？为什么大家边笑边把号挂满了？",
+          "url": "https://www.zhihu.com/question/2066913394364568113",
+          "source": "知乎",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时39分 ~ 21时38分]"
+        },
+        {
           "title": "为什么现在公立医院不再推荐体外碎石了？更多的是倾向于输尿管软镜手术？",
           "url": "https://www.zhihu.com/question/2010360978995422008",
           "source": "知乎",
@@ -39,28 +51,6 @@
           "time_info": "[00时04分 ~ 07时56分]"
         },
         {
-          "title": "精神科医生「10 级美颜证件照」火了，出诊照却素颜干练，这种反差戳中了什么？为什么大家边笑边把号挂满了？",
-          "url": "https://www.zhihu.com/question/2066913394364568113",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时39分 ~ 18时40分]"
-        },
-        {
-          "title": "多平台牛蛙抽检抗生素超标，为什么这类成分屡屡超标？吃了对身体有危害吗？购买时有办法辨别牛蛙是否安全吗？",
-          "url": "https://www.zhihu.com/question/2067556268080722795",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时39分 ~ 18时40分]"
-        },
-        {
           "title": "哥哥冒用弟弟高考身份一路读到博士，为什么一直没被发现？暴露了学籍审核等方面哪些问题？",
           "url": "https://www.zhihu.com/question/2066958063932912243",
           "source": "知乎",
@@ -70,6 +60,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
+        },
+        {
+          "title": "多平台牛蛙抽检抗生素超标，为什么这类成分屡屡超标？吃了对身体有危害吗？购买时有办法辨别牛蛙是否安全吗？",
+          "url": "https://www.zhihu.com/question/2067556268080722795",
+          "source": "知乎",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时39分 ~ 21时38分]"
         },
         {
           "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
@@ -95,6 +97,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时04分 ~ 03时16分]"
+        },
+        {
+          "title": "为什么截止目前，小米澎程 n70 max 全网不开放内饰评测？",
+          "url": "https://www.zhihu.com/question/2067015006886032075",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时39分 ~ 21时38分]"
         },
         {
           "title": "为什么理发店洗头能蓬松好几天",
@@ -143,17 +157,6 @@
           "time_info": "[00时04分 ~ 06时53分]"
         },
         {
-          "title": "为什么截止目前，小米澎程 n70 max 全网不开放内饰评测？",
-          "url": "https://www.zhihu.com/question/2067015006886032075",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时39分 ~ 18时40分]"
-        },
-        {
           "title": "为什么王虹研究数学，网上铺天盖地的却是研究她的人，而不是她的研究理论呢？",
           "url": "https://www.zhihu.com/question/2065556367398776982",
           "source": "知乎",
@@ -163,6 +166,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时04分 ~ 06时53分]"
+        },
+        {
+          "title": "为什么商博良一个人就破译了古埃及象形文字，而直到现在还有很多甲骨文没有被破译？",
+          "url": "https://www.zhihu.com/question/503162307",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "东北为什么不发展轻工业？",
@@ -196,6 +210,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
+        },
+        {
+          "title": "为什么好多人不想买新能源汽车？",
+          "url": "https://www.zhihu.com/question/2067315373137990163",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "为什么合肥收获了长鑫",
