@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T02:49:13.632390+08:00",
-  "total_titles_processed": 420,
+  "generated_at": "2026-08-04T04:25:51.991481+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,24 @@
           "source": "知乎",
           "ranks": [
             2,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 04时25分]"
+        },
+        {
+          "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
+          "url": "https://www.zhihu.com/question/2067545767003120313",
+          "source": "知乎",
+          "ranks": [
+            7,
             5
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时49分]"
+          "time_info": "[02时48分 ~ 04时25分]"
         },
         {
           "title": "为什么截止目前，小米澎程 n70 max 全网不开放内饰评测？",
@@ -28,8 +41,30 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 04时25分]"
+        },
+        {
+          "title": "为什么琴葛蕾在大街上屠杀了那么多平民， 蜘蛛侠还把她放走？",
+          "url": "https://www.zhihu.com/question/2067534626999079319",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 04时25分]"
+        },
+        {
+          "title": "为什么好多人不想买新能源汽车？",
+          "url": "https://www.zhihu.com/question/2067315373137990163",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 04时25分]"
         },
         {
           "title": "多平台牛蛙抽检抗生素超标，为什么这类成分屡屡超标？吃了对身体有危害吗？购买时有办法辨别牛蛙是否安全吗？",
@@ -41,39 +76,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时21分 ~ 02时49分]"
-        },
-        {
-          "title": "为什么琴葛蕾在大街上屠杀了那么多平民， 蜘蛛侠还把她放走？",
-          "url": "https://www.zhihu.com/question/2067534626999079319",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时49分]"
-        },
-        {
-          "title": "为什么好多人不想买新能源汽车？",
-          "url": "https://www.zhihu.com/question/2067315373137990163",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时49分]"
-        },
-        {
-          "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
-          "url": "https://www.zhihu.com/question/2067545767003120313",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时48分 ~ 02时49分]"
         }
       ]
     }
