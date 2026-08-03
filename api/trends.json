@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T04:25:51.991481+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-08-04T06:05:50.210063+08:00",
+  "total_titles_processed": 545,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             5,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 04时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 06时05分]"
         },
         {
           "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
@@ -26,11 +27,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时48分 ~ 04时25分]"
+          "appearance_count": 4,
+          "time_info": "[02时48分 ~ 06时05分]"
         },
         {
           "title": "为什么截止目前，小米澎程 n70 max 全网不开放内饰评测？",
@@ -38,11 +40,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 04时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 06时05分]"
         },
         {
           "title": "为什么琴葛蕾在大街上屠杀了那么多平民， 蜘蛛侠还把她放走？",
@@ -52,8 +55,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 04时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 06时05分]"
         },
         {
           "title": "为什么好多人不想买新能源汽车？",
@@ -63,8 +66,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 04时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 06时05分]"
         },
         {
           "title": "多平台牛蛙抽检抗生素超标，为什么这类成分屡屡超标？吃了对身体有危害吗？购买时有办法辨别牛蛙是否安全吗？",
