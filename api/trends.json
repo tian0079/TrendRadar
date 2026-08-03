@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T07:56:03.069283+08:00",
-  "total_titles_processed": 616,
+  "generated_at": "2026-08-03T10:25:40.353283+08:00",
+  "total_titles_processed": 788,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "为什么 Bin 休息以后，从俱乐部到选手没有一个人帮他说话？",
@@ -16,11 +16,12 @@
             8,
             6,
             3,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 07时56分]"
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 10时25分]"
         },
         {
           "title": "为什么现在公立医院不再推荐体外碎石了？更多的是倾向于输尿管软镜手术？",
@@ -98,13 +99,24 @@
           "time_info": "[00时04分 ~ 06时53分]"
         },
         {
+          "title": "东北为什么不发展轻工业？",
+          "url": "https://www.zhihu.com/question/2056664036553577396",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
           "title": "为什么合肥收获了长鑫",
           "url": "https://www.toutiao.com/trending/7669473332563021318/",
           "source": "今日头条",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         }
