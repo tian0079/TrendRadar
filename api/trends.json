@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T20:59:03.026213+08:00",
-  "total_titles_processed": 1301,
+  "generated_at": "2026-08-04T23:26:24.031341+08:00",
+  "total_titles_processed": 1447,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "哈啰电车突然落锁致大学生十级伤残，交警多次调取后台数据失败，数据调取为什么这么难？还能如何取证？",
@@ -15,11 +15,12 @@
             5,
             2,
             1,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时10分 ~ 20时59分]"
+          "appearance_count": 6,
+          "time_info": "[12时10分 ~ 23时26分]"
         },
         {
           "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
@@ -128,8 +129,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 20时59分]"
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 23时26分]"
         },
         {
           "title": "上海制造业这么厉害，为什么没有诞生长鑫科技这样的高科技公司？长鑫上市后，存储价格会白菜化吗？",
@@ -141,6 +142,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
+        },
+        {
+          "title": "比特币冷钱包被曝漏洞，超 1.1 亿美元资产被盗，看似最安全的「离线存储」为什么也会被偷？",
+          "url": "https://www.zhihu.com/question/2067883838911377616",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "鲁达和武松只是一时权宜之计才当了和尚、行者，为什么就真的当下去了？",
