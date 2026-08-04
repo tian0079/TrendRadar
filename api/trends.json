@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T03:26:23.428290+08:00",
-  "total_titles_processed": 369,
+  "generated_at": "2026-08-05T05:08:52.365660+08:00",
+  "total_titles_processed": 437,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 03时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 05时08分]"
         },
         {
           "title": "哈啰电车突然落锁致大学生十级伤残，交警多次调取后台数据失败，数据调取为什么这么难？还能如何取证？",
@@ -27,8 +27,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 03时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 05时08分]"
         },
         {
           "title": "猫头鹰为什么算是猛禽？",
@@ -38,8 +38,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 03时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 05时08分]"
         }
       ]
     }
