@@ -1,125 +1,33 @@
 {
-  "generated_at": "2026-08-04T23:26:24.031341+08:00",
-  "total_titles_processed": 1447,
+  "generated_at": "2026-08-05T01:45:04.038480+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 13,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "比特币冷钱包被曝漏洞，超 1.1 亿美元资产被盗，看似最安全的「离线存储」为什么也会被偷？",
+          "url": "https://www.zhihu.com/question/2067883838911377616",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 01时45分]"
+        },
         {
           "title": "哈啰电车突然落锁致大学生十级伤残，交警多次调取后台数据失败，数据调取为什么这么难？还能如何取证？",
           "url": "https://www.zhihu.com/question/2065477563548546516",
           "source": "知乎",
           "ranks": [
-            5,
-            2,
-            1,
-            4,
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时10分 ~ 23时26分]"
-        },
-        {
-          "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
-          "url": "https://www.zhihu.com/question/2067545767003120313",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5,
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时48分 ~ 15时35分]"
-        },
-        {
-          "title": "精神科医生「10 级美颜证件照」火了，出诊照却素颜干练，这种反差戳中了什么？为什么大家边笑边把号挂满了？",
-          "url": "https://www.zhihu.com/question/2066913394364568113",
-          "source": "知乎",
-          "ranks": [
-            2,
-            5,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 06时05分]"
-        },
-        {
-          "title": "为什么《潜伏》里面说佛龛价值连城，明明佛龛一直在潜伏寸功未立，而且换回来之后基本就是个普通特务了？",
-          "url": "https://www.zhihu.com/question/1979905139356747069",
-          "source": "知乎",
-          "ranks": [
-            13,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时10分 ~ 20时59分]"
-        },
-        {
-          "title": "为什么截止目前，小米澎程 n70 max 全网不开放内饰评测？",
-          "url": "https://www.zhihu.com/question/2067015006886032075",
-          "source": "知乎",
-          "ranks": [
-            9,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 06时05分]"
-        },
-        {
-          "title": "为什么琴葛蕾在大街上屠杀了那么多平民， 蜘蛛侠还把她放走？",
-          "url": "https://www.zhihu.com/question/2067534626999079319",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 06时05分]"
-        },
-        {
-          "title": "为什么好多人不想买新能源汽车？",
-          "url": "https://www.zhihu.com/question/2067315373137990163",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 06时05分]"
-        },
-        {
-          "title": "为什么冰箱能一直开但空调不能",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%B0%E7%AE%B1%E8%83%BD%E4%B8%80%E7%9B%B4%E5%BC%80%E4%BD%86%E7%A9%BA%E8%B0%83%E4%B8%8D%E8%83%BD%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时35分 ~ 18时34分]"
-        },
-        {
-          "title": "多平台牛蛙抽检抗生素超标，为什么这类成分屡屡超标？吃了对身体有危害吗？购买时有办法辨别牛蛙是否安全吗？",
-          "url": "https://www.zhihu.com/question/2067556268080722795",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时49分]"
+          "time_info": "[01时44分 ~ 01时45分]"
         },
         {
           "title": "猫头鹰为什么算是猛禽？",
@@ -129,41 +37,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时58分 ~ 23时26分]"
-        },
-        {
-          "title": "上海制造业这么厉害，为什么没有诞生长鑫科技这样的高科技公司？长鑫上市后，存储价格会白菜化吗？",
-          "url": "https://www.zhihu.com/question/2065082707370042083",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "比特币冷钱包被曝漏洞，超 1.1 亿美元资产被盗，看似最安全的「离线存储」为什么也会被偷？",
-          "url": "https://www.zhihu.com/question/2067883838911377616",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时26分"
-        },
-        {
-          "title": "鲁达和武松只是一时权宜之计才当了和尚、行者，为什么就真的当下去了？",
-          "url": "https://www.zhihu.com/question/2059899412558697146",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时34分"
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 01时45分]"
         }
       ]
     }
