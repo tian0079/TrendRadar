@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T14:29:58.284922+08:00",
-  "total_titles_processed": 977,
+  "generated_at": "2026-08-05T17:34:53.784955+08:00",
+  "total_titles_processed": 1158,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "比特币冷钱包被曝漏洞，超 1.1 亿美元资产被盗，看似最安全的「离线存储」为什么也会被偷？",
@@ -63,8 +63,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 14时29分]"
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 17时34分]"
         },
         {
           "title": "终于知道为什么抢票抢不过了",
@@ -101,6 +101,17 @@
           "time_info": "11时58分"
         },
         {
+          "title": "为什么说华为旗舰技术看尊界？如何看待尊界 V800 首发多项「华为黑科技」？",
+          "url": "https://www.zhihu.com/question/2068289164244693148",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
           "title": "陀思妥耶夫斯基为什么会成为当下年轻人的精神解药？",
           "url": "https://www.zhihu.com/topic/2067666399908947484/hot",
           "source": "知乎",
@@ -118,7 +129,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -129,9 +140,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
+        },
+        {
+          "title": "为什么高磅数T恤很少人穿了",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%AB%98%E7%A3%85%E6%95%B0T%E6%81%A4%E5%BE%88%E5%B0%91%E4%BA%BA%E7%A9%BF%E4%BA%86&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         },
         {
           "title": "作为前 NBA 三分王，为什么雷 - 阿伦也会吐槽如今的比赛「全是三分球…没什么战术了」？",
@@ -151,7 +173,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         }
