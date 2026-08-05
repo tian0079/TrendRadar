@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T04:23:48.862755+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2026-08-06T06:10:49.661223+08:00",
+  "total_titles_processed": 562,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "泰国为什么越来越危险",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 04时23分]"
+          "appearance_count": 3,
+          "time_info": "[02时20分 ~ 06时10分]"
         },
         {
           "title": "老一辈为什么总是怕被别人笑话？到底是谁在笑话他们？",
@@ -39,6 +39,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "为什么糖尿病老人四肢越来越细",
+          "url": "https://www.toutiao.com/trending/7670338008504057897/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "网上为什么对《天道》这部剧评价得像神一样？",
+          "url": "https://www.zhihu.com/question/1991847067593745828",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
         }
       ]
     }
