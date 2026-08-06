@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T13:45:49.565354+08:00",
-  "total_titles_processed": 1011,
+  "generated_at": "2026-08-06T16:29:25.157959+08:00",
+  "total_titles_processed": 1190,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "泰国为什么越来越危险",
@@ -70,6 +70,28 @@
           "time_info": "00时04分"
         },
         {
+          "title": "《完蛋！我被男同学包围了》为什么会好评如潮，纯粹因为它是高中生玩票制作的搞笑玩梗游戏吗？",
+          "url": "https://www.zhihu.com/question/2068004843956827148",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
+          "title": "为什么只有僵王博士，没有僵王硕士或者僵王教授?",
+          "url": "https://www.zhihu.com/question/2012118438093537977",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
           "title": "为什么健身房有很多会员宁愿自己练了很久没变化也不请教练？",
           "url": "https://www.zhihu.com/question/654217343",
           "source": "知乎",
@@ -87,7 +109,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -109,9 +131,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
+        },
+        {
+          "title": "为什么理性的长期主义者更喜欢租",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%90%86%E6%80%A7%E7%9A%84%E9%95%BF%E6%9C%9F%E4%B8%BB%E4%B9%89%E8%80%85%E6%9B%B4%E5%96%9C%E6%AC%A2%E7%A7%9F&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         }
       ]
     }
