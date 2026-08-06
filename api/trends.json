@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T16:29:25.157959+08:00",
-  "total_titles_processed": 1190,
+  "generated_at": "2026-08-06T19:19:21.889895+08:00",
+  "total_titles_processed": 1375,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "泰国为什么越来越危险",
@@ -34,6 +34,18 @@
           "time_info": "[07时57分 ~ 13时45分]"
         },
         {
+          "title": "《完蛋！我被男同学包围了》为什么会好评如潮，纯粹因为它是高中生玩票制作的搞笑玩梗游戏吗？",
+          "url": "https://www.zhihu.com/question/2068004843956827148",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 19时19分]"
+        },
+        {
           "title": "网上为什么对《天道》这部剧评价得像神一样？",
           "url": "https://www.zhihu.com/question/1991847067593745828",
           "source": "知乎",
@@ -45,6 +57,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时10分 ~ 13时45分]"
+        },
+        {
+          "title": "为什么只有僵王博士，没有僵王硕士或者僵王教授?",
+          "url": "https://www.zhihu.com/question/2012118438093537977",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 19时19分]"
         },
         {
           "title": "为什么糖尿病老人四肢越来越细",
@@ -68,28 +92,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
-        },
-        {
-          "title": "《完蛋！我被男同学包围了》为什么会好评如潮，纯粹因为它是高中生玩票制作的搞笑玩梗游戏吗？",
-          "url": "https://www.zhihu.com/question/2068004843956827148",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
-          "title": "为什么只有僵王博士，没有僵王硕士或者僵王教授?",
-          "url": "https://www.zhihu.com/question/2012118438093537977",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
         },
         {
           "title": "为什么健身房有很多会员宁愿自己练了很久没变化也不请教练？",
@@ -125,6 +127,17 @@
           "time_info": "10时23分"
         },
         {
+          "title": "武松为什么认为帮施恩夺回快活林是正义之举？",
+          "url": "https://www.zhihu.com/question/2002601115330552704",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
           "title": "为什么年轻人更容易疲惫",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%9B%B4%E5%AE%B9%E6%98%93%E7%96%B2%E6%83%AB&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -142,7 +155,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         }
