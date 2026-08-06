@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T07:57:28.771238+08:00",
-  "total_titles_processed": 663,
+  "generated_at": "2026-08-06T10:23:46.464777+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "泰国为什么越来越危险",
@@ -13,22 +13,24 @@
           "source": "今日头条",
           "ranks": [
             2,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时20分 ~ 07时57分]"
+          "appearance_count": 5,
+          "time_info": "[02时20分 ~ 10时23分]"
         },
         {
           "title": "中美打架，为什么“进ICU”的是韩国？",
           "url": "https://news.ifeng.com/c/8vLjJ47cKhh",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时57分 ~ 10时23分]"
         },
         {
           "title": "网上为什么对《天道》这部剧评价得像神一样？",
@@ -39,8 +41,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时10分 ~ 07时57分]"
+          "appearance_count": 3,
+          "time_info": "[06时10分 ~ 10时23分]"
         },
         {
           "title": "为什么糖尿病老人四肢越来越细",
@@ -75,6 +77,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "十进制有什么优点？为什么世界各地的数学不约而同的选择了十进制？",
+          "url": "https://www.zhihu.com/question/321792424",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         }
       ]
     }
