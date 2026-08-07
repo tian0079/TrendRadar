@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T11:48:21.281090+08:00",
-  "total_titles_processed": 500,
+  "generated_at": "2026-08-07T13:38:31.196631+08:00",
+  "total_titles_processed": 642,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "为什么《黑悟空》游科公司不做国民 IP 的动作 RPG《黑水浒》，而做没名气的《黑钟馗》？",
@@ -26,7 +26,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         },
@@ -46,11 +46,34 @@
           "url": "https://www.zhihu.com/question/2062925324489339966",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 13时38分]"
+        },
+        {
+          "title": "立秋为什么要「贴秋膘」？",
+          "url": "https://www.zhihu.com/question/2065129497867956895",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 13时38分]"
+        },
+        {
+          "title": "前日本奥运举重选手便利店偷鸡蛋，推倒店员致其骨折，被当场逮捕，为什么会做出此举？日本运动员的处境如何？",
+          "url": "https://www.zhihu.com/question/2068423522058244663",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 13时38分]"
         },
         {
           "title": "《封神演义》中，为什么最后反而是姜子牙自己没被封神？",
@@ -64,26 +87,26 @@
           "time_info": "08时40分"
         },
         {
-          "title": "立秋为什么要「贴秋膘」？",
-          "url": "https://www.zhihu.com/question/2065129497867956895",
+          "title": "比武招亲摆明是给采花大盗递刀, 武侠游戏为什么还乐此不疲地设计这种擂台?",
+          "url": "https://www.zhihu.com/question/2068266245296744222",
           "source": "知乎",
           "ranks": [
-            11
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时48分"
+          "time_info": "13时38分"
         },
         {
-          "title": "前日本奥运举重选手便利店偷鸡蛋，推倒店员致其骨折，被当场逮捕，为什么会做出此举？日本运动员的处境如何？",
-          "url": "https://www.zhihu.com/question/2068423522058244663",
+          "title": "唐僧扫塔为什么不从最高层往下扫，而是从下往上扫？",
+          "url": "https://www.zhihu.com/question/22432296",
           "source": "知乎",
           "ranks": [
-            15
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时48分"
+          "time_info": "13时38分"
         },
         {
           "title": "为什么《人民的名义》中唯独没有介绍侯亮平和钟小艾的家庭背景？是因为他们是正面人物要考虑影响吗？",
@@ -92,9 +115,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
+        },
+        {
+          "title": "为什么可以说「站在地上」，却不能说「游在河里」？",
+          "url": "https://www.zhihu.com/question/2008213346428662469",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         },
         {
           "title": "立秋冷知识",
@@ -103,7 +137,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         },
