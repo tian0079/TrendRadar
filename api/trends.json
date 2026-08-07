@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T02:50:28.633588+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-08-08T03:51:25.006629+08:00",
+  "total_titles_processed": 502,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "唐僧扫塔为什么不从最高层往下扫，而是从下往上扫？",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 03时51分]"
         },
         {
           "title": "跑了几天外卖发现，很多人原来是修手机的、修汽车的、修家电的技术人员，有手艺为什么要来跑外卖呢？",
@@ -25,11 +25,12 @@
           "ranks": [
             9,
             6,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 03时51分]"
         },
         {
           "title": "为什么脱口秀小剧场 99% 都不挣钱？",
@@ -41,6 +42,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "为什么如今很少再听见有「性能杀手」「显卡杀手」这样称呼的游戏？",
+          "url": "https://www.zhihu.com/question/2027502309337252612",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
         }
       ]
     }
