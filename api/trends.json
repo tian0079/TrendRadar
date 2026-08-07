@@ -1,270 +1,44 @@
 {
-  "generated_at": "2026-08-07T23:53:33.213965+08:00",
-  "total_titles_processed": 1604,
+  "generated_at": "2026-08-08T00:50:53.270799+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 21,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "电影《八仙！》里为什么把汉钟离的名字改成了钟离权？",
-          "url": "https://www.zhihu.com/question/2062925324489339966",
-          "source": "知乎",
-          "ranks": [
-            6,
-            5,
-            7,
-            18,
-            8,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时48分 ~ 22时11分]"
-        },
         {
           "title": "唐僧扫塔为什么不从最高层往下扫，而是从下往上扫？",
           "url": "https://www.zhihu.com/question/22432296",
           "source": "知乎",
           "ranks": [
-            18,
-            19,
-            12,
-            10,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时38分 ~ 23时53分]"
-        },
-        {
-          "title": "前日本奥运举重选手便利店偷鸡蛋，推倒店员致其骨折，被当场逮捕，为什么会做出此举？日本运动员的处境如何？",
-          "url": "https://www.zhihu.com/question/2068423522058244663",
-          "source": "知乎",
-          "ranks": [
-            15,
-            11,
-            10,
-            8,
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时48分 ~ 20时54分]"
-        },
-        {
-          "title": "比武招亲摆明是给采花大盗递刀, 武侠游戏为什么还乐此不疲地设计这种擂台?",
-          "url": "https://www.zhihu.com/question/2068266245296744222",
-          "source": "知乎",
-          "ranks": [
-            14,
-            12,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时38分 ~ 20时54分]"
-        },
-        {
-          "title": "为什么《黑悟空》游科公司不做国民 IP 的动作 RPG《黑水浒》，而做没名气的《黑钟馗》？",
-          "url": "https://www.zhihu.com/question/2068128337650791904",
-          "source": "知乎",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时40分 ~ 11时48分]"
-        },
-        {
-          "title": "为什么蜜雪冰城越卖越贵",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E8%B6%8A%E5%8D%96%E8%B6%8A%E8%B4%B5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
-          "title": "为什么 Jeff Dean 从 Google 离职引起这么大的轰动？",
-          "url": "https://www.zhihu.com/question/2068631767326660517",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时40分"
-        },
-        {
-          "title": "今年蝉为什么这么响",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E8%9D%89%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E5%93%8D",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            21,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时54分 ~ 19时42分]"
-        },
-        {
-          "title": "立秋了为什么天气还这么热",
-          "url": "https://www.douyin.com/hot/2600577",
-          "source": "抖音",
-          "ranks": [
-            13,
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时42分 ~ 22时11分]"
-        },
-        {
-          "title": "为什么《人民的名义》中唯独没有介绍侯亮平和钟小艾的家庭背景？是因为他们是正面人物要考虑影响吗？",
-          "url": "https://www.zhihu.com/question/59229305",
-          "source": "知乎",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时48分 ~ 19时42分]"
-        },
-        {
-          "title": "河南超市为什么火了",
-          "url": "https://www.toutiao.com/trending/7671097559604183067/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时54分 ~ 17时59分]"
-        },
-        {
-          "title": "立秋为什么要「贴秋膘」？",
-          "url": "https://www.zhihu.com/question/2065129497867956895",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时48分 ~ 13时38分]"
-        },
-        {
-          "title": "为什么清华姚班的同学很少有做游戏的呢？",
-          "url": "https://www.zhihu.com/question/2062649950488601090",
-          "source": "知乎",
-          "ranks": [
-            17,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时54分 ~ 22时11分]"
-        },
-        {
-          "title": "为什么可以说「站在地上」，却不能说「游在河里」？",
-          "url": "https://www.zhihu.com/question/2008213346428662469",
-          "source": "知乎",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时38分 ~ 15时08分]"
-        },
-        {
-          "title": "《封神演义》中，为什么最后反而是姜子牙自己没被封神？",
-          "url": "https://www.zhihu.com/question/12458892686",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时40分"
+          "time_info": "00时50分"
         },
         {
           "title": "跑了几天外卖发现，很多人原来是修手机的、修汽车的、修家电的技术人员，有手艺为什么要来跑外卖呢？",
           "url": "https://www.zhihu.com/question/2068266947939153909",
           "source": "知乎",
           "ranks": [
-            11
+            9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时53分"
+          "time_info": "00时50分"
         },
         {
           "title": "为什么脱口秀小剧场 99% 都不挣钱？",
           "url": "https://www.zhihu.com/question/1989721750020302354",
           "source": "知乎",
           "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时53分"
-        },
-        {
-          "title": "为什么血糖高脚最先“遭殃”",
-          "url": "https://www.toutiao.com/trending/7670650447258599465/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时53分"
-        },
-        {
-          "title": "为什么老一辈家长都喜欢打压式教育？",
-          "url": "https://www.zhihu.com/question/2067965878193411672",
-          "source": "知乎",
-          "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时11分"
-        },
-        {
-          "title": "立秋冷知识",
-          "url": "https://www.baidu.com/s?wd=%E7%AB%8B%E7%A7%8B%E5%86%B7%E7%9F%A5%E8%AF%86",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
-          "title": "为什么不能“饿死”癌细胞",
-          "url": "https://www.toutiao.com/trending/7670858820532535338/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时40分"
+          "time_info": "00时50分"
         }
       ]
     }
