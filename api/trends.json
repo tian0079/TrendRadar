@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T03:51:25.006629+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-08-08T04:37:18.869156+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 03时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 04时37分]"
         },
         {
           "title": "跑了几天外卖发现，很多人原来是修手机的、修汽车的、修家电的技术人员，有手艺为什么要来跑外卖呢？",
@@ -29,8 +29,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 03时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 04时37分]"
+        },
+        {
+          "title": "为什么如今很少再听见有「性能杀手」「显卡杀手」这样称呼的游戏？",
+          "url": "https://www.zhihu.com/question/2027502309337252612",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时51分 ~ 04时37分]"
         },
         {
           "title": "为什么脱口秀小剧场 99% 都不挣钱？",
@@ -42,17 +53,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
-        },
-        {
-          "title": "为什么如今很少再听见有「性能杀手」「显卡杀手」这样称呼的游戏？",
-          "url": "https://www.zhihu.com/question/2027502309337252612",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时51分"
         }
       ]
     }
