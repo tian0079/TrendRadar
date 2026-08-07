@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T16:55:05.196842+08:00",
-  "total_titles_processed": 927,
+  "generated_at": "2026-08-07T17:59:23.111570+08:00",
+  "total_titles_processed": 1037,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             5,
-            7
+            7,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时48分 ~ 16时55分]"
+          "appearance_count": 6,
+          "time_info": "[11时48分 ~ 17时59分]"
         },
         {
           "title": "为什么《黑悟空》游科公司不做国民 IP 的动作 RPG《黑水浒》，而做没名气的《黑钟馗》？",
@@ -31,6 +32,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时40分 ~ 11时48分]"
+        },
+        {
+          "title": "前日本奥运举重选手便利店偷鸡蛋，推倒店员致其骨折，被当场逮捕，为什么会做出此举？日本运动员的处境如何？",
+          "url": "https://www.zhihu.com/question/2068423522058244663",
+          "source": "知乎",
+          "ranks": [
+            15,
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时48分 ~ 17时59分]"
         },
         {
           "title": "为什么蜜雪冰城越卖越贵",
@@ -55,17 +70,18 @@
           "time_info": "08时40分"
         },
         {
-          "title": "前日本奥运举重选手便利店偷鸡蛋，推倒店员致其骨折，被当场逮捕，为什么会做出此举？日本运动员的处境如何？",
-          "url": "https://www.zhihu.com/question/2068423522058244663",
+          "title": "唐僧扫塔为什么不从最高层往下扫，而是从下往上扫？",
+          "url": "https://www.zhihu.com/question/22432296",
           "source": "知乎",
           "ranks": [
-            15,
-            11,
+            18,
+            19,
+            12,
             10
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时48分 ~ 16时55分]"
+          "time_info": "[13时38分 ~ 17时59分]"
         },
         {
           "title": "比武招亲摆明是给采花大盗递刀, 武侠游戏为什么还乐此不疲地设计这种擂台?",
@@ -74,24 +90,35 @@
           "ranks": [
             14,
             12,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时38分 ~ 16时55分]"
+          "appearance_count": 5,
+          "time_info": "[13时38分 ~ 17时59分]"
         },
         {
-          "title": "唐僧扫塔为什么不从最高层往下扫，而是从下往上扫？",
-          "url": "https://www.zhihu.com/question/22432296",
-          "source": "知乎",
+          "title": "河南超市为什么火了",
+          "url": "https://www.toutiao.com/trending/7671097559604183067/",
+          "source": "今日头条",
           "ranks": [
-            18,
-            19,
-            12
+            26,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时38分 ~ 16时55分]"
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 17时59分]"
+        },
+        {
+          "title": "今年蝉为什么这么响",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E8%9D%89%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E5%93%8D",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 17时59分]"
         },
         {
           "title": "立秋为什么要「贴秋膘」？",
@@ -115,28 +142,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时38分 ~ 15时08分]"
-        },
-        {
-          "title": "今年蝉为什么这么响",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E8%9D%89%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E5%93%8D",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时54分 ~ 16时55分]"
-        },
-        {
-          "title": "河南超市为什么火了",
-          "url": "https://www.toutiao.com/trending/7671097559604183067/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时54分 ~ 16时55分]"
         },
         {
           "title": "《封神演义》中，为什么最后反而是姜子牙自己没被封神？",
