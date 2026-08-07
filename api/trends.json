@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T17:59:23.111570+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2026-08-07T18:53:42.965617+08:00",
+  "total_titles_processed": 1136,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "电影《八仙！》里为什么把汉钟离的名字改成了钟离权？",
@@ -18,8 +18,38 @@
             18
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时48分 ~ 18时53分]"
+        },
+        {
+          "title": "前日本奥运举重选手便利店偷鸡蛋，推倒店员致其骨折，被当场逮捕，为什么会做出此举？日本运动员的处境如何？",
+          "url": "https://www.zhihu.com/question/2068423522058244663",
+          "source": "知乎",
+          "ranks": [
+            15,
+            11,
+            10,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时48分 ~ 18时53分]"
+        },
+        {
+          "title": "唐僧扫塔为什么不从最高层往下扫，而是从下往上扫？",
+          "url": "https://www.zhihu.com/question/22432296",
+          "source": "知乎",
+          "ranks": [
+            18,
+            19,
+            12,
+            10,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时48分 ~ 17时59分]"
+          "time_info": "[13时38分 ~ 18时53分]"
         },
         {
           "title": "为什么《黑悟空》游科公司不做国民 IP 的动作 RPG《黑水浒》，而做没名气的《黑钟馗》？",
@@ -34,18 +64,18 @@
           "time_info": "[08时40分 ~ 11时48分]"
         },
         {
-          "title": "前日本奥运举重选手便利店偷鸡蛋，推倒店员致其骨折，被当场逮捕，为什么会做出此举？日本运动员的处境如何？",
-          "url": "https://www.zhihu.com/question/2068423522058244663",
+          "title": "比武招亲摆明是给采花大盗递刀, 武侠游戏为什么还乐此不疲地设计这种擂台?",
+          "url": "https://www.zhihu.com/question/2068266245296744222",
           "source": "知乎",
           "ranks": [
-            15,
-            11,
-            10,
-            8
+            14,
+            12,
+            13,
+            17
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时48分 ~ 17时59分]"
+          "time_info": "[13时38分 ~ 18时53分]"
         },
         {
           "title": "为什么蜜雪冰城越卖越贵",
@@ -70,32 +100,16 @@
           "time_info": "08时40分"
         },
         {
-          "title": "唐僧扫塔为什么不从最高层往下扫，而是从下往上扫？",
-          "url": "https://www.zhihu.com/question/22432296",
-          "source": "知乎",
+          "title": "今年蝉为什么这么响",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E8%9D%89%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E5%93%8D",
+          "source": "百度热搜",
           "ranks": [
-            18,
-            19,
-            12,
-            10
+            25,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时38分 ~ 17时59分]"
-        },
-        {
-          "title": "比武招亲摆明是给采花大盗递刀, 武侠游戏为什么还乐此不疲地设计这种擂台?",
-          "url": "https://www.zhihu.com/question/2068266245296744222",
-          "source": "知乎",
-          "ranks": [
-            14,
-            12,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时38分 ~ 17时59分]"
+          "appearance_count": 4,
+          "time_info": "[16时54分 ~ 18时53分]"
         },
         {
           "title": "河南超市为什么火了",
@@ -104,17 +118,6 @@
           "ranks": [
             26,
             19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时54分 ~ 17时59分]"
-        },
-        {
-          "title": "今年蝉为什么这么响",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E8%9D%89%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E5%93%8D",
-          "source": "百度热搜",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -130,6 +133,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时48分 ~ 13时38分]"
+        },
+        {
+          "title": "为什么《人民的名义》中唯独没有介绍侯亮平和钟小艾的家庭背景？是因为他们是正面人物要考虑影响吗？",
+          "url": "https://www.zhihu.com/question/59229305",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 18时53分]"
         },
         {
           "title": "为什么可以说「站在地上」，却不能说「游在河里」？",
@@ -155,15 +170,15 @@
           "time_info": "08时40分"
         },
         {
-          "title": "为什么《人民的名义》中唯独没有介绍侯亮平和钟小艾的家庭背景？是因为他们是正面人物要考虑影响吗？",
-          "url": "https://www.zhihu.com/question/59229305",
-          "source": "知乎",
+          "title": "为什么血糖高脚最先“遭殃”",
+          "url": "https://www.toutiao.com/trending/7670650447258599465/",
+          "source": "今日头条",
           "ranks": [
-            19
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时48分"
+          "time_info": "18时53分"
         },
         {
           "title": "立秋冷知识",
