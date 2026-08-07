@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-08-08T06:31:49.662244+08:00",
-  "total_titles_processed": 591,
+  "generated_at": "2026-08-08T07:31:36.914232+08:00",
+  "total_titles_processed": 625,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "跑了几天外卖发现，很多人原来是修手机的、修汽车的、修家电的技术人员，有手艺为什么要来跑外卖呢？",
+          "url": "https://www.zhihu.com/question/2068266947939153909",
+          "source": "知乎",
+          "ranks": [
+            9,
+            6,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 07时31分]"
+        },
         {
           "title": "唐僧扫塔为什么不从最高层往下扫，而是从下往上扫？",
           "url": "https://www.zhihu.com/question/22432296",
@@ -17,20 +32,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时50分 ~ 05时36分]"
-        },
-        {
-          "title": "跑了几天外卖发现，很多人原来是修手机的、修汽车的、修家电的技术人员，有手艺为什么要来跑外卖呢？",
-          "url": "https://www.zhihu.com/question/2068266947939153909",
-          "source": "知乎",
-          "ranks": [
-            9,
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 06时31分]"
         },
         {
           "title": "为什么如今很少再听见有「性能杀手」「显卡杀手」这样称呼的游戏？",
@@ -50,11 +51,34 @@
           "url": "https://www.zhihu.com/question/305864895",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时31分]"
+        },
+        {
+          "title": "有哪些关于人体的冷知识？",
+          "url": "https://www.zhihu.com/question/314777398",
+          "source": "知乎",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时31分"
+          "time_info": "07时31分"
+        },
+        {
+          "title": "大学老师为什么要平时分？",
+          "url": "https://www.zhihu.com/question/2066515575740831432",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "很多游戏小白又想看后续剧情又打不过那些受苦游戏，为什么不设计一个「投降」按钮，按了能直接过关的那种？",
@@ -63,9 +87,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "电影《八仙！》里为什么把汉钟离的名字改成了钟离权？",
+          "url": "https://www.zhihu.com/question/2062925324489339966",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "为什么脱口秀小剧场 99% 都不挣钱？",
