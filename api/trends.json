@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T22:11:31.144719+08:00",
-  "total_titles_processed": 1468,
+  "generated_at": "2026-08-07T23:53:33.213965+08:00",
+  "total_titles_processed": 1604,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "电影《八仙！》里为什么把汉钟离的名字改成了钟离权？",
@@ -37,8 +37,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时38分 ~ 22时11分]"
+          "appearance_count": 10,
+          "time_info": "[13时38分 ~ 23时53分]"
         },
         {
           "title": "前日本奥运举重选手便利店偷鸡蛋，推倒店员致其骨折，被当场逮捕，为什么会做出此举？日本运动员的处境如何？",
@@ -201,6 +201,28 @@
           "time_info": "08时40分"
         },
         {
+          "title": "跑了几天外卖发现，很多人原来是修手机的、修汽车的、修家电的技术人员，有手艺为什么要来跑外卖呢？",
+          "url": "https://www.zhihu.com/question/2068266947939153909",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "为什么脱口秀小剧场 99% 都不挣钱？",
+          "url": "https://www.zhihu.com/question/1989721750020302354",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "为什么血糖高脚最先“遭殃”",
           "url": "https://www.toutiao.com/trending/7670650447258599465/",
           "source": "今日头条",
@@ -218,7 +240,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时11分"
         },
