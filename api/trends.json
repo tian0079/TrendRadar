@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T00:50:53.270799+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-08T01:46:04.611343+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 01时46分]"
         },
         {
           "title": "跑了几天外卖发现，很多人原来是修手机的、修汽车的、修家电的技术人员，有手艺为什么要来跑外卖呢？",
           "url": "https://www.zhihu.com/question/2068266947939153909",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 01时46分]"
         },
         {
           "title": "为什么脱口秀小剧场 99% 都不挣钱？",
