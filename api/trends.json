@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T20:54:24.201993+08:00",
-  "total_titles_processed": 1344,
+  "generated_at": "2026-08-07T22:11:31.144719+08:00",
+  "total_titles_processed": 1468,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "电影《八仙！》里为什么把汉钟离的名字改成了钟离权？",
@@ -17,11 +17,28 @@
             7,
             18,
             8,
-            11
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时48分 ~ 22时11分]"
+        },
+        {
+          "title": "唐僧扫塔为什么不从最高层往下扫，而是从下往上扫？",
+          "url": "https://www.zhihu.com/question/22432296",
+          "source": "知乎",
+          "ranks": [
+            18,
+            19,
+            12,
+            10,
+            5,
+            7
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[11时48分 ~ 20时54分]"
+          "time_info": "[13时38分 ~ 22时11分]"
         },
         {
           "title": "前日本奥运举重选手便利店偷鸡蛋，推倒店员致其骨折，被当场逮捕，为什么会做出此举？日本运动员的处境如何？",
@@ -38,21 +55,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[11时48分 ~ 20时54分]"
-        },
-        {
-          "title": "唐僧扫塔为什么不从最高层往下扫，而是从下往上扫？",
-          "url": "https://www.zhihu.com/question/22432296",
-          "source": "知乎",
-          "ranks": [
-            18,
-            19,
-            12,
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时38分 ~ 20时54分]"
         },
         {
           "title": "比武招亲摆明是给采花大盗递刀, 武侠游戏为什么还乐此不疲地设计这种擂台?",
@@ -116,6 +118,19 @@
           "time_info": "[16时54分 ~ 19时42分]"
         },
         {
+          "title": "立秋了为什么天气还这么热",
+          "url": "https://www.douyin.com/hot/2600577",
+          "source": "抖音",
+          "ranks": [
+            13,
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时42分 ~ 22时11分]"
+        },
+        {
           "title": "为什么《人民的名义》中唯独没有介绍侯亮平和钟小艾的家庭背景？是因为他们是正面人物要考虑影响吗？",
           "url": "https://www.zhihu.com/question/59229305",
           "source": "知乎",
@@ -151,16 +166,16 @@
           "time_info": "[11时48分 ~ 13时38分]"
         },
         {
-          "title": "立秋了为什么天气还这么热",
-          "url": "https://www.douyin.com/hot/2600577",
-          "source": "抖音",
+          "title": "为什么清华姚班的同学很少有做游戏的呢？",
+          "url": "https://www.zhihu.com/question/2062649950488601090",
+          "source": "知乎",
           "ranks": [
-            13,
-            12
+            17,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时42分 ~ 20时54分]"
+          "time_info": "[20时54分 ~ 22时11分]"
         },
         {
           "title": "为什么可以说「站在地上」，却不能说「游在河里」？",
@@ -197,15 +212,15 @@
           "time_info": "18时53分"
         },
         {
-          "title": "为什么清华姚班的同学很少有做游戏的呢？",
-          "url": "https://www.zhihu.com/question/2062649950488601090",
+          "title": "为什么老一辈家长都喜欢打压式教育？",
+          "url": "https://www.zhihu.com/question/2067965878193411672",
           "source": "知乎",
           "ranks": [
-            17
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时54分"
+          "time_info": "22时11分"
         },
         {
           "title": "立秋冷知识",
