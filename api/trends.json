@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-08-08T18:28:57.300715+08:00",
-  "total_titles_processed": 1264,
+  "generated_at": "2026-08-08T19:25:08.309885+08:00",
+  "total_titles_processed": 1330,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
       "match_count": 15,
       "titles": [
+        {
+          "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
+          "url": "https://www.zhihu.com/question/2068108635620774765",
+          "source": "知乎",
+          "ranks": [
+            5,
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时15分 ~ 19时25分]"
+        },
         {
           "title": "跑了几天外卖发现，很多人原来是修手机的、修汽车的、修家电的技术人员，有手艺为什么要来跑外卖呢？",
           "url": "https://www.zhihu.com/question/2068266947939153909",
@@ -24,20 +38,6 @@
           "time_info": "[00时50分 ~ 12时53分]"
         },
         {
-          "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
-          "url": "https://www.zhihu.com/question/2068108635620774765",
-          "source": "知乎",
-          "ranks": [
-            5,
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时15分 ~ 18时28分]"
-        },
-        {
           "title": "《楚门的世界》中，妻子既然不爱楚门为什么反复提及要与楚门生一个孩子？",
           "url": "https://www.zhihu.com/question/305864895",
           "source": "知乎",
@@ -48,11 +48,12 @@
             5,
             3,
             7,
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时31分 ~ 18时28分]"
+          "appearance_count": 13,
+          "time_info": "[06时31分 ~ 19时25分]"
         },
         {
           "title": "唐僧扫塔为什么不从最高层往下扫，而是从下往上扫？",
@@ -76,8 +77,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时44分 ~ 18时28分]"
+          "appearance_count": 7,
+          "time_info": "[14时44分 ~ 19时25分]"
+        },
+        {
+          "title": "为什么体制内至今仍不鼓励用人工智能？",
+          "url": "https://www.zhihu.com/question/2042649810709239000",
+          "source": "知乎",
+          "ranks": [
+            18,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时34分 ~ 19时25分]"
         },
         {
           "title": "为什么如今很少再听见有「性能杀手」「显卡杀手」这样称呼的游戏？",
@@ -104,18 +118,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时22分 ~ 13时40分]"
-        },
-        {
-          "title": "为什么体制内至今仍不鼓励用人工智能？",
-          "url": "https://www.zhihu.com/question/2042649810709239000",
-          "source": "知乎",
-          "ranks": [
-            18,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时34分 ~ 18时28分]"
         },
         {
           "title": "梁文锋为什么投王兴兴",
