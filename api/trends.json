@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T04:25:02.827382+08:00",
-  "total_titles_processed": 429,
+  "generated_at": "2026-08-09T05:26:19.556887+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 05时26分]"
         },
         {
           "title": "为什么体制内至今仍不鼓励用人工智能？",
@@ -49,6 +49,17 @@
           "time_info": "[00时28分 ~ 02时31分]"
         },
         {
+          "title": "跑了几天外卖发现，很多人原来是修手机的、修汽车的、修家电的技术人员，有手艺为什么要来跑外卖呢？",
+          "url": "https://www.zhihu.com/question/2068266947939153909",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时26分 ~ 05时26分]"
+        },
+        {
           "title": "《八仙 ！》《年会不能停！2》 等电影片名中频繁出现感叹号，为什么会出现这一现象？这算是符号滥用吗？",
           "url": "https://www.zhihu.com/question/2068340016519107220",
           "source": "知乎",
@@ -59,17 +70,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时28分 ~ 01时26分]"
-        },
-        {
-          "title": "跑了几天外卖发现，很多人原来是修手机的、修汽车的、修家电的技术人员，有手艺为什么要来跑外卖呢？",
-          "url": "https://www.zhihu.com/question/2068266947939153909",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时26分 ~ 04时25分]"
         }
       ]
     }
