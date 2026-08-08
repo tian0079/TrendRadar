@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T22:28:51.200799+08:00",
-  "total_titles_processed": 1561,
+  "generated_at": "2026-08-08T23:25:40.780635+08:00",
+  "total_titles_processed": 1624,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
@@ -56,8 +56,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[06时31分 ~ 22时28分]"
+          "appearance_count": 18,
+          "time_info": "[06时31分 ~ 23时25分]"
         },
         {
           "title": "唐僧扫塔为什么不从最高层往下扫，而是从下往上扫？",
@@ -82,8 +82,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时44分 ~ 22时28分]"
+          "appearance_count": 12,
+          "time_info": "[14时44分 ~ 23时25分]"
         },
         {
           "title": "为什么体制内至今仍不鼓励用人工智能？",
@@ -96,8 +96,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时34分 ~ 22时28分]"
+          "appearance_count": 9,
+          "time_info": "[17时34分 ~ 23时25分]"
         },
         {
           "title": "为什么如今很少再听见有「性能杀手」「显卡杀手」这样称呼的游戏？",
@@ -111,6 +111,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时51分 ~ 06时31分]"
+        },
+        {
+          "title": "武功秘籍明明是可以抄写复制的文字, 为什么武侠世界里总被默认为 「 独一份 」 的孤本?",
+          "url": "https://www.zhihu.com/question/2068983443669749789",
+          "source": "知乎",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时43分 ~ 23时25分]"
         },
         {
           "title": "美国为什么盯上了多晶硅",
@@ -136,18 +148,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[20时38分 ~ 21时43分]"
-        },
-        {
-          "title": "武功秘籍明明是可以抄写复制的文字, 为什么武侠世界里总被默认为 「 独一份 」 的孤本?",
-          "url": "https://www.zhihu.com/question/2068983443669749789",
-          "source": "知乎",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时43分 ~ 22时28分]"
         },
         {
           "title": "梁文锋为什么投王兴兴",
@@ -205,6 +205,17 @@
           "time_info": "07时31分"
         },
         {
+          "title": "年轻人不喜欢白酒，为什么白酒却是消费主流？",
+          "url": "https://www.zhihu.com/question/664667368",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "为什么脱口秀小剧场 99% 都不挣钱？",
           "url": "https://www.zhihu.com/question/1989721750020302354",
           "source": "知乎",
@@ -225,6 +236,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
+        },
+        {
+          "title": "《三角洲行动》为什么玩家们不能约定个村规例如用三个女医流代替盾盾盾继续共享监狱呢？",
+          "url": "https://www.zhihu.com/question/1962192706110485159",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "为什么要吃高营养素密度食物",
+          "url": "https://www.toutiao.com/trending/7671563922675449907/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         }
       ]
     }
