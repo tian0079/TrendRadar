@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T15:46:39.926151+08:00",
-  "total_titles_processed": 1075,
+  "generated_at": "2026-08-08T16:35:46.711332+08:00",
+  "total_titles_processed": 1136,
   "failed_sources": [],
   "trends": [
     {
@@ -24,17 +24,6 @@
           "time_info": "[00时50分 ~ 12时53分]"
         },
         {
-          "title": "唐僧扫塔为什么不从最高层往下扫，而是从下往上扫？",
-          "url": "https://www.zhihu.com/question/22432296",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 05时36分]"
-        },
-        {
           "title": "《楚门的世界》中，妻子既然不爱楚门为什么反复提及要与楚门生一个孩子？",
           "url": "https://www.zhihu.com/question/305864895",
           "source": "知乎",
@@ -46,8 +35,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时31分 ~ 15时46分]"
+          "appearance_count": 9,
+          "time_info": "[06时31分 ~ 16时35分]"
+        },
+        {
+          "title": "唐僧扫塔为什么不从最高层往下扫，而是从下往上扫？",
+          "url": "https://www.zhihu.com/question/22432296",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 05时36分]"
         },
         {
           "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
@@ -56,11 +56,25 @@
           "ranks": [
             5,
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时15分 ~ 15时46分]"
+          "appearance_count": 7,
+          "time_info": "[09时15分 ~ 16时35分]"
+        },
+        {
+          "title": "《八仙 ！》《年会不能停！2》 等电影片名中频繁出现感叹号，为什么会出现这一现象？这算是符号滥用吗？",
+          "url": "https://www.zhihu.com/question/2068340016519107220",
+          "source": "知乎",
+          "ranks": [
+            14,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时44分 ~ 16时35分]"
         },
         {
           "title": "为什么如今很少再听见有「性能杀手」「显卡杀手」这样称呼的游戏？",
@@ -87,18 +101,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时22分 ~ 13时40分]"
-        },
-        {
-          "title": "《八仙 ！》《年会不能停！2》 等电影片名中频繁出现感叹号，为什么会出现这一现象？这算是符号滥用吗？",
-          "url": "https://www.zhihu.com/question/2068340016519107220",
-          "source": "知乎",
-          "ranks": [
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时44分 ~ 15时46分]"
         },
         {
           "title": "梁文锋为什么投王兴兴",
