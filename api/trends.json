@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T01:26:47.560178+08:00",
-  "total_titles_processed": 356,
+  "generated_at": "2026-08-09T02:31:47.598450+08:00",
+  "total_titles_processed": 381,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 02时31分]"
         },
         {
           "title": "武功秘籍明明是可以抄写复制的文字, 为什么武侠世界里总被默认为 「 独一份 」 的孤本?",
@@ -28,8 +29,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 02时31分]"
+        },
+        {
+          "title": "年轻人不喜欢白酒，为什么白酒却是消费主流？",
+          "url": "https://www.zhihu.com/question/664667368",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 02时31分]"
         },
         {
           "title": "《八仙 ！》《年会不能停！2》 等电影片名中频繁出现感叹号，为什么会出现这一现象？这算是符号滥用吗？",
@@ -38,18 +52,6 @@
           "ranks": [
             15,
             16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时26分]"
-        },
-        {
-          "title": "年轻人不喜欢白酒，为什么白酒却是消费主流？",
-          "url": "https://www.zhihu.com/question/664667368",
-          "source": "知乎",
-          "ranks": [
-            16,
-            15
           ],
           "is_new": false,
           "appearance_count": 3,
