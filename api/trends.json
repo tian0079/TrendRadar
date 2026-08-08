@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T19:25:08.309885+08:00",
-  "total_titles_processed": 1330,
+  "generated_at": "2026-08-08T20:39:01.713387+08:00",
+  "total_titles_processed": 1435,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
@@ -15,11 +15,12 @@
             5,
             7,
             4,
-            3
+            3,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时15分 ~ 19时25分]"
+          "appearance_count": 13,
+          "time_info": "[09时15分 ~ 20时39分]"
         },
         {
           "title": "跑了几天外卖发现，很多人原来是修手机的、修汽车的、修家电的技术人员，有手艺为什么要来跑外卖呢？",
@@ -49,11 +50,12 @@
             3,
             7,
             9,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时31分 ~ 19时25分]"
+          "appearance_count": 15,
+          "time_info": "[06时31分 ~ 20时39分]"
         },
         {
           "title": "唐僧扫塔为什么不从最高层往下扫，而是从下往上扫？",
@@ -74,11 +76,12 @@
             14,
             9,
             5,
-            6
+            6,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时44分 ~ 19时25分]"
+          "appearance_count": 9,
+          "time_info": "[14时44分 ~ 20时39分]"
         },
         {
           "title": "为什么体制内至今仍不鼓励用人工智能？",
@@ -90,8 +93,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时34分 ~ 19时25分]"
+          "appearance_count": 6,
+          "time_info": "[17时34分 ~ 20时39分]"
         },
         {
           "title": "为什么如今很少再听见有「性能杀手」「显卡杀手」这样称呼的游戏？",
@@ -118,6 +121,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时22分 ~ 13时40分]"
+        },
+        {
+          "title": "儿子举报父亲，借他人身份证伪造证件为私生子落户，假证为什么能一路绿灯没被发现？其父涉嫌哪些法律问题？",
+          "url": "https://www.zhihu.com/question/2068755300299927871",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时38分 ~ 20时39分]"
         },
         {
           "title": "梁文锋为什么投王兴兴",
