@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T21:46:45.364379+08:00",
-  "total_titles_processed": 1324,
+  "generated_at": "2026-08-09T23:27:15.985076+08:00",
+  "total_titles_processed": 1415,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "年轻人不喜欢白酒，为什么白酒却是消费主流？",
@@ -61,11 +61,13 @@
           "ranks": [
             4,
             10,
-            16
+            16,
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时30分 ~ 21时46分]"
+          "appearance_count": 6,
+          "time_info": "[18时30分 ~ 23时27分]"
         },
         {
           "title": "鲁迅连个长篇都没有，可是为什么一提到中国现当代文学的 TOP1，就都想到了他？",
@@ -75,8 +77,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时30分 ~ 21时46分]"
+          "appearance_count": 6,
+          "time_info": "[18时30分 ~ 23时27分]"
         },
         {
           "title": "武功秘籍明明是可以抄写复制的文字, 为什么武侠世界里总被默认为 「 独一份 」 的孤本?",
@@ -89,6 +91,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时28分 ~ 02时31分]"
+        },
+        {
+          "title": "「抱冬瓜睡觉降温」走红，有人尝试，结果半夜瓜炸了，好端端的冬瓜为什么会爆裂？",
+          "url": "https://www.zhihu.com/question/2068090103704941168",
+          "source": "知乎",
+          "ranks": [
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时46分 ~ 23时27分]"
         },
         {
           "title": "《八仙 ！》《年会不能停！2》 等电影片名中频繁出现感叹号，为什么会出现这一现象？这算是符号滥用吗？",
@@ -125,6 +139,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时24分 ~ 07时24分]"
+        },
+        {
+          "title": "为什么感觉好莱坞的特效越来越不如以前真实？",
+          "url": "https://www.zhihu.com/question/459841876",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时26分 ~ 23时27分]"
         },
         {
           "title": "耐克为什么卖不动了",
@@ -169,17 +194,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
-        },
-        {
-          "title": "「抱冬瓜睡觉降温」走红，有人尝试，结果半夜瓜炸了，好端端的冬瓜为什么会爆裂？",
-          "url": "https://www.zhihu.com/question/2068090103704941168",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时46分"
         }
       ]
     }
