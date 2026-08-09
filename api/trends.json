@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T07:24:51.833583+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-08-09T09:19:51.155285+08:00",
+  "total_titles_processed": 565,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             12,
             7,
             17,
-            9
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 09时19分]"
         },
         {
           "title": "为什么体制内至今仍不鼓励用人工智能？",
@@ -45,11 +46,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时26分 ~ 07时24分]"
+          "appearance_count": 8,
+          "time_info": "[03时26分 ~ 09时19分]"
         },
         {
           "title": "武功秘籍明明是可以抄写复制的文字, 为什么武侠世界里总被默认为 「 独一份 」 的孤本?",
@@ -117,7 +119,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         }
