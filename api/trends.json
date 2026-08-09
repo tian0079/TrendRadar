@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T00:31:28.339591+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-08-10T01:29:08.512423+08:00",
+  "total_titles_processed": 359,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 01时29分]"
         },
         {
           "title": "「抱冬瓜睡觉降温」走红，有人尝试，结果半夜瓜炸了，好端端的冬瓜为什么会爆裂？",
           "url": "https://www.zhihu.com/question/2068090103704941168",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 01时29分]"
         },
         {
           "title": "为什么感觉好莱坞的特效越来越不如以前真实？",
