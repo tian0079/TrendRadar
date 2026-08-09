@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T06:26:40.341180+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2026-08-10T07:27:34.605898+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "「抱冬瓜睡觉降温」走红，有人尝试，结果半夜瓜炸了，好端端的冬瓜为什么会爆裂？",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 06时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时30分 ~ 07时27分]"
         },
         {
           "title": "鲁迅连个长篇都没有，可是为什么一提到中国现当代文学的 TOP1，就都想到了他？",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 06时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时30分 ~ 07时27分]"
         },
         {
           "title": "为什么感觉好莱坞的特效越来越不如以前真实？",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时30分 ~ 00时31分]"
+        },
+        {
+          "title": "你认为现在教育孩子，应该以兴趣为导向，还是以成绩为导向，为什么？",
+          "url": "https://www.zhihu.com/question/2043253892905964512",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         }
       ]
     }
