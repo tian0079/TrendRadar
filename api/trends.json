@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-08-10T01:29:08.512423+08:00",
-  "total_titles_processed": 359,
+  "generated_at": "2026-08-10T02:35:26.992046+08:00",
+  "total_titles_processed": 378,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
       "match_count": 3,
       "titles": [
+        {
+          "title": "「抱冬瓜睡觉降温」走红，有人尝试，结果半夜瓜炸了，好端端的冬瓜为什么会爆裂？",
+          "url": "https://www.zhihu.com/question/2068090103704941168",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 02时35分]"
+        },
         {
           "title": "鲁迅连个长篇都没有，可是为什么一提到中国现当代文学的 TOP1，就都想到了他？",
           "url": "https://www.zhihu.com/question/1957061060604437527",
@@ -15,20 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 01时29分]"
-        },
-        {
-          "title": "「抱冬瓜睡觉降温」走红，有人尝试，结果半夜瓜炸了，好端端的冬瓜为什么会爆裂？",
-          "url": "https://www.zhihu.com/question/2068090103704941168",
-          "source": "知乎",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 01时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 02时35分]"
         },
         {
           "title": "为什么感觉好莱坞的特效越来越不如以前真实？",
