@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T02:35:26.992046+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2026-08-10T03:31:20.547128+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             7,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 02时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 03时31分]"
         },
         {
           "title": "鲁迅连个长篇都没有，可是为什么一提到中国现当代文学的 TOP1，就都想到了他？",
@@ -28,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 02时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 03时31分]"
         },
         {
           "title": "为什么感觉好莱坞的特效越来越不如以前真实？",
