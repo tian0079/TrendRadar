@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T13:23:29.341009+08:00",
-  "total_titles_processed": 936,
+  "generated_at": "2026-08-10T15:25:33.272635+08:00",
+  "total_titles_processed": 1096,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "「抱冬瓜睡觉降温」走红，有人尝试，结果半夜瓜炸了，好端端的冬瓜为什么会爆裂？",
@@ -39,11 +39,24 @@
           "ranks": [
             9,
             4,
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时22分 ~ 15时25分]"
+        },
+        {
+          "title": "同济大学取消教师长期聘任，科研教职岗位面临更大的压力，为什么行政工作相对更简单反而没有这种不稳定性？",
+          "url": "https://www.zhihu.com/question/2067683991218607726",
+          "source": "知乎",
+          "ranks": [
+            19,
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时22分 ~ 13时23分]"
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 15时25分]"
         },
         {
           "title": "知道为什么说保持饥饿感非常重要了",
@@ -75,9 +88,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "弗洛伊德的理论那么扯淡为什么他又那么出名？",
+          "url": "https://www.zhihu.com/question/268161638",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "为什么希腊餐在国内不受欢迎？",
@@ -91,6 +115,17 @@
           "time_info": "09时22分"
         },
         {
+          "title": "韩信为什么连让他钻裤裆的恶霸都委以重任，但是却拿百钱羞辱让他吃大半年白饭的亭长呢？",
+          "url": "https://www.zhihu.com/question/1890833705737646410",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "你认为现在教育孩子，应该以兴趣为导向，还是以成绩为导向，为什么？",
           "url": "https://www.zhihu.com/question/2043253892905964512",
           "source": "知乎",
@@ -100,17 +135,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
-        },
-        {
-          "title": "同济大学取消教师长期聘任，科研教职岗位面临更大的压力，为什么行政工作相对更简单反而没有这种不稳定性？",
-          "url": "https://www.zhihu.com/question/2067683991218607726",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
         }
       ]
     }
