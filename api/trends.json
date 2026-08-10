@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T11:51:03.977539+08:00",
-  "total_titles_processed": 828,
+  "generated_at": "2026-08-10T13:23:29.341009+08:00",
+  "total_titles_processed": 936,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "「抱冬瓜睡觉降温」走红，有人尝试，结果半夜瓜炸了，好端端的冬瓜为什么会爆裂？",
@@ -38,11 +38,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时22分 ~ 11时51分]"
+          "appearance_count": 4,
+          "time_info": "[09时22分 ~ 13时23分]"
         },
         {
           "title": "知道为什么说保持饥饿感非常重要了",
@@ -68,6 +69,17 @@
           "time_info": "[00时30分 ~ 00时31分]"
         },
         {
+          "title": "为什么现在的文字都是横排的，而不像古代一样竖着写？",
+          "url": "https://www.zhihu.com/question/2068820871586779966",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
           "title": "为什么希腊餐在国内不受欢迎？",
           "url": "https://www.zhihu.com/question/2024732109831513808",
           "source": "知乎",
@@ -88,6 +100,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "同济大学取消教师长期聘任，科研教职岗位面临更大的压力，为什么行政工作相对更简单反而没有这种不稳定性？",
+          "url": "https://www.zhihu.com/question/2067683991218607726",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         }
       ]
     }
