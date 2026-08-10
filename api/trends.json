@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T06:34:10.848240+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-08-11T07:31:47.131764+08:00",
+  "total_titles_processed": 633,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             2,
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时31分]"
         },
         {
           "title": "多地高分生扎堆填报「3+4」中本贯通，为什么会这样？中本贯通有哪些优势？",
@@ -29,11 +30,12 @@
             14,
             13,
             20,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时31分]"
         },
         {
           "title": "韩信为什么连让他钻裤裆的恶霸都委以重任，但是却拿百钱羞辱让他吃大半年白饭的亭长呢？",
@@ -42,11 +44,12 @@
           "ranks": [
             12,
             15,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时31分]"
         },
         {
           "title": "弗洛伊德的理论那么扯淡为什么他又那么出名？",
@@ -60,6 +63,18 @@
           "time_info": "[00时53分 ~ 01时50分]"
         },
         {
+          "title": "同济大学取消教师长期聘任，科研教职岗位面临更大的压力，为什么行政工作相对更简单反而没有这种不稳定性？",
+          "url": "https://www.zhihu.com/question/2067683991218607726",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时33分 ~ 07时31分]"
+        },
+        {
           "title": "《红楼梦》中，贾宝玉为什么不和晴雯发生云雨情？晴雯不是最漂亮吗？",
           "url": "https://www.zhihu.com/question/2036409841296619170",
           "source": "知乎",
@@ -69,17 +84,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时49分 ~ 01时50分]"
-        },
-        {
-          "title": "同济大学取消教师长期聘任，科研教职岗位面临更大的压力，为什么行政工作相对更简单反而没有这种不稳定性？",
-          "url": "https://www.zhihu.com/question/2067683991218607726",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时33分 ~ 06时34分]"
         }
       ]
     }
