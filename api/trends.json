@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T20:58:52.798331+08:00",
-  "total_titles_processed": 1549,
+  "generated_at": "2026-08-10T22:21:44.823992+08:00",
+  "total_titles_processed": 1677,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,20 @@
           "time_info": "[00时30分 ~ 09时22分]"
         },
         {
+          "title": "同济大学取消教师长期聘任，科研教职岗位面临更大的压力，为什么行政工作相对更简单反而没有这种不稳定性？",
+          "url": "https://www.zhihu.com/question/2067683991218607726",
+          "source": "知乎",
+          "ranks": [
+            19,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时23分 ~ 22时21分]"
+        },
+        {
           "title": "鲁迅连个长篇都没有，可是为什么一提到中国现当代文学的 TOP1，就都想到了他？",
           "url": "https://www.zhihu.com/question/1957061060604437527",
           "source": "知乎",
@@ -33,20 +47,6 @@
           "time_info": "[00时30分 ~ 07时27分]"
         },
         {
-          "title": "同济大学取消教师长期聘任，科研教职岗位面临更大的压力，为什么行政工作相对更简单反而没有这种不稳定性？",
-          "url": "https://www.zhihu.com/question/2067683991218607726",
-          "source": "知乎",
-          "ranks": [
-            19,
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时23分 ~ 20时58分]"
-        },
-        {
           "title": "韩信为什么连让他钻裤裆的恶霸都委以重任，但是却拿百钱羞辱让他吃大半年白饭的亭长呢？",
           "url": "https://www.zhihu.com/question/1890833705737646410",
           "source": "知乎",
@@ -54,11 +54,12 @@
             17,
             12,
             7,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时25分 ~ 20时58分]"
+          "appearance_count": 7,
+          "time_info": "[15时25分 ~ 22时21分]"
         },
         {
           "title": "为什么程序员大多都拥抱 AI，而音乐人却抗拒并隔离 AI 音乐池？",
@@ -82,8 +83,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时25分 ~ 20时58分]"
+          "appearance_count": 7,
+          "time_info": "[15时25分 ~ 22时21分]"
         },
         {
           "title": "多地高分生扎堆填报「3+4」中本贯通，为什么会这样？中本贯通有哪些优势？",
@@ -92,11 +93,12 @@
           "ranks": [
             17,
             15,
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时15分 ~ 20时58分]"
+          "appearance_count": 6,
+          "time_info": "[17时15分 ~ 22时21分]"
         },
         {
           "title": "知道为什么说保持饥饿感非常重要了",
