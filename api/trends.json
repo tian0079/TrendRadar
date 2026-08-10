@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T07:27:34.605898+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-08-10T09:22:31.180751+08:00",
+  "total_titles_processed": 660,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "「抱冬瓜睡觉降温」走红，有人尝试，结果半夜瓜炸了，好端端的冬瓜为什么会爆裂？",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时30分 ~ 07时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时30分 ~ 09时22分]"
         },
         {
           "title": "鲁迅连个长篇都没有，可是为什么一提到中国现当代文学的 TOP1，就都想到了他？",
@@ -44,13 +44,46 @@
           "time_info": "[00时30分 ~ 00时31分]"
         },
         {
+          "title": "知道为什么说保持饥饿感非常重要了",
+          "url": "https://s.weibo.com/weibo?q=%E7%9F%A5%E9%81%93%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E4%BF%9D%E6%8C%81%E9%A5%A5%E9%A5%BF%E6%84%9F%E9%9D%9E%E5%B8%B8%E9%87%8D%E8%A6%81%E4%BA%86&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "为什么程序员大多都拥抱 AI，而音乐人却抗拒并隔离 AI 音乐池？",
+          "url": "https://www.zhihu.com/question/2063944037544023265",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "为什么希腊餐在国内不受欢迎？",
+          "url": "https://www.zhihu.com/question/2024732109831513808",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
           "title": "你认为现在教育孩子，应该以兴趣为导向，还是以成绩为导向，为什么？",
           "url": "https://www.zhihu.com/question/2043253892905964512",
           "source": "知乎",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         }
