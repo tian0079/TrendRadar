@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T17:16:06.709781+08:00",
-  "total_titles_processed": 1253,
+  "generated_at": "2026-08-10T19:06:07.391684+08:00",
+  "total_titles_processed": 1407,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "「抱冬瓜睡觉降温」走红，有人尝试，结果半夜瓜炸了，好端端的冬瓜为什么会爆裂？",
@@ -33,6 +33,20 @@
           "time_info": "[00时30分 ~ 07时27分]"
         },
         {
+          "title": "同济大学取消教师长期聘任，科研教职岗位面临更大的压力，为什么行政工作相对更简单反而没有这种不稳定性？",
+          "url": "https://www.zhihu.com/question/2067683991218607726",
+          "source": "知乎",
+          "ranks": [
+            19,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时23分 ~ 19时06分]"
+        },
+        {
           "title": "为什么程序员大多都拥抱 AI，而音乐人却抗拒并隔离 AI 音乐池？",
           "url": "https://www.zhihu.com/question/2063944037544023265",
           "source": "知乎",
@@ -47,17 +61,40 @@
           "time_info": "[09时22分 ~ 15时25分]"
         },
         {
-          "title": "同济大学取消教师长期聘任，科研教职岗位面临更大的压力，为什么行政工作相对更简单反而没有这种不稳定性？",
-          "url": "https://www.zhihu.com/question/2067683991218607726",
+          "title": "韩信为什么连让他钻裤裆的恶霸都委以重任，但是却拿百钱羞辱让他吃大半年白饭的亭长呢？",
+          "url": "https://www.zhihu.com/question/1890833705737646410",
           "source": "知乎",
           "ranks": [
-            19,
-            5,
-            4
+            17,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时25分 ~ 19时06分]"
+        },
+        {
+          "title": "弗洛伊德的理论那么扯淡为什么他又那么出名？",
+          "url": "https://www.zhihu.com/question/268161638",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时25分 ~ 19时06分]"
+        },
+        {
+          "title": "多地高分生扎堆填报「3+4」中本贯通，为什么会这样？中本贯通有哪些优势？",
+          "url": "https://www.zhihu.com/question/2070067547102082665",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时23分 ~ 17时16分]"
+          "time_info": "[17时15分 ~ 19时06分]"
         },
         {
           "title": "知道为什么说保持饥饿感非常重要了",
@@ -72,40 +109,6 @@
           "time_info": "[09时22分 ~ 11时51分]"
         },
         {
-          "title": "弗洛伊德的理论那么扯淡为什么他又那么出名？",
-          "url": "https://www.zhihu.com/question/268161638",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时25分 ~ 17时16分]"
-        },
-        {
-          "title": "韩信为什么连让他钻裤裆的恶霸都委以重任，但是却拿百钱羞辱让他吃大半年白饭的亭长呢？",
-          "url": "https://www.zhihu.com/question/1890833705737646410",
-          "source": "知乎",
-          "ranks": [
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时25分 ~ 17时16分]"
-        },
-        {
-          "title": "多地高分生扎堆填报「3+4」中本贯通，为什么会这样？中本贯通有哪些优势？",
-          "url": "https://www.zhihu.com/question/2070067547102082665",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 17时16分]"
-        },
-        {
           "title": "为什么感觉好莱坞的特效越来越不如以前真实？",
           "url": "https://www.zhihu.com/question/459841876",
           "source": "知乎",
@@ -115,6 +118,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时30分 ~ 00时31分]"
+        },
+        {
+          "title": "《红楼梦》中，贾宝玉为什么不和晴雯发生云雨情？晴雯不是最漂亮吗？",
+          "url": "https://www.zhihu.com/question/2036409841296619170",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时05分 ~ 19时06分]"
         },
         {
           "title": "为什么现在的文字都是横排的，而不像古代一样竖着写？",
