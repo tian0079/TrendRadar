@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T05:38:17.555695+08:00",
-  "total_titles_processed": 545,
+  "generated_at": "2026-08-11T06:34:10.848240+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "旅游发朋友圈为什么要带定位",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 06时34分]"
         },
         {
           "title": "多地高分生扎堆填报「3+4」中本贯通，为什么会这样？中本贯通有哪些优势？",
@@ -28,11 +28,12 @@
             8,
             14,
             13,
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 06时34分]"
         },
         {
           "title": "韩信为什么连让他钻裤裆的恶霸都委以重任，但是却拿百钱羞辱让他吃大半年白饭的亭长呢？",
@@ -44,8 +45,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 06时34分]"
         },
         {
           "title": "弗洛伊德的理论那么扯淡为什么他又那么出名？",
@@ -68,6 +69,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时49分 ~ 01时50分]"
+        },
+        {
+          "title": "同济大学取消教师长期聘任，科研教职岗位面临更大的压力，为什么行政工作相对更简单反而没有这种不稳定性？",
+          "url": "https://www.zhihu.com/question/2067683991218607726",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时33分 ~ 06时34分]"
         }
       ]
     }
