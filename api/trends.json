@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T02:58:06.720568+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-08-12T04:01:33.682830+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "为什么沈腾作为中国影史票房第一人，却金鸡、百花、华表一个奖都没拿？",
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 04时01分]"
         },
         {
           "title": "演员贾冰参加朋友饭局被偷拍，网传视频中有爆粗口、抽烟喝酒等行为，是真的吗？为什么反而被网友力挺？",
@@ -28,8 +29,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 04时01分]"
         },
         {
           "title": "为什么武侠游戏招式名爱用 「 降龙十八掌 」 式的华丽辞藻, 而西方中世纪骑士游戏招式却朴素得像说明书?",
@@ -41,6 +42,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "《欢迎来龙餐馆》老扎为什么没有偷偷放走徐福？",
+          "url": "https://www.zhihu.com/question/2070475496945448034",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时01分"
         }
       ]
     }
