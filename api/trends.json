@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T15:00:43.674291+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2026-08-11T16:13:29.024754+08:00",
+  "total_titles_processed": 1327,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时53分 ~ 09时20分]"
+        },
+        {
+          "title": "为什么电视里假扮夫妻的卧底往往会成了真夫妻？",
+          "url": "https://www.zhihu.com/question/653625916",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时40分 ~ 16时13分]"
         },
         {
           "title": "多地高分生扎堆填报「3+4」中本贯通，为什么会这样？中本贯通有哪些优势？",
@@ -53,17 +64,6 @@
           "time_info": "[00时53分 ~ 07时31分]"
         },
         {
-          "title": "为什么电视里假扮夫妻的卧底往往会成了真夫妻？",
-          "url": "https://www.zhihu.com/question/653625916",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时40分 ~ 15时00分]"
-        },
-        {
           "title": "为什么那么多年轻人得了尿毒症？",
           "url": "https://www.zhihu.com/question/2025229966229485529",
           "source": "知乎",
@@ -84,8 +84,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时40分 ~ 15时00分]"
+          "appearance_count": 6,
+          "time_info": "[11时40分 ~ 16时13分]"
         },
         {
           "title": "弗洛伊德的理论那么扯淡为什么他又那么出名？",
