@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T09:20:08.807984+08:00",
-  "total_titles_processed": 793,
+  "generated_at": "2026-08-11T11:41:10.658420+08:00",
+  "total_titles_processed": 962,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "旅游发朋友圈为什么要带定位",
@@ -53,15 +53,27 @@
           "time_info": "[00时53分 ~ 07时31分]"
         },
         {
+          "title": "为什么电视里假扮夫妻的卧底往往会成了真夫妻？",
+          "url": "https://www.zhihu.com/question/653625916",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 11时41分]"
+        },
+        {
           "title": "为什么那么多年轻人得了尿毒症？",
           "url": "https://www.zhihu.com/question/2025229966229485529",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时19分 ~ 09时20分]"
+          "appearance_count": 4,
+          "time_info": "[09时19分 ~ 11时41分]"
         },
         {
           "title": "弗洛伊德的理论那么扯淡为什么他又那么出名？",
@@ -107,6 +119,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时49分 ~ 01时50分]"
+        },
+        {
+          "title": "为什么走西口保留了很大一部分晋语，而闯关东却没有保留太多山东话？",
+          "url": "https://www.zhihu.com/question/642621568",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 11时41分]"
         }
       ]
     }
