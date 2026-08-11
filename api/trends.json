@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T19:41:39.819593+08:00",
-  "total_titles_processed": 1586,
+  "generated_at": "2026-08-11T20:55:23.650341+08:00",
+  "total_titles_processed": 1692,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "旅游发朋友圈为什么要带定位",
@@ -93,11 +93,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时59分 ~ 19时41分]"
+          "appearance_count": 5,
+          "time_info": "[14时59分 ~ 20时55分]"
         },
         {
           "title": "弗洛伊德的理论那么扯淡为什么他又那么出名？",
@@ -154,6 +155,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时59分 ~ 15时00分]"
+        },
+        {
+          "title": "为什么沈腾作为中国影史票房第一人，却金鸡、百花、华表一个奖都没拿？",
+          "url": "https://www.zhihu.com/question/2070076711593406558",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         }
       ]
     }
