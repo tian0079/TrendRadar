@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T18:49:44.147920+08:00",
-  "total_titles_processed": 1491,
+  "generated_at": "2026-08-11T19:41:39.819593+08:00",
+  "total_titles_processed": 1586,
   "failed_sources": [],
   "trends": [
     {
@@ -88,6 +88,18 @@
           "time_info": "[11时40分 ~ 16时13分]"
         },
         {
+          "title": "为什么武侠游戏招式名爱用 「 降龙十八掌 」 式的华丽辞藻, 而西方中世纪骑士游戏招式却朴素得像说明书?",
+          "url": "https://www.zhihu.com/question/2070098614244864702",
+          "source": "知乎",
+          "ranks": [
+            17,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时59分 ~ 19时41分]"
+        },
+        {
           "title": "弗洛伊德的理论那么扯淡为什么他又那么出名？",
           "url": "https://www.zhihu.com/question/268161638",
           "source": "知乎",
@@ -97,18 +109,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时53分 ~ 01时50分]"
-        },
-        {
-          "title": "为什么武侠游戏招式名爱用 「 降龙十八掌 」 式的华丽辞藻, 而西方中世纪骑士游戏招式却朴素得像说明书?",
-          "url": "https://www.zhihu.com/question/2070098614244864702",
-          "source": "知乎",
-          "ranks": [
-            17,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时59分 ~ 18时49分]"
         },
         {
           "title": "同济大学取消教师长期聘任，科研教职岗位面临更大的压力，为什么行政工作相对更简单反而没有这种不稳定性？",
