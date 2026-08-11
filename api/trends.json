@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T11:41:10.658420+08:00",
-  "total_titles_processed": 962,
+  "generated_at": "2026-08-11T13:03:58.586348+08:00",
+  "total_titles_processed": 1059,
   "failed_sources": [],
   "trends": [
     {
@@ -60,8 +60,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 11时41分]"
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 13时03分]"
         },
         {
           "title": "为什么那么多年轻人得了尿毒症？",
@@ -69,11 +69,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时19分 ~ 11时41分]"
+          "appearance_count": 5,
+          "time_info": "[09时19分 ~ 13时03分]"
         },
         {
           "title": "弗洛伊德的理论那么扯淡为什么他又那么出名？",
@@ -99,6 +100,17 @@
           "time_info": "[06时33分 ~ 07时31分]"
         },
         {
+          "title": "为什么走西口保留了很大一部分晋语，而闯关东却没有保留太多山东话？",
+          "url": "https://www.zhihu.com/question/642621568",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 13时03分]"
+        },
+        {
           "title": "为什么立秋以后天气一下子就凉快起来了，这里有什么说法吗？",
           "url": "https://www.zhihu.com/question/2069355924951667964",
           "source": "知乎",
@@ -119,17 +131,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时49分 ~ 01时50分]"
-        },
-        {
-          "title": "为什么走西口保留了很大一部分晋语，而闯关东却没有保留太多山东话？",
-          "url": "https://www.zhihu.com/question/642621568",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 11时41分]"
         }
       ]
     }
