@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T04:01:33.682830+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-08-12T04:57:57.824966+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时57分]"
         },
         {
           "title": "演员贾冰参加朋友饭局被偷拍，网传视频中有爆粗口、抽烟喝酒等行为，是真的吗？为什么反而被网友力挺？",
@@ -26,11 +26,23 @@
           "source": "知乎",
           "ranks": [
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时57分]"
+        },
+        {
+          "title": "《欢迎来龙餐馆》老扎为什么没有偷偷放走徐福？",
+          "url": "https://www.zhihu.com/question/2070475496945448034",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 04时57分]"
         },
         {
           "title": "为什么武侠游戏招式名爱用 「 降龙十八掌 」 式的华丽辞藻, 而西方中世纪骑士游戏招式却朴素得像说明书?",
@@ -42,17 +54,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
-        },
-        {
-          "title": "《欢迎来龙餐馆》老扎为什么没有偷偷放走徐福？",
-          "url": "https://www.zhihu.com/question/2070475496945448034",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时01分"
         }
       ]
     }
