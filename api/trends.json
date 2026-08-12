@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T02:58:01.592006+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2026-08-13T04:01:33.321893+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 04时01分]"
         },
         {
           "title": "为什么《蜘蛛侠》能拍「交不起房租」，国产大片却总在拍「光鲜亮丽的拯救世界」？",
@@ -25,11 +25,25 @@
           "source": "知乎",
           "ranks": [
             17,
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 04时01分]"
+        },
+        {
+          "title": "雪王出海为什么水土不服",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9B%AA%E7%8E%8B%E5%87%BA%E6%B5%B7%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B0%B4%E5%9C%9F%E4%B8%8D%E6%9C%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 04时01分]"
         },
         {
           "title": "为什么有的人天生「精力旺盛」，有的人天生「低精力」？",
@@ -40,8 +54,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 04时01分]"
         },
         {
           "title": "为什么液体可以完全浮在水上面，固体则必须被淹没一部分？",
@@ -51,20 +65,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 02时58分]"
-        },
-        {
-          "title": "雪王出海为什么水土不服",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9B%AA%E7%8E%8B%E5%87%BA%E6%B5%B7%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B0%B4%E5%9C%9F%E4%B8%8D%E6%9C%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 04时01分]"
         },
         {
           "title": "为什么《哪吒之魔童闹海》获百花奖最佳影片无人站起，《惊蛰无声》获优秀影片，现场全体起立？",
