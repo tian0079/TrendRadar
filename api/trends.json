@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T09:28:13.475112+08:00",
-  "total_titles_processed": 791,
+  "generated_at": "2026-08-12T12:04:29.995166+08:00",
+  "total_titles_processed": 965,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "为什么沈腾作为中国影史票房第一人，却金鸡、百花、华表一个奖都没拿？",
@@ -37,6 +37,29 @@
           "time_info": "[00时57分 ~ 09时28分]"
         },
         {
+          "title": "陈俊生离婚后为什么对平儿不好",
+          "url": "https://s.weibo.com/weibo?q=%E9%99%88%E4%BF%8A%E7%94%9F%E7%A6%BB%E5%A9%9A%E5%90%8E%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AF%B9%E5%B9%B3%E5%84%BF%E4%B8%8D%E5%A5%BD&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时04分"
+        },
+        {
+          "title": "为什么国内大学都不愿意改善学生的住宿条件，比如四人间升级为双人间甚至单人间？",
+          "url": "https://www.zhihu.com/question/2036433829762691742",
+          "source": "知乎",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 12时04分]"
+        },
+        {
           "title": "《欢迎来龙餐馆》老扎为什么没有偷偷放走徐福？",
           "url": "https://www.zhihu.com/question/2070475496945448034",
           "source": "知乎",
@@ -46,17 +69,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时01分 ~ 05时44分]"
-        },
-        {
-          "title": "为什么国内大学都不愿意改善学生的住宿条件，比如四人间升级为双人间甚至单人间？",
-          "url": "https://www.zhihu.com/question/2036433829762691742",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时27分 ~ 09时28分]"
         },
         {
           "title": "我国为什么要反制 RBA 守护产业链自主权？",
@@ -79,6 +91,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "普通人就算有钱，为什么慎重购买别墅？",
+          "url": "https://www.zhihu.com/question/2059460521213146058",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时04分"
         }
       ]
     }
