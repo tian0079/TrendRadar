@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T07:36:46.115152+08:00",
-  "total_titles_processed": 634,
+  "generated_at": "2026-08-12T09:28:13.475112+08:00",
+  "total_titles_processed": 791,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "为什么沈腾作为中国影史票房第一人，却金鸡、百花、华表一个奖都没拿？",
@@ -33,8 +33,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时36分]"
+          "appearance_count": 12,
+          "time_info": "[00时57分 ~ 09时28分]"
         },
         {
           "title": "《欢迎来龙餐馆》老扎为什么没有偷偷放走徐福？",
@@ -46,6 +46,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时01分 ~ 05时44分]"
+        },
+        {
+          "title": "为什么国内大学都不愿意改善学生的住宿条件，比如四人间升级为双人间甚至单人间？",
+          "url": "https://www.zhihu.com/question/2036433829762691742",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 09时28分]"
         },
         {
           "title": "我国为什么要反制 RBA 守护产业链自主权？",
