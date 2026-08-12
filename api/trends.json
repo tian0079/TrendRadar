@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T06:36:59.777807+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2026-08-13T07:37:28.514457+08:00",
+  "total_titles_processed": 564,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "女子开一天一夜空调后确诊呼吸性碱中毒，是空调导致的吗？为什么会被误传为「二氧化碳中毒」，二者有何区别？",
@@ -14,11 +14,12 @@
           "ranks": [
             14,
             10,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 06时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 07时37分]"
         },
         {
           "title": "为什么有的人天生「精力旺盛」，有的人天生「低精力」？",
@@ -30,8 +31,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 06时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 07时37分]"
         },
         {
           "title": "为什么《蜘蛛侠》能拍「交不起房租」，国产大片却总在拍「光鲜亮丽的拯救世界」？",
@@ -44,8 +45,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 06时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 07时37分]"
         },
         {
           "title": "雪王出海为什么水土不服",
@@ -58,8 +59,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 06时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 07时37分]"
         },
         {
           "title": "为什么液体可以完全浮在水上面，固体则必须被淹没一部分？",
@@ -80,8 +81,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 06时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 07时37分]"
+        },
+        {
+          "title": "为什么沈腾作为中国影史票房第一人，却金鸡、百花、华表一个奖都没拿？",
+          "url": "https://www.zhihu.com/question/2070076711593406558",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
         }
       ]
     }
