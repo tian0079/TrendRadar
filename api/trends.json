@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T04:01:33.321893+08:00",
-  "total_titles_processed": 433,
+  "generated_at": "2026-08-13T06:36:59.777807+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,25 @@
           "source": "知乎",
           "ranks": [
             14,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 06时36分]"
+        },
+        {
+          "title": "为什么有的人天生「精力旺盛」，有的人天生「低精力」？",
+          "url": "https://www.zhihu.com/question/2069144593418003411",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17,
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 06时36分]"
         },
         {
           "title": "为什么《蜘蛛侠》能拍「交不起房租」，国产大片却总在拍「光鲜亮丽的拯救世界」？",
@@ -26,11 +40,12 @@
           "ranks": [
             17,
             14,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 06时36分]"
         },
         {
           "title": "雪王出海为什么水土不服",
@@ -39,23 +54,12 @@
           "ranks": [
             20,
             19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 04时01分]"
-        },
-        {
-          "title": "为什么有的人天生「精力旺盛」，有的人天生「低精力」？",
-          "url": "https://www.zhihu.com/question/2069144593418003411",
-          "source": "知乎",
-          "ranks": [
-            20,
+            16,
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 06时36分]"
         },
         {
           "title": "为什么液体可以完全浮在水上面，固体则必须被淹没一部分？",
@@ -76,8 +80,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 06时36分]"
         }
       ]
     }
