@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T00:55:29.639688+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-13T02:58:01.592006+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
@@ -8,37 +8,40 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "为什么《哪吒之魔童闹海》获百花奖最佳影片无人站起，《惊蛰无声》获优秀影片，现场全体起立？",
-          "url": "https://www.zhihu.com/question/2070482846033121781",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
           "title": "女子开一天一夜空调后确诊呼吸性碱中毒，是空调导致的吗？为什么会被误传为「二氧化碳中毒」，二者有何区别？",
           "url": "https://www.zhihu.com/question/2068973888067964954",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时58分]"
         },
         {
           "title": "为什么《蜘蛛侠》能拍「交不起房租」，国产大片却总在拍「光鲜亮丽的拯救世界」？",
           "url": "https://www.zhihu.com/question/2068356359494559541",
           "source": "知乎",
           "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时58分]"
+        },
+        {
+          "title": "为什么有的人天生「精力旺盛」，有的人天生「低精力」？",
+          "url": "https://www.zhihu.com/question/2069144593418003411",
+          "source": "知乎",
+          "ranks": [
+            20,
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时58分]"
         },
         {
           "title": "为什么液体可以完全浮在水上面，固体则必须被淹没一部分？",
@@ -48,26 +51,27 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时58分]"
         },
         {
           "title": "雪王出海为什么水土不服",
           "url": "https://search.bilibili.com/all?keyword=%E9%9B%AA%E7%8E%8B%E5%87%BA%E6%B5%B7%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B0%B4%E5%9C%9F%E4%B8%8D%E6%9C%8D",
           "source": "bilibili 热搜",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时58分]"
         },
         {
-          "title": "为什么有的人天生「精力旺盛」，有的人天生「低精力」？",
-          "url": "https://www.zhihu.com/question/2069144593418003411",
+          "title": "为什么《哪吒之魔童闹海》获百花奖最佳影片无人站起，《惊蛰无声》获优秀影片，现场全体起立？",
+          "url": "https://www.zhihu.com/question/2070482846033121781",
           "source": "知乎",
           "ranks": [
-            20
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
