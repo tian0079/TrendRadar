@@ -1,237 +1,77 @@
 {
-  "generated_at": "2026-08-12T23:56:36.564645+08:00",
-  "total_titles_processed": 1619,
+  "generated_at": "2026-08-13T00:55:29.639688+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 19,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "为什么沈腾作为中国影史票房第一人，却金鸡、百花、华表一个奖都没拿？",
-          "url": "https://www.zhihu.com/question/2070076711593406558",
-          "source": "知乎",
-          "ranks": [
-            3,
-            8,
-            6,
-            9,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时36分]"
-        },
-        {
-          "title": "演员贾冰参加朋友饭局被偷拍，网传视频中有爆粗口、抽烟喝酒等行为，是真的吗？为什么反而被网友力挺？",
-          "url": "https://www.zhihu.com/question/2070108326516318471",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时57分 ~ 09时28分]"
-        },
-        {
-          "title": "为什么国内大学都不愿意改善学生的住宿条件，比如四人间升级为双人间甚至单人间？",
-          "url": "https://www.zhihu.com/question/2036433829762691742",
-          "source": "知乎",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时27分 ~ 20时59分]"
-        },
-        {
-          "title": "陈俊生离婚后为什么对平儿不好",
-          "url": "https://s.weibo.com/weibo?q=%E9%99%88%E4%BF%8A%E7%94%9F%E7%A6%BB%E5%A9%9A%E5%90%8E%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AF%B9%E5%B9%B3%E5%84%BF%E4%B8%8D%E5%A5%BD&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时04分 ~ 14时11分]"
-        },
-        {
-          "title": "高价洞洞鞋为什么卖不动了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%BB%B7%E6%B4%9E%E6%B4%9E%E9%9E%8B%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时11分"
-        },
         {
           "title": "为什么《哪吒之魔童闹海》获百花奖最佳影片无人站起，《惊蛰无声》获优秀影片，现场全体起立？",
           "url": "https://www.zhihu.com/question/2070482846033121781",
           "source": "知乎",
           "ranks": [
-            1,
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时11分 ~ 23时56分]"
-        },
-        {
-          "title": "《欢迎来龙餐馆》老扎为什么没有偷偷放走徐福？",
-          "url": "https://www.zhihu.com/question/2070475496945448034",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时01分 ~ 05时44分]"
-        },
-        {
-          "title": "雪王出海为什么水土不服",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9B%AA%E7%8E%8B%E5%87%BA%E6%B5%B7%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B0%B4%E5%9C%9F%E4%B8%8D%E6%9C%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            22,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时02分 ~ 23时56分]"
-        },
-        {
-          "title": "普通人就算有钱，为什么慎重购买别墅？",
-          "url": "https://www.zhihu.com/question/2059460521213146058",
-          "source": "知乎",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时04分 ~ 14时11分]"
+          "appearance_count": 1,
+          "time_info": "00时55分"
         },
         {
           "title": "女子开一天一夜空调后确诊呼吸性碱中毒，是空调导致的吗？为什么会被误传为「二氧化碳中毒」，二者有何区别？",
           "url": "https://www.zhihu.com/question/2068973888067964954",
           "source": "知乎",
           "ranks": [
-            17,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时59分 ~ 23时56分]"
-        },
-        {
-          "title": "武侠世界的朝廷第一高手，为什么总是深宫里的公公，而不是统兵大将或御前侍卫?",
-          "url": "https://www.zhihu.com/question/2070449010746320771",
-          "source": "知乎",
-          "ranks": [
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 20时59分]"
-        },
-        {
-          "title": "为什么液体可以完全浮在水上面，固体则必须被淹没一部分？",
-          "url": "https://www.zhihu.com/question/11742854315",
-          "source": "知乎",
-          "ranks": [
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时59分 ~ 23时56分]"
-        },
-        {
-          "title": "我国为什么要反制 RBA 守护产业链自主权？",
-          "url": "https://www.zhihu.com/question/2070447830829724154",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 05时44分]"
-        },
-        {
-          "title": "星球的公转和自转速度那么快，为什么没有被摇匀？",
-          "url": "https://www.zhihu.com/question/1984892437014009024",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 20时59分]"
-        },
-        {
-          "title": "为什么武侠游戏招式名爱用 「 降龙十八掌 」 式的华丽辞藻, 而西方中世纪骑士游戏招式却朴素得像说明书?",
-          "url": "https://www.zhihu.com/question/2070098614244864702",
-          "source": "知乎",
-          "ranks": [
-            9
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "宇树科技科创板 IPO 中签率 0.0181%，对比长鑫科技 0.4714%，差距为什么这么大？",
-          "url": "https://www.zhihu.com/question/2070230480356634919",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时59分"
-        },
-        {
-          "title": "为什么一些东北的朋友经常称「手机」为「电话」？",
-          "url": "https://www.zhihu.com/question/2050334625361294869",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时02分"
+          "time_info": "00时55分"
         },
         {
           "title": "为什么《蜘蛛侠》能拍「交不起房租」，国产大片却总在拍「光鲜亮丽的拯救世界」？",
           "url": "https://www.zhihu.com/question/2068356359494559541",
           "source": "知乎",
           "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时56分"
-        },
-        {
-          "title": "于东来为什么关店",
-          "url": "https://www.toutiao.com/trending/7672930424720461358/",
-          "source": "今日头条",
-          "ranks": [
-            24
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时02分"
+          "time_info": "00时55分"
+        },
+        {
+          "title": "为什么液体可以完全浮在水上面，固体则必须被淹没一部分？",
+          "url": "https://www.zhihu.com/question/11742854315",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "雪王出海为什么水土不服",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9B%AA%E7%8E%8B%E5%87%BA%E6%B5%B7%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B0%B4%E5%9C%9F%E4%B8%8D%E6%9C%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "为什么有的人天生「精力旺盛」，有的人天生「低精力」？",
+          "url": "https://www.zhihu.com/question/2069144593418003411",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
         }
       ]
     }
