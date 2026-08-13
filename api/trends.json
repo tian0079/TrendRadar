@@ -1,114 +1,22 @@
 {
-  "generated_at": "2026-08-13T22:26:05.784981+08:00",
-  "total_titles_processed": 1402,
+  "generated_at": "2026-08-14T00:53:43.631822+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 18,
+      "match_count": 5,
       "titles": [
         {
-          "title": "雪王出海为什么水土不服",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9B%AA%E7%8E%8B%E5%87%BA%E6%B5%B7%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B0%B4%E5%9C%9F%E4%B8%8D%E6%9C%8D",
-          "source": "bilibili 热搜",
+          "title": "为什么胖东来关店比开店还可怕",
+          "url": "https://www.toutiao.com/trending/7673515574487748150/",
+          "source": "今日头条",
           "ranks": [
-            20,
-            19,
-            16,
-            17,
-            27
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 12时08分]"
-        },
-        {
-          "title": "为什么过去都说鱼翅和鲍鱼是顶级菜肴，而现在却很少人提了？",
-          "url": "https://www.zhihu.com/question/2069876191474012892",
-          "source": "知乎",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时05分 ~ 22时26分]"
-        },
-        {
-          "title": "为什么《蜘蛛侠》能拍「交不起房租」，国产大片却总在拍「光鲜亮丽的拯救世界」？",
-          "url": "https://www.zhihu.com/question/2068356359494559541",
-          "source": "知乎",
-          "ranks": [
-            17,
-            14,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 09时30分]"
-        },
-        {
-          "title": "网友爆料科技圈电商圈的大厂拒收阿里系中高层，是真的吗？反映了什么问题？他们为什么被称为互联网藤壶？",
-          "url": "https://www.zhihu.com/question/2070900468931191892",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 12时08分]"
-        },
-        {
-          "title": "一些泳池高手到了海里，为什么突然不会游了？",
-          "url": "https://www.zhihu.com/question/2065390266501052133",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 12时08分]"
-        },
-        {
-          "title": "女子开一天一夜空调后确诊呼吸性碱中毒，是空调导致的吗？为什么会被误传为「二氧化碳中毒」，二者有何区别？",
-          "url": "https://www.zhihu.com/question/2068973888067964954",
-          "source": "知乎",
-          "ranks": [
-            14,
-            10,
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 07时37分]"
-        },
-        {
-          "title": "为什么有的人天生「精力旺盛」，有的人天生「低精力」？",
-          "url": "https://www.zhihu.com/question/2069144593418003411",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 07时37分]"
-        },
-        {
-          "title": "为什么《哪吒之魔童闹海》获百花奖最佳影片无人站起，《惊蛰无声》获优秀影片，现场全体起立？",
-          "url": "https://www.zhihu.com/question/2070482846033121781",
-          "source": "知乎",
-          "ranks": [
-            12,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 12时08分]"
+          "appearance_count": 1,
+          "time_info": "00时53分"
         },
         {
           "title": "因长期在中东服役，多名水兵试图从美国海军「林肯」号跳海，为什么会这样？美国中东长期部署带来哪些问题？",
@@ -118,112 +26,41 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时05分 ~ 22时26分]"
+          "appearance_count": 1,
+          "time_info": "00时53分"
         },
         {
           "title": "为什么蚊子没有进化成像猫猫那样特别可爱的样子，让人不忍心拍死？",
           "url": "https://www.zhihu.com/question/2059374956157329909",
           "source": "知乎",
           "ranks": [
-            10,
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时05分 ~ 22时26分]"
+          "appearance_count": 1,
+          "time_info": "00时53分"
         },
         {
-          "title": "山西一医院实习护士晒患者隐私照，院方称将严肃处理，具体怎么回事？为什么这类事时有发生，问题出在哪？",
-          "url": "https://www.zhihu.com/question/2070271590869070734",
+          "title": "为什么过去都说鱼翅和鲍鱼是顶级菜肴，而现在却很少人提了？",
+          "url": "https://www.zhihu.com/question/2069876191474012892",
           "source": "知乎",
           "ranks": [
-            8,
-            7
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时30分 ~ 19时05分]"
-        },
-        {
-          "title": "为什么液体可以完全浮在水上面，固体则必须被淹没一部分？",
-          "url": "https://www.zhihu.com/question/11742854315",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 04时01分]"
+          "appearance_count": 1,
+          "time_info": "00时53分"
         },
         {
           "title": "为什么娱乐圈这么多人得强直性脊柱炎",
           "url": "https://www.toutiao.com/trending/7673404486446006326/",
           "source": "今日头条",
           "ranks": [
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时00分 ~ 22时26分]"
-        },
-        {
-          "title": "中国种植的土地那么大，为什么感觉东北大米比较出名又好吃？",
-          "url": "https://www.zhihu.com/question/659432723",
-          "source": "知乎",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时30分 ~ 12时08分]"
-        },
-        {
-          "title": "于东来为什么敢对涨租说不",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%8E%E4%B8%9C%E6%9D%A5%E4%B8%BA%E4%BB%80%E4%B9%88%E6%95%A2%E5%AF%B9%E6%B6%A8%E7%A7%9F%E8%AF%B4%E4%B8%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时05分 ~ 21时01分]"
-        },
-        {
-          "title": "弗洛伊德的理论那么扯淡为什么他又那么出名？",
-          "url": "https://www.zhihu.com/question/268161638",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 12时08分]"
-        },
-        {
-          "title": "星球的公转和自转速度那么快，为什么没有被摇匀？",
-          "url": "https://www.zhihu.com/question/1984892437014009024",
-          "source": "知乎",
-          "ranks": [
-            10
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时30分"
-        },
-        {
-          "title": "为什么沈腾作为中国影史票房第一人，却金鸡、百花、华表一个奖都没拿？",
-          "url": "https://www.zhihu.com/question/2070076711593406558",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
+          "time_info": "00时53分"
         }
       ]
     }
