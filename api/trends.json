@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T21:01:26.587030+08:00",
-  "total_titles_processed": 1282,
+  "generated_at": "2026-08-13T22:26:05.784981+08:00",
+  "total_titles_processed": 1402,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "url": "https://www.zhihu.com/question/2069876191474012892",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时05分 ~ 21时01分]"
+          "appearance_count": 5,
+          "time_info": "[19时05分 ~ 22时26分]"
         },
         {
           "title": "为什么《蜘蛛侠》能拍「交不起房租」，国产大片却总在拍「光鲜亮丽的拯救世界」？",
@@ -110,6 +111,29 @@
           "time_info": "[00时55分 ~ 12时08分]"
         },
         {
+          "title": "因长期在中东服役，多名水兵试图从美国海军「林肯」号跳海，为什么会这样？美国中东长期部署带来哪些问题？",
+          "url": "https://www.zhihu.com/question/2071169289697092854",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时05分 ~ 22时26分]"
+        },
+        {
+          "title": "为什么蚊子没有进化成像猫猫那样特别可爱的样子，让人不忍心拍死？",
+          "url": "https://www.zhihu.com/question/2059374956157329909",
+          "source": "知乎",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时05分 ~ 22时26分]"
+        },
+        {
           "title": "山西一医院实习护士晒患者隐私照，院方称将严肃处理，具体怎么回事？为什么这类事时有发生，问题出在哪？",
           "url": "https://www.zhihu.com/question/2070271590869070734",
           "source": "知乎",
@@ -133,6 +157,18 @@
           "time_info": "[00时55分 ~ 04时01分]"
         },
         {
+          "title": "为什么娱乐圈这么多人得强直性脊柱炎",
+          "url": "https://www.toutiao.com/trending/7673404486446006326/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时00分 ~ 22时26分]"
+        },
+        {
           "title": "中国种植的土地那么大，为什么感觉东北大米比较出名又好吃？",
           "url": "https://www.zhihu.com/question/659432723",
           "source": "知乎",
@@ -143,29 +179,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时30分 ~ 12时08分]"
-        },
-        {
-          "title": "因长期在中东服役，多名水兵试图从美国海军「林肯」号跳海，为什么会这样？美国中东长期部署带来哪些问题？",
-          "url": "https://www.zhihu.com/question/2071169289697092854",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时05分 ~ 21时01分]"
-        },
-        {
-          "title": "为什么蚊子没有进化成像猫猫那样特别可爱的样子，让人不忍心拍死？",
-          "url": "https://www.zhihu.com/question/2059374956157329909",
-          "source": "知乎",
-          "ranks": [
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时05分 ~ 21时01分]"
         },
         {
           "title": "于东来为什么敢对涨租说不",
@@ -189,17 +202,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时07分 ~ 12时08分]"
-        },
-        {
-          "title": "为什么娱乐圈这么多人得强直性脊柱炎",
-          "url": "https://www.toutiao.com/trending/7673404486446006326/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时00分 ~ 21时01分]"
         },
         {
           "title": "星球的公转和自转速度那么快，为什么没有被摇匀？",
