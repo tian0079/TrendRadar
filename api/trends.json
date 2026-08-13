@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T12:08:08.366884+08:00",
-  "total_titles_processed": 882,
+  "generated_at": "2026-08-13T19:05:57.417179+08:00",
+  "total_titles_processed": 1124,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "雪王出海为什么水土不服",
@@ -99,6 +99,29 @@
           "time_info": "[00时55分 ~ 12时08分]"
         },
         {
+          "title": "为什么过去都说鱼翅和鲍鱼是顶级菜肴，而现在却很少人提了？",
+          "url": "https://www.zhihu.com/question/2069876191474012892",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "山西一医院实习护士晒患者隐私照，院方称将严肃处理，具体怎么回事？为什么这类事时有发生，问题出在哪？",
+          "url": "https://www.zhihu.com/question/2070271590869070734",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时30分 ~ 19时05分]"
+        },
+        {
           "title": "为什么液体可以完全浮在水上面，固体则必须被淹没一部分？",
           "url": "https://www.zhihu.com/question/11742854315",
           "source": "知乎",
@@ -122,17 +145,6 @@
           "time_info": "[09时30分 ~ 12时08分]"
         },
         {
-          "title": "山西一医院实习护士晒患者隐私照，院方称将严肃处理，具体怎么回事？为什么这类事时有发生，问题出在哪？",
-          "url": "https://www.zhihu.com/question/2070271590869070734",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时30分 ~ 12时08分]"
-        },
-        {
           "title": "弗洛伊德的理论那么扯淡为什么他又那么出名？",
           "url": "https://www.zhihu.com/question/268161638",
           "source": "知乎",
@@ -144,6 +156,17 @@
           "time_info": "[12时07分 ~ 12时08分]"
         },
         {
+          "title": "因长期在中东服役，多名水兵试图从美国海军「林肯」号跳海，为什么会这样？美国中东长期部署带来哪些问题？",
+          "url": "https://www.zhihu.com/question/2071169289697092854",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
           "title": "星球的公转和自转速度那么快，为什么没有被摇匀？",
           "url": "https://www.zhihu.com/question/1984892437014009024",
           "source": "知乎",
@@ -153,6 +176,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
+        },
+        {
+          "title": "为什么蚊子没有进化成像猫猫那样特别可爱的样子，让人不忍心拍死？",
+          "url": "https://www.zhihu.com/question/2059374956157329909",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "于东来为什么敢对涨租说不",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%8E%E4%B8%9C%E6%9D%A5%E4%B8%BA%E4%BB%80%E4%B9%88%E6%95%A2%E5%AF%B9%E6%B6%A8%E7%A7%9F%E8%AF%B4%E4%B8%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         },
         {
           "title": "为什么沈腾作为中国影史票房第一人，却金鸡、百花、华表一个奖都没拿？",
