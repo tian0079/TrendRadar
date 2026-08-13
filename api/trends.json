@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T00:53:43.631822+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-14T01:57:06.061276+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 01时57分]"
         },
         {
           "title": "因长期在中东服役，多名水兵试图从美国海军「林肯」号跳海，为什么会这样？美国中东长期部署带来哪些问题？",
           "url": "https://www.zhihu.com/question/2071169289697092854",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 01时57分]"
         },
         {
           "title": "为什么蚊子没有进化成像猫猫那样特别可爱的样子，让人不忍心拍死？",
@@ -37,30 +38,32 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 01时57分]"
         },
         {
           "title": "为什么过去都说鱼翅和鲍鱼是顶级菜肴，而现在却很少人提了？",
           "url": "https://www.zhihu.com/question/2069876191474012892",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 01时57分]"
         },
         {
           "title": "为什么娱乐圈这么多人得强直性脊柱炎",
           "url": "https://www.toutiao.com/trending/7673404486446006326/",
           "source": "今日头条",
           "ranks": [
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 01时57分]"
         }
       ]
     }
