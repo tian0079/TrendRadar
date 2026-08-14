@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T01:50:24.630389+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-08-15T04:24:22.965025+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,32 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
-        },
-        {
-          "title": "我们为什么要控制体重",
-          "url": "https://www.toutiao.com/trending/7672968815567962155/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
+          "appearance_count": 2,
+          "time_info": "[01时50分 ~ 04时24分]"
         },
         {
           "title": "为什么大家公认天坑专业是土木而不是化工？",
           "url": "https://www.zhihu.com/question/2066494113734828774",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
+          "appearance_count": 2,
+          "time_info": "[01时50分 ~ 04时24分]"
+        },
+        {
+          "title": "我们为什么要控制体重",
+          "url": "https://www.toutiao.com/trending/7672968815567962155/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时50分 ~ 04时24分]"
         }
       ]
     }
