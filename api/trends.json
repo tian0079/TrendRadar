@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-14T16:12:47.777975+08:00",
-  "total_titles_processed": 1175,
+  "generated_at": "2026-08-14T18:57:32.163173+08:00",
+  "total_titles_processed": 1360,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "小龙虾线下堂食遇冷，杭州一小龙虾店日销从五百斤跌到一百斤，小龙虾卖不动了吗？为什么会出现这一变化？",
+          "url": "https://www.zhihu.com/question/2070596968058041957",
+          "source": "知乎",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时09分 ~ 18时57分]"
+        },
         {
           "title": "为什么胖东来关店比开店还可怕",
           "url": "https://www.toutiao.com/trending/7673515574487748150/",
@@ -19,18 +31,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时53分 ~ 09时29分]"
-        },
-        {
-          "title": "小龙虾线下堂食遇冷，杭州一小龙虾店日销从五百斤跌到一百斤，小龙虾卖不动了吗？为什么会出现这一变化？",
-          "url": "https://www.zhihu.com/question/2070596968058041957",
-          "source": "知乎",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时09分 ~ 16时12分]"
         },
         {
           "title": "因长期在中东服役，多名水兵试图从美国海军「林肯」号跳海，为什么会这样？美国中东长期部署带来哪些问题？",
@@ -165,6 +165,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时57分 ~ 05时41分]"
+        },
+        {
+          "title": "为什么《英雄联盟》移除了杀人剑而保留了杀人书?",
+          "url": "https://www.zhihu.com/question/332744159",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         },
         {
           "title": "人民币为什么走出独立行情",
