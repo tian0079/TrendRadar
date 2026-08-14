@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T14:11:04.517218+08:00",
-  "total_titles_processed": 1020,
+  "generated_at": "2026-08-14T16:12:47.777975+08:00",
+  "total_titles_processed": 1175,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 14时11分]"
+          "appearance_count": 4,
+          "time_info": "[12时09分 ~ 16时12分]"
         },
         {
           "title": "因长期在中东服役，多名水兵试图从美国海军「林肯」号跳海，为什么会这样？美国中东长期部署带来哪些问题？",
@@ -119,6 +119,18 @@
           "time_info": "[00时53分 ~ 01时57分]"
         },
         {
+          "title": "为什么玄幻小说里人人争抢功法秘籍，而现实中大量能够改变人生的顶级知识免费公开，却很少有人认真学习？",
+          "url": "https://www.zhihu.com/question/2068044913405700076",
+          "source": "知乎",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时10分 ~ 16时12分]"
+        },
+        {
           "title": "为什么过去都说鱼翅和鲍鱼是顶级菜肴，而现在却很少人提了？",
           "url": "https://www.zhihu.com/question/2069876191474012892",
           "source": "知乎",
@@ -141,17 +153,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时29分 ~ 12时09分]"
-        },
-        {
-          "title": "为什么玄幻小说里人人争抢功法秘籍，而现实中大量能够改变人生的顶级知识免费公开，却很少有人认真学习？",
-          "url": "https://www.zhihu.com/question/2068044913405700076",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时10分 ~ 14时11分]"
         },
         {
           "title": "《欢迎来龙餐馆》电影里为什么要安排把赛夫一只眼睛炸坏的情节?",
