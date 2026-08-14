@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T09:29:56.455338+08:00",
-  "total_titles_processed": 700,
+  "generated_at": "2026-08-14T12:09:54.318089+08:00",
+  "total_titles_processed": 878,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "为什么胖东来关店比开店还可怕",
@@ -82,6 +82,54 @@
           "time_info": "[00时53分 ~ 01时57分]"
         },
         {
+          "title": "为什么DeepSeek越涨价越是价格屠夫",
+          "url": "https://www.toutiao.com/trending/7673637537293798953/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 12时09分]"
+        },
+        {
+          "title": "为什么认知高的人最终都会走向金融市场？",
+          "url": "https://www.zhihu.com/question/2047298291281422231",
+          "source": "知乎",
+          "ranks": [
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 12时09分]"
+        },
+        {
+          "title": "浙江省博物馆、湖南益阳博物馆被指宣传文字「错字连连」，为什么会出现这么简单的错误？反映出哪些问题？",
+          "url": "https://www.zhihu.com/question/2071182286909862855",
+          "source": "知乎",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 12时09分]"
+        },
+        {
+          "title": "为什么同样是比较夸张风格的演技，周星驰的就感觉很自然，不会有违和感？",
+          "url": "https://www.zhihu.com/question/270138130",
+          "source": "知乎",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 12时09分]"
+        },
+        {
           "title": "《欢迎来龙餐馆》电影里为什么要安排把赛夫一只眼睛炸坏的情节?",
           "url": "https://www.zhihu.com/question/2070195504701560422",
           "source": "知乎",
@@ -94,48 +142,26 @@
           "time_info": "[03时57分 ~ 05时41分]"
         },
         {
-          "title": "为什么DeepSeek越涨价越是价格屠夫",
-          "url": "https://www.toutiao.com/trending/7673637537293798953/",
+          "title": "小龙虾线下堂食遇冷，杭州一小龙虾店日销从五百斤跌到一百斤，小龙虾卖不动了吗？为什么会出现这一变化？",
+          "url": "https://www.zhihu.com/question/2070596968058041957",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "人民币为什么走出独立行情",
+          "url": "https://www.toutiao.com/trending/7672613591959765046/",
           "source": "今日头条",
           "ranks": [
-            6
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "浙江省博物馆、湖南益阳博物馆被指宣传文字「错字连连」，为什么会出现这么简单的错误？反映出哪些问题？",
-          "url": "https://www.zhihu.com/question/2071182286909862855",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "为什么认知高的人最终都会走向金融市场？",
-          "url": "https://www.zhihu.com/question/2047298291281422231",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "为什么同样是比较夸张风格的演技，周星驰的就感觉很自然，不会有违和感？",
-          "url": "https://www.zhihu.com/question/270138130",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时29分"
+          "time_info": "12时09分"
         }
       ]
     }
