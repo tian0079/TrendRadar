@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-08-15T04:24:22.965025+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-08-15T08:59:22.691656+08:00",
+  "total_titles_processed": 551,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "动画｜明明“白海豚”已经走了，为什么上海的雨还没停？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33781449",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 04时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时50分 ~ 08时59分]"
         },
         {
           "title": "为什么大家公认天坑专业是土木而不是化工？",
@@ -24,11 +25,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            17
+            17,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 04时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时50分 ~ 08时59分]"
         },
         {
           "title": "我们为什么要控制体重",
@@ -36,11 +38,34 @@
           "source": "今日头条",
           "ranks": [
             19,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 04时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时50分 ~ 08时59分]"
+        },
+        {
+          "title": "同样面对负面舆论，为什么《八仙！》的票房预计能达到 20 亿，而《雄狮少年》系列的票房加一起才 3 亿多？",
+          "url": "https://www.zhihu.com/question/2066512309485319903",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "盘点三角洲冷门武器",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9%E4%B8%89%E8%A7%92%E6%B4%B2%E5%86%B7%E9%97%A8%E6%AD%A6%E5%99%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         }
       ]
     }
