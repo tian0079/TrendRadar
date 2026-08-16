@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T16:24:32.209627+08:00",
-  "total_titles_processed": 846,
+  "generated_at": "2026-08-16T17:23:50.132046+08:00",
+  "total_titles_processed": 909,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "电视剧「蜗居」里的宋思明权力那么大，为什么没把海藻安排进体制内？",
@@ -44,8 +44,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 16时24分]"
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 17时23分]"
         },
         {
           "title": "为什么成绩好的学霸大多数都是早熟者？",
@@ -53,11 +53,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 16时24分]"
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 17时23分]"
         },
         {
           "title": "我们为什么总是容易相信谣言",
@@ -82,6 +83,17 @@
           "time_info": "[07时17分 ~ 09时02分]"
         },
         {
+          "title": "李宗盛为什么口碑变差了?",
+          "url": "https://www.zhihu.com/question/388993745",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 17时23分]"
+        },
+        {
           "title": "我们为什么总是容易相信谣言",
           "url": "https://www.douyin.com/hot/2610510",
           "source": "抖音",
@@ -94,15 +106,27 @@
           "time_info": "[07时17分 ~ 09时02分]"
         },
         {
-          "title": "李宗盛为什么口碑变差了?",
-          "url": "https://www.zhihu.com/question/388993745",
+          "title": "陕西为什么叫「陕西」，而不叫「天东」、「巴北」或「鄂南」呢？",
+          "url": "https://www.zhihu.com/question/1908464657242513982",
           "source": "知乎",
           "ranks": [
-            11
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 17时23分]"
+        },
+        {
+          "title": "同样是独栋，为什么北美的独栋都有完备的设施，但国内农村做不到？",
+          "url": "https://www.zhihu.com/question/2071306248780255535",
+          "source": "知乎",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时24分"
+          "time_info": "17时23分"
         },
         {
           "title": "为什么上海人对《奥德赛》情有独钟",
@@ -114,17 +138,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
-        },
-        {
-          "title": "陕西为什么叫「陕西」，而不叫「天东」、「巴北」或「鄂南」呢？",
-          "url": "https://www.zhihu.com/question/1908464657242513982",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时24分"
         }
       ]
     }
