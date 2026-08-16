@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T03:20:02.952870+08:00",
-  "total_titles_processed": 353,
+  "generated_at": "2026-08-17T04:18:15.718726+08:00",
+  "total_titles_processed": 378,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时22分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[02时22分 ~ 04时18分]"
         },
         {
           "title": "同样是独栋，为什么北美的独栋都有完备的设施，但国内农村做不到？",
@@ -24,22 +24,24 @@
           "source": "知乎",
           "ranks": [
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时22分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[02时22分 ~ 04时18分]"
         },
         {
           "title": "为什么越南和印度也开始发钱「催生」了？此举能有效解决人口问题带来的挑战吗？",
           "url": "https://www.zhihu.com/question/2070635312297121770",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时22分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[02时22分 ~ 04时18分]"
         },
         {
           "title": "《欢迎来龙餐馆》老扎为什么一直说菜咸了？有什么别的隐喻吗？",
@@ -47,11 +49,36 @@
           "source": "知乎",
           "ranks": [
             7,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时22分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[02时22分 ~ 04时18分]"
+        },
+        {
+          "title": "李宗盛为什么口碑变差了?",
+          "url": "https://www.zhihu.com/question/388993745",
+          "source": "知乎",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时22分 ~ 04时18分]"
+        },
+        {
+          "title": "为什么诺兰非要选《奥德赛》？这个故事和现代人有什么关系？",
+          "url": "https://www.zhihu.com/question/2070555651827131614",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时22分 ~ 04时18分]"
         },
         {
           "title": "为什么国内无法观看 IMAX 70mm 胶片版《奥德赛》？",
@@ -60,28 +87,6 @@
           "ranks": [
             10,
             16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时22分 ~ 03时20分]"
-        },
-        {
-          "title": "李宗盛为什么口碑变差了?",
-          "url": "https://www.zhihu.com/question/388993745",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时22分 ~ 03时20分]"
-        },
-        {
-          "title": "为什么诺兰非要选《奥德赛》？这个故事和现代人有什么关系？",
-          "url": "https://www.zhihu.com/question/2070555651827131614",
-          "source": "知乎",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 4,
