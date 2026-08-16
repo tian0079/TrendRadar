@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-16T10:56:59.486749+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2026-08-16T11:45:13.870136+08:00",
+  "total_titles_processed": 566,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
       "match_count": 6,
       "titles": [
+        {
+          "title": "历史正剧为什么越拍越少？",
+          "url": "https://www.zhihu.com/question/2063591493500134492",
+          "source": "知乎",
+          "ranks": [
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 11时45分]"
+        },
         {
           "title": "电视剧「蜗居」里的宋思明权力那么大，为什么没把海藻安排进体制内？",
           "url": "https://www.zhihu.com/question/2070543205620258082",
@@ -63,17 +75,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
-        },
-        {
-          "title": "历史正剧为什么越拍越少？",
-          "url": "https://www.zhihu.com/question/2063591493500134492",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
         }
       ]
     }
