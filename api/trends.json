@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-08-16T19:17:52.774959+08:00",
-  "total_titles_processed": 1024,
+  "generated_at": "2026-08-16T20:31:51.697151+08:00",
+  "total_titles_processed": 1100,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "为什么国内无法观看 IMAX 70mm 胶片版《奥德赛》？",
+          "url": "https://www.zhihu.com/question/2064434098815374163",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时33分 ~ 20时31分]"
+        },
         {
           "title": "电视剧「蜗居」里的宋思明权力那么大，为什么没把海藻安排进体制内？",
           "url": "https://www.zhihu.com/question/2070543205620258082",
@@ -23,17 +37,15 @@
           "time_info": "[07时17分 ~ 16时24分]"
         },
         {
-          "title": "为什么国内无法观看 IMAX 70mm 胶片版《奥德赛》？",
-          "url": "https://www.zhihu.com/question/2064434098815374163",
+          "title": "李宗盛为什么口碑变差了?",
+          "url": "https://www.zhihu.com/question/388993745",
           "source": "知乎",
           "ranks": [
-            8,
-            6,
-            5
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时33分 ~ 19时17分]"
+          "time_info": "[16时24分 ~ 20时31分]"
         },
         {
           "title": "历史正剧为什么越拍越少？",
@@ -49,6 +61,19 @@
           "time_info": "[10时56分 ~ 13时24分]"
         },
         {
+          "title": "同样是独栋，为什么北美的独栋都有完备的设施，但国内农村做不到？",
+          "url": "https://www.zhihu.com/question/2071306248780255535",
+          "source": "知乎",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时23分 ~ 20时31分]"
+        },
+        {
           "title": "为什么成绩好的学霸大多数都是早熟者？",
           "url": "https://www.zhihu.com/question/2058865477712196520",
           "source": "知乎",
@@ -60,29 +85,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时33分 ~ 17时23分]"
-        },
-        {
-          "title": "李宗盛为什么口碑变差了?",
-          "url": "https://www.zhihu.com/question/388993745",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时24分 ~ 19时17分]"
-        },
-        {
-          "title": "同样是独栋，为什么北美的独栋都有完备的设施，但国内农村做不到？",
-          "url": "https://www.zhihu.com/question/2071306248780255535",
-          "source": "知乎",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 19时17分]"
         },
         {
           "title": "我们为什么总是容易相信谣言",
@@ -140,6 +142,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "为什么中日韩三个国家长相非常类似语言却不属于同一个语系？",
+          "url": "https://www.zhihu.com/question/289965734",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "为什么越南和印度也开始发钱「催生」了？此举能有效解决人口问题带来的挑战吗？",
+          "url": "https://www.zhihu.com/question/2070635312297121770",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         }
       ]
     }
