@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T17:23:50.132046+08:00",
-  "total_titles_processed": 909,
+  "generated_at": "2026-08-16T19:17:52.774959+08:00",
+  "total_titles_processed": 1024,
   "failed_sources": [],
   "trends": [
     {
@@ -23,6 +23,19 @@
           "time_info": "[07时17分 ~ 16时24分]"
         },
         {
+          "title": "为什么国内无法观看 IMAX 70mm 胶片版《奥德赛》？",
+          "url": "https://www.zhihu.com/question/2064434098815374163",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时33分 ~ 19时17分]"
+        },
+        {
           "title": "历史正剧为什么越拍越少？",
           "url": "https://www.zhihu.com/question/2063591493500134492",
           "source": "知乎",
@@ -36,18 +49,6 @@
           "time_info": "[10时56分 ~ 13时24分]"
         },
         {
-          "title": "为什么国内无法观看 IMAX 70mm 胶片版《奥德赛》？",
-          "url": "https://www.zhihu.com/question/2064434098815374163",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时33分 ~ 17时23分]"
-        },
-        {
           "title": "为什么成绩好的学霸大多数都是早熟者？",
           "url": "https://www.zhihu.com/question/2058865477712196520",
           "source": "知乎",
@@ -59,6 +60,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时33分 ~ 17时23分]"
+        },
+        {
+          "title": "李宗盛为什么口碑变差了?",
+          "url": "https://www.zhihu.com/question/388993745",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时24分 ~ 19时17分]"
+        },
+        {
+          "title": "同样是独栋，为什么北美的独栋都有完备的设施，但国内农村做不到？",
+          "url": "https://www.zhihu.com/question/2071306248780255535",
+          "source": "知乎",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 19时17分]"
         },
         {
           "title": "我们为什么总是容易相信谣言",
@@ -83,17 +107,6 @@
           "time_info": "[07时17分 ~ 09时02分]"
         },
         {
-          "title": "李宗盛为什么口碑变差了?",
-          "url": "https://www.zhihu.com/question/388993745",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时24分 ~ 17时23分]"
-        },
-        {
           "title": "我们为什么总是容易相信谣言",
           "url": "https://www.douyin.com/hot/2610510",
           "source": "抖音",
@@ -116,17 +129,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时24分 ~ 17时23分]"
-        },
-        {
-          "title": "同样是独栋，为什么北美的独栋都有完备的设施，但国内农村做不到？",
-          "url": "https://www.zhihu.com/question/2071306248780255535",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时23分"
         },
         {
           "title": "为什么上海人对《奥德赛》情有独钟",
