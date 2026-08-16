@@ -1,42 +1,12 @@
 {
-  "generated_at": "2026-08-16T22:19:16.089939+08:00",
-  "total_titles_processed": 1211,
+  "generated_at": "2026-08-17T02:23:03.813925+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 15,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "为什么国内无法观看 IMAX 70mm 胶片版《奥德赛》？",
-          "url": "https://www.zhihu.com/question/2064434098815374163",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时33分 ~ 22时19分]"
-        },
-        {
-          "title": "电视剧「蜗居」里的宋思明权力那么大，为什么没把海藻安排进体制内？",
-          "url": "https://www.zhihu.com/question/2070543205620258082",
-          "source": "知乎",
-          "ranks": [
-            17,
-            19,
-            18,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时17分 ~ 16时24分]"
-        },
         {
           "title": "中国为什么值得“反复探索”",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E5%80%BC%E5%BE%97%E2%80%9C%E5%8F%8D%E5%A4%8D%E6%8E%A2%E7%B4%A2%E2%80%9D",
@@ -46,71 +16,29 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时18分 ~ 22时19分]"
+          "time_info": "[02时22分 ~ 02时23分]"
         },
         {
           "title": "同样是独栋，为什么北美的独栋都有完备的设施，但国内农村做不到？",
           "url": "https://www.zhihu.com/question/2071306248780255535",
           "source": "知乎",
           "ranks": [
-            10,
-            8,
-            6,
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时23分 ~ 22时19分]"
-        },
-        {
-          "title": "李宗盛为什么口碑变差了?",
-          "url": "https://www.zhihu.com/question/388993745",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时24分 ~ 22时19分]"
-        },
-        {
-          "title": "历史正剧为什么越拍越少？",
-          "url": "https://www.zhihu.com/question/2063591493500134492",
-          "source": "知乎",
-          "ranks": [
-            12,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时56分 ~ 13时24分]"
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 02时23分]"
         },
         {
           "title": "为什么越南和印度也开始发钱「催生」了？此举能有效解决人口问题带来的挑战吗？",
           "url": "https://www.zhihu.com/question/2070635312297121770",
           "source": "知乎",
           "ranks": [
-            18,
-            8
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时31分 ~ 22时19分]"
-        },
-        {
-          "title": "为什么成绩好的学霸大多数都是早熟者？",
-          "url": "https://www.zhihu.com/question/2058865477712196520",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时33分 ~ 17时23分]"
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 02时23分]"
         },
         {
           "title": "《欢迎来龙餐馆》老扎为什么一直说菜咸了？有什么别的隐喻吗？",
@@ -121,75 +49,40 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时18分 ~ 22时19分]"
+          "time_info": "[02时22分 ~ 02时23分]"
         },
         {
-          "title": "我们为什么总是容易相信谣言",
-          "url": "https://www.toutiao.com/trending/7673730252652351017/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时17分 ~ 09时02分]"
-        },
-        {
-          "title": "我们为什么总是容易相信谣言",
-          "url": "https://www.baidu.com/s?wd=%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%BB%E6%98%AF%E5%AE%B9%E6%98%93%E7%9B%B8%E4%BF%A1%E8%B0%A3%E8%A8%80",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时17分 ~ 09时02分]"
-        },
-        {
-          "title": "我们为什么总是容易相信谣言",
-          "url": "https://www.douyin.com/hot/2610510",
-          "source": "抖音",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时17分 ~ 09时02分]"
-        },
-        {
-          "title": "陕西为什么叫「陕西」，而不叫「天东」、「巴北」或「鄂南」呢？",
-          "url": "https://www.zhihu.com/question/1908464657242513982",
+          "title": "为什么国内无法观看 IMAX 70mm 胶片版《奥德赛》？",
+          "url": "https://www.zhihu.com/question/2064434098815374163",
           "source": "知乎",
           "ranks": [
-            15,
-            18
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时24分 ~ 17时23分]"
+          "time_info": "[02时22分 ~ 02时23分]"
         },
         {
-          "title": "为什么上海人对《奥德赛》情有独钟",
-          "url": "https://www.toutiao.com/trending/7674256180629212713/",
-          "source": "今日头条",
+          "title": "李宗盛为什么口碑变差了?",
+          "url": "https://www.zhihu.com/question/388993745",
+          "source": "知乎",
           "ranks": [
-            12
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 02时23分]"
         },
         {
-          "title": "为什么中日韩三个国家长相非常类似语言却不属于同一个语系？",
-          "url": "https://www.zhihu.com/question/289965734",
+          "title": "为什么诺兰非要选《奥德赛》？这个故事和现代人有什么关系？",
+          "url": "https://www.zhihu.com/question/2070555651827131614",
           "source": "知乎",
           "ranks": [
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时31分"
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 02时23分]"
         }
       ]
     }
