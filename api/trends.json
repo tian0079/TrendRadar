@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T07:17:17.129163+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-16T09:02:57.945533+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 09时02分]"
         },
         {
           "title": "我们为什么总是容易相信谣言",
@@ -26,30 +26,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "为什么上海人对《奥德赛》情有独钟",
-          "url": "https://www.toutiao.com/trending/7674256180629212713/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 09时02分]"
         },
         {
           "title": "我们为什么总是容易相信谣言",
           "url": "https://www.douyin.com/hot/2610510",
           "source": "抖音",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 09时02分]"
         },
         {
           "title": "电视剧「蜗居」里的宋思明权力那么大，为什么没把海藻安排进体制内？",
@@ -57,6 +47,17 @@
           "source": "知乎",
           "ranks": [
             17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 09时02分]"
+        },
+        {
+          "title": "为什么上海人对《奥德赛》情有独钟",
+          "url": "https://www.toutiao.com/trending/7674256180629212713/",
+          "source": "今日头条",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
