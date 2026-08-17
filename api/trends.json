@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T10:22:52.649711+08:00",
-  "total_titles_processed": 645,
+  "generated_at": "2026-08-17T11:47:15.840006+08:00",
+  "total_titles_processed": 772,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "中国为什么值得“反复探索”",
@@ -42,6 +42,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时22分 ~ 04时18分]"
+        },
+        {
+          "title": "为什么说「围棋已死」而没有「象棋已死」的说法？",
+          "url": "https://www.zhihu.com/question/624290604",
+          "source": "知乎",
+          "ranks": [
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时00分 ~ 11时47分]"
         },
         {
           "title": "《欢迎来龙餐馆》老扎为什么一直说菜咸了？有什么别的隐喻吗？",
@@ -93,15 +105,26 @@
           "time_info": "[02时22分 ~ 03时20分]"
         },
         {
-          "title": "为什么说「围棋已死」而没有「象棋已死」的说法？",
-          "url": "https://www.zhihu.com/question/624290604",
+          "title": "猫能知道人为什么打「它」吗？",
+          "url": "https://www.zhihu.com/question/2068681744778367029",
           "source": "知乎",
           "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时00分 ~ 10时22分]"
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 11时47分]"
+        },
+        {
+          "title": "英语对中国人来说为什么这么难学？",
+          "url": "https://www.zhihu.com/question/550535086",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 11时47分]"
         },
         {
           "title": "美国为什么有中期选举",
@@ -110,7 +133,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         },
@@ -121,7 +144,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         }
