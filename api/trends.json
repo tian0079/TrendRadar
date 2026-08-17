@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T04:18:15.718726+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2026-08-17T09:01:39.726515+08:00",
+  "total_titles_processed": 548,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "中国为什么值得“反复探索”",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时22分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[02时22分 ~ 09时01分]"
         },
         {
           "title": "同样是独栋，为什么北美的独栋都有完备的设施，但国内农村做不到？",
@@ -91,6 +91,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时22分 ~ 03时20分]"
+        },
+        {
+          "title": "为什么说「围棋已死」而没有「象棋已死」的说法？",
+          "url": "https://www.zhihu.com/question/624290604",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时00分 ~ 09时01分]"
         }
       ]
     }
