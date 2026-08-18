@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-08-18T12:32:27.603013+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2026-08-18T13:25:37.210907+08:00",
+  "total_titles_processed": 577,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "特斯拉为什么不上新车型，不配置冰箱彩电大沙发？",
           "url": "https://www.zhihu.com/question/2065004542933067231",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时22分 ~ 12时32分]"
+          "appearance_count": 3,
+          "time_info": "[10时22分 ~ 13时25分]"
         },
         {
           "title": "美伊战争第 6 个月，为什么航母的水兵先撑不住了？",
@@ -24,11 +25,25 @@
           "source": "知乎",
           "ranks": [
             7,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时22分 ~ 12时32分]"
+          "appearance_count": 3,
+          "time_info": "[10时22分 ~ 13时25分]"
+        },
+        {
+          "title": "蓝盈莹：为什么要嘲笑有梦想的人",
+          "url": "https://www.douyin.com/hot/2613169",
+          "source": "抖音",
+          "ranks": [
+            22,
+            30,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时22分 ~ 13时25分]"
         },
         {
           "title": "为什么现在小区车位，越来越卖不动了？",
@@ -43,16 +58,15 @@
           "time_info": "[10时22分 ~ 12时32分]"
         },
         {
-          "title": "蓝盈莹：为什么要嘲笑有梦想的人",
-          "url": "https://www.douyin.com/hot/2613169",
-          "source": "抖音",
+          "title": "胖东来为什么无法复制",
+          "url": "https://www.toutiao.com/trending/7675200385551699519/",
+          "source": "今日头条",
           "ranks": [
-            22,
-            30
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时22分 ~ 12时32分]"
+          "time_info": "[12时32分 ~ 13时25分]"
         },
         {
           "title": "《射雕英雄传》中林朝英那么痴心，为什么感动不了王重阳？",
@@ -72,7 +86,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -83,9 +97,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        },
+        {
+          "title": "博主爆料 TI15 已经日薪 280 元请人暖场，为什么享受纯粹高水平游戏较量的观众这么少？",
+          "url": "https://www.zhihu.com/question/2072631801164424275",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         },
         {
           "title": "AI 泡沫会在今年或者明年破裂吗，为什么？",
@@ -99,15 +124,15 @@
           "time_info": "10时22分"
         },
         {
-          "title": "胖东来为什么无法复制",
-          "url": "https://www.toutiao.com/trending/7675200385551699519/",
-          "source": "今日头条",
+          "title": "《欢迎来龙餐馆》如果老扎真的是故意把车开去边防军那的，为什么又要假装杀了徐福呢？",
+          "url": "https://www.zhihu.com/question/2071580268717150741",
+          "source": "知乎",
           "ranks": [
-            19
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时32分"
+          "time_info": "13时25分"
         },
         {
           "title": "为什么哈利波特不把他每次遇到的坏人都直接用「阿瓦达索命」干掉?",
@@ -127,7 +152,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         }
