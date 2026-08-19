@@ -1,55 +1,33 @@
 {
-  "generated_at": "2026-08-19T23:31:28.812833+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-08-20T07:20:04.240642+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "冷知识 趣味科普 为什么 原理 冷门 趣闻 未解之谜",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
-          "title": "热门餐厅免费排号成黄牛牟利新赛道，有人 5 天赚 40 万，专家称无法精准打击，为什么？现行法律存在哪些漏洞？",
-          "url": "https://www.zhihu.com/question/2073144175378133602",
-          "source": "知乎",
+          "title": "为什么七夕朋友圈秀恩爱的变少了",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%83%E5%A4%95%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%A7%80%E6%81%A9%E7%88%B1%E7%9A%84%E5%8F%98%E5%B0%91%E4%BA%86&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时30分 ~ 23时31分]"
+          "time_info": "[07时19分 ~ 07时20分]"
         },
         {
           "title": "国产综艺为什么总是出现各种“学”",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E7%BB%BC%E8%89%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%BB%E6%98%AF%E5%87%BA%E7%8E%B0%E5%90%84%E7%A7%8D%E2%80%9C%E5%AD%A6%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            10
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时30分 ~ 23时31分]"
-        },
-        {
-          "title": "产出多部爆款电视剧的张若昀，为什么到了电影圈就不灵了？",
-          "url": "https://www.zhihu.com/question/2071591158199930951",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时30分 ~ 23时31分]"
-        },
-        {
-          "title": "美国长期国债收益率为什么持续新高",
-          "url": "https://www.toutiao.com/trending/7675716512816057910/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时30分 ~ 23时31分]"
+          "time_info": "[07时19分 ~ 07时20分]"
         }
       ]
     }
